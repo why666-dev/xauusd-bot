@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "builds": [{ "src": "xauusd_index.html", "use": "@vercel/static" }],
-  "routes": [{ "src": "/(.*)", "dest": "/xauusd_index.html" }]
+  "builds": [{ "src": "index.html", "use": "@vercel/static" }],
+  "routes": [{ "src": "/(.*)", "dest": "/index.html" }]
 }
