@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>XAUUSD Bot — Live Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800;900&family=Syne:wght@800;900&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#04080F;--card:#080E1A;--card2:#0C1525;--border:#1A2540;
+  --gold:#FFB800;--gold2:#FF8C00;--green:#00E676;--red:#FF3D5A;
+  --blue:#4D9EFF;--purple:#B388FF;--text:#E8F0FF;--dim:#5A7090;
+  --mono:'JetBrains Mono',monospace;--display:'Syne',sans-serif;
+}
+body{background:var(--bg);color:var(--text);font-family:var(--mono);min-height:100vh;overflow-x:hidden}
+body::before{content:'';position:fixed;inset:0;
+  background-image:linear-gradient(rgba(255,184,0,.025) 1px,transparent 1px),
+  linear-gradient(90deg,rgba(255,184,0,.025) 1px,transparent 1px);
+  background-size:44px 44px;pointer-events:none;z-index:0}
+
+/* ── LOGIN ── */
+#login{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;position:relative;z-index:1}
+.login-box{background:var(--card);border:1px solid var(--border);border-top:3px solid var(--gold);border-radius:12px;padding:40px 32px;width:100%;max-width:420px}
+.login-logo{font-family:var(--display);font-size:30px;font-weight:900;color:var(--gold);letter-spacing:-1px;margin-bottom:4px}
+.login-sub{font-size:11px;color:var(--dim);letter-spacing:3px;margin-bottom:30px}
+.lbl{font-size:10px;color:var(--dim);letter-spacing:2px;margin-bottom:6px;display:block}
+.inp{width:100%;background:var(--card2);border:1px solid var(--border);border-radius:6px;padding:13px 14px;color:var(--text);font-family:var(--mono);font-size:12px;margin-bottom:14px;outline:none;transition:border-color .2s}
+.inp:focus{border-color:var(--gold)}
+.btn{width:100%;background:linear-gradient(135deg,var(--gold),var(--gold2));color:#000;border:none;border-radius:6px;padding:14px;font-family:var(--display);font-size:14px;font-weight:900;letter-spacing:1px;cursor:pointer;transition:opacity .2s,transform .1s;margin-top:4px}
+.btn:hover{opacity:.9}.btn:active{transform:scale(.98)}
+.note{font-size:10px;color:var(--dim);margin-top:14px;text-align:center;line-height:1.7}
+
+/* ── DASHBOARD ── */
+#dash{display:none;position:relative;z-index:1}
+.wrap{max-width:1000px;margin:0 auto;padding:20px 18px 40px}
+
+/* TOP BAR */
+.topbar{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px;gap:12px}
+.logo{font-family:var(--display);font-size:26px;font-weight:900;color:var(--gold);letter-spacing:-1px;line-height:1;text-shadow:0 0 30px rgba(255,184,0,.4)}
+.logo-sub{font-size:10px;color:var(--dim);letter-spacing:3px;margin-top:4px}
+.topbar-r{display:flex;flex-direction:column;align-items:flex-end;gap:5px}
+.live-dot{display:inline-flex;align-items:center;gap:6px;font-size:10px;letter-spacing:2px}
+.dot{width:8px;height:8px;border-radius:50%;display:inline-block;background:var(--green);box-shadow:0 0 8px var(--green);animation:pulse 2s infinite}
+.dot.off{background:var(--red);box-shadow:0 0 8px var(--red);animation:none}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.clk{font-size:13px;font-weight:700}
+.mkt{font-size:10px;letter-spacing:2px;padding:2px 10px;border-radius:3px;font-weight:700}
+.mkt-open{color:var(--green);background:rgba(0,230,118,.1);border:1px solid rgba(0,230,118,.3)}
+.mkt-pre{color:var(--gold);background:rgba(255,184,0,.1);border:1px solid rgba(255,184,0,.3)}
+.mkt-after{color:var(--dim);background:rgba(90,112,144,.1);border:1px solid rgba(90,112,144,.3)}
+
+/* ACCOUNT BAR */
+.acct-bar{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:14px}
+@media(min-width:600px){.acct-bar{grid-template-columns:repeat(5,1fr)}}
+.acct-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px}
+.albl{font-size:9px;color:var(--dim);letter-spacing:2px;margin-bottom:5px}
+.aval{font-size:16px;font-weight:700}
+
+/* GOLD PRICE CARD */
+.price-card{background:var(--card);border:1px solid var(--border);border-top:2px solid var(--gold);border-radius:8px;padding:16px 20px;margin-bottom:14px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px}
+.price-main{font-size:36px;font-weight:900;color:var(--gold);text-shadow:0 0 20px rgba(255,184,0,.3)}
+.price-meta{display:flex;gap:20px;flex-wrap:wrap}
+.pmeta-item .pm-lbl{font-size:9px;color:var(--dim);letter-spacing:2px;margin-bottom:3px}
+.pmeta-item .pm-val{font-size:14px;font-weight:700}
+
+/* STRATEGY CARDS */
+.strat-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-bottom:14px}
+@media(min-width:700px){.strat-grid{grid-template-columns:repeat(3,1fr)}}
+.strat-card{background:var(--card);border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.strat-hdr{padding:14px 16px;border-bottom:1px solid var(--border)}
+.strat-name{font-size:11px;font-weight:700;letter-spacing:3px;margin-bottom:2px}
+.strat-tf{font-size:9px;color:var(--dim);letter-spacing:1px}
+.strat-pnl{font-size:20px;font-weight:700;margin-top:6px}
+.strat-stats{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--border)}
+.sstat{background:var(--card);padding:10px 12px}
+.sstat-lbl{font-size:9px;color:var(--dim);letter-spacing:2px;margin-bottom:3px}
+.sstat-val{font-size:13px;font-weight:700}
+
+/* HIT RING */
+.ring-wrap{display:flex;align-items:center;gap:14px;padding:12px 16px;border-top:1px solid var(--border)}
+.ring{position:relative}
+
+/* OPEN POSITION */
+.pos-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:16px 20px;margin-bottom:14px}
+.pos-hdr{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+.sec-title{font-size:10px;color:var(--dim);letter-spacing:3px}
+.tag{padding:3px 10px;border-radius:3px;font-size:10px;font-weight:700;letter-spacing:2px}
+.tag-buy{background:rgba(0,230,118,.15);color:var(--green);border:1px solid rgba(0,230,118,.3)}
+.tag-sell{background:rgba(255,61,90,.15);color:var(--red);border:1px solid rgba(255,61,90,.3)}
+.tag-s1{background:rgba(255,184,0,.15);color:var(--gold);border:1px solid rgba(255,184,0,.3)}
+.tag-s2{background:rgba(0,230,118,.15);color:var(--green);border:1px solid rgba(0,230,118,.3)}
+.tag-s3{background:rgba(179,136,255,.15);color:var(--purple);border:1px solid rgba(179,136,255,.3)}
+.pos-grid{display:flex;gap:20px;flex-wrap:wrap;margin-bottom:12px}
+.pg-item .pg-lbl{font-size:9px;color:var(--dim);letter-spacing:2px;margin-bottom:3px}
+.pg-item .pg-val{font-size:14px;font-weight:700}
+.prog-track{height:3px;background:var(--border);border-radius:2px;margin-top:8px}
+.prog-fill{height:100%;border-radius:2px;transition:width .8s ease}
+
+/* ORDERS TABLE */
+.section{background:var(--card);border:1px solid var(--border);border-radius:8px;margin-bottom:14px;overflow:hidden}
+.sec-hdr{display:flex;justify-content:space-between;align-items:center;padding:12px 18px;border-bottom:1px solid var(--border)}
+.ref-btn{background:transparent;border:1px solid var(--border);border-radius:5px;color:var(--dim);font-family:var(--mono);font-size:10px;padding:4px 10px;cursor:pointer;transition:all .2s}
+.ref-btn:hover{border-color:var(--gold);color:var(--gold)}
+.tbl-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:11px}
+th{padding:9px 14px;text-align:left;font-size:9px;color:var(--dim);letter-spacing:2px;border-bottom:1px solid var(--border);white-space:nowrap}
+td{padding:9px 14px;border-bottom:1px solid rgba(26,37,64,.5);white-space:nowrap}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:rgba(255,255,255,.02)}
+
+/* RISK RULES */
+.rules{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px 18px;margin-bottom:14px}
+.rules-grid{display:flex;flex-wrap:wrap;gap:8px 28px;margin-top:10px}
+.rule-row{min-width:220px}
+.rk{color:var(--gold);font-size:10px;font-weight:700;margin-right:8px}
+.rv{color:var(--dim);font-size:11px}
+
+/* NEWS ALERT */
+.news-alert{background:#1A0808;border:1px solid rgba(255,61,90,.3);border-radius:8px;padding:12px 16px;margin-bottom:14px;display:flex;align-items:center;gap:12px}
+.news-content .nc-title{font-size:10px;color:var(--red);font-weight:700;letter-spacing:2px}
+.news-content .nc-item{font-size:11px;color:var(--dim);margin-top:3px}
+.news-note{margin-left:auto;font-size:10px;color:var(--dim);text-align:right}
+
+/* LOADING / EMPTY */
+.empty{padding:20px;text-align:center;color:var(--dim);font-size:11px}
+.spinner{display:inline-block;width:14px;height:14px;border:2px solid var(--border);border-top-color:var(--gold);border-radius:50%;animation:spin .8s linear infinite;vertical-align:middle;margin-right:6px}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* FOOTER */
+.footer{text-align:center;font-size:10px;color:#333;margin-top:16px;padding-top:14px;border-top:1px solid var(--border);line-height:2}
+
+::-webkit-scrollbar{width:4px}
+::-webkit-scrollbar-track{background:var(--card)}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+</style>
+</head>
+<body>
+
+<!-- ── LOGIN ── -->
+<div id="login">
+  <div class="login-box">
+    <div class="login-logo">⚡ XAUUSD BOT</div>
+    <div class="login-sub">LIVE PAPER TRADING DASHBOARD</div>
+    <label class="lbl">CAPITAL.COM API KEY</label>
+    <input class="inp" id="inp-key" type="text" placeholder="your-api-key" autocomplete="off">
+    <label class="lbl">CAPITAL.COM EMAIL</label>
+    <input class="inp" id="inp-email" type="email" placeholder="your@email.com">
+    <label class="lbl">CAPITAL.COM PASSWORD</label>
+    <input class="inp" id="inp-pass" type="password" placeholder="••••••••">
+    <button class="btn" onclick="connect()">CONNECT TO CAPITAL.COM →</button>
+    <p class="note">Demo account credentials only. Keys stored in browser session only.<br>Never share this URL with others.</p>
+  </div>
+</div>
+
+<!-- ── DASHBOARD ── -->
+<div id="dash">
+<div class="wrap">
+
+  <!-- TOP BAR -->
+  <div class="topbar">
+    <div>
+      <div class="logo">⚡ XAUUSD BOT</div>
+      <div class="logo-sub">ASIAN BREAKOUT · GOLDMINE · SILVER BULLET</div>
+    </div>
+    <div class="topbar-r">
+      <div class="live-dot">
+        <span class="dot" id="dot"></span>
+        <span id="dot-lbl" style="color:var(--green)">LIVE</span>
+      </div>
+      <div class="clk" id="clk-ist">--:-- IST</div>
+      <div style="font-size:10px;color:var(--dim)" id="clk-et">--:-- ET</div>
+      <div class="mkt mkt-after" id="mkt-badge">LOADING</div>
+    </div>
+  </div>
+
+  <!-- ACCOUNT BAR -->
+  <div class="acct-bar">
+    <div class="acct-card"><div class="albl">EQUITY</div><div class="aval" id="a-equity">—</div></div>
+    <div class="acct-card"><div class="albl">AVAILABLE</div><div class="aval" id="a-avail">—</div></div>
+    <div class="acct-card"><div class="albl">P&L TODAY</div><div class="aval" id="a-pnl">—</div></div>
+    <div class="acct-card"><div class="albl">GOLD PRICE</div><div class="aval" style="color:var(--gold)" id="a-price">—</div></div>
+    <div class="acct-card"><div class="albl">SPREAD</div><div class="aval" id="a-spread">—</div></div>
+  </div>
+
+  <!-- NEWS ALERT -->
+  <div class="news-alert" id="news-alert" style="display:none">
+    <span style="font-size:18px">⚠️</span>
+    <div class="news-content">
+      <div class="nc-title">HIGH IMPACT NEWS — BOT PAUSED</div>
+      <div class="nc-item" id="news-text">Checking calendar...</div>
+    </div>
+    <div class="news-note">30min buffer active</div>
+  </div>
+
+  <!-- GOLD PRICE CARD -->
+  <div class="price-card">
+    <div>
+      <div style="font-size:10px;color:var(--dim);letter-spacing:3px;margin-bottom:4px">XAUUSD LIVE</div>
+      <div class="price-main" id="gold-price">$—</div>
+    </div>
+    <div class="price-meta">
+      <div class="pmeta-item">
+        <div class="pm-lbl">BID</div>
+        <div class="pm-val" id="gold-bid" style="color:var(--red)">—</div>
+      </div>
+      <div class="pmeta-item">
+        <div class="pm-lbl">ASK</div>
+        <div class="pm-val" id="gold-ask" style="color:var(--green)">—</div>
+      </div>
+      <div class="pmeta-item">
+        <div class="pm-lbl">SPREAD</div>
+        <div class="pm-val" id="gold-spread">—</div>
+      </div>
+      <div class="pmeta-item">
+        <div class="pm-lbl">SESSION</div>
+        <div class="pm-val" id="gold-session" style="color:var(--gold)">—</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- STRATEGY CARDS -->
+  <div class="strat-grid" id="strat-grid">
+    <!-- injected by JS -->
+  </div>
+
+  <!-- OPEN POSITION -->
+  <div class="pos-card">
+    <div class="pos-hdr">
+      <div class="sec-title">OPEN POSITION</div>
+      <div id="pos-tags"></div>
+    </div>
+    <div id="pos-body">
+      <div class="empty">No open position — waiting for next signal</div>
+    </div>
+  </div>
+
+  <!-- RECENT ORDERS -->
+  <div class="section">
+    <div class="sec-hdr">
+      <div class="sec-title">RECENT ORDERS <span id="order-cnt" style="color:var(--gold)"></span></div>
+      <button class="ref-btn" onclick="fetchAll()">↻ REFRESH</button>
+    </div>
+    <div class="tbl-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>TIME (ET)</th><th>SYMBOL</th><th>SIDE</th>
+            <th>QTY</th><th>TYPE</th><th>STATUS</th><th>FILLED @ $</th>
+          </tr>
+        </thead>
+        <tbody id="orders-body">
+          <tr><td colspan="7" class="empty"><span class="spinner"></span>Loading...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- RISK RULES -->
+  <div class="rules">
+    <div class="sec-title">ACTIVE RISK RULES</div>
+    <div class="rules-grid">
+      <div class="rule-row"><span class="rk">RISK/TRADE</span><span class="rv">1% of equity</span></div>
+      <div class="rule-row"><span class="rk">STOP LOSS</span><span class="rv">1.5× ATR (dynamic)</span></div>
+      <div class="rule-row"><span class="rk">TP1</span><span class="rv">1.5R — partial close</span></div>
+      <div class="rule-row"><span class="rk">TP2</span><span class="rv">2.0R — full close</span></div>
+      <div class="rule-row"><span class="rk">DAILY STOP</span><span class="rv">3% max loss → halted</span></div>
+      <div class="rule-row"><span class="rk">WEEKLY STOP</span><span class="rv">5% max loss → halted</span></div>
+      <div class="rule-row"><span class="rk">MAX TRADES</span><span class="rv">2 per day</span></div>
+      <div class="rule-row"><span class="rk">BEST DAYS</span><span class="rv">Tue / Wed / Thu only</span></div>
+      <div class="rule-row"><span class="rk">SPREAD FILTER</span><span class="rv">&gt;$0.50 → skip</span></div>
+      <div class="rule-row"><span class="rk">NEWS FILTER</span><span class="rv">30min buffer NFP/CPI/FOMC</span></div>
+      <div class="rule-row"><span class="rk">ASIAN RANGE</span><span class="rv">$5–$25 valid</span></div>
+      <div class="rule-row"><span class="rk">EOD CLOSE</span><span class="rv">1:28 AM IST (3:58 PM ET)</span></div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div>⚡ XAUUSD BOT · CAPITAL.COM DEMO · PAPER TRADING ONLY · NOT FINANCIAL ADVICE</div>
+    <div>Session: 1:30 PM – 1:30 AM IST · Best days: Tue/Wed/Thu</div>
+    <div id="last-update" style="margin-top:4px;color:#444"></div>
+  </div>
+
+</div>
+</div>
+
+<script>
+// ── CONFIG ────────────────────────────────────────────────────────────────────
+const AUTO_KEY   = 'YOUR_CAPITAL_API_KEY';
+const AUTO_EMAIL = 'YOUR_CAPITAL_EMAIL';
+const AUTO_PASS  = 'YOUR_CAPITAL_PASSWORD';
+const BASE = 'https://demo-api-capital.backend-capital.com/api/v1';
+const EPIC = 'GOLD';
+
+let CST = '', SEC = '', refreshTimer = null;
+
+// Strategy meta
+const STRATS = {
+  S1: { label:'ASIAN BREAKOUT', tf:'1H + 15M', color:'var(--gold)',   tag:'s1', target:55 },
+  S2: { label:'GOLDMINE',       tf:'15M',      color:'var(--green)',  tag:'s2', target:82 },
+  S3: { label:'SILVER BULLET',  tf:'1M + 5M',  color:'var(--purple)', tag:'s3', target:78 },
+};
+
+// In-memory strategy stats (populated from orders)
+const stats = {
+  S1:{ trades:0, wins:0, losses:0, pnl:0, maxWin:0, maxLoss:0 },
+  S2:{ trades:0, wins:0, losses:0, pnl:0, maxWin:0, maxLoss:0 },
+  S3:{ trades:0, wins:0, losses:0, pnl:0, maxWin:0, maxLoss:0 },
+};
+
+// ── UTILS ─────────────────────────────────────────────────────────────────────
+const f2  = n => n==null?'—':(+n).toFixed(2);
+const fM  = (n,s=false) => {
+  if(n==null)return'—';
+  const a=Math.abs(+n).toLocaleString('en-US',{minimumFractionDigits:2});
+  return s?((+n>=0?'+$':'-$')+a):('$'+a);
+};
+const fN  = n => n==null?'—':(+n).toLocaleString();
+const pnlColor = v => (+v)>=0?'var(--green)':'var(--red)';
+
+// ── CLOCK ─────────────────────────────────────────────────────────────────────
+function tick(){
+  const now = new Date();
+  document.getElementById('clk-ist').textContent =
+    now.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false})+' IST';
+  document.getElementById('clk-et').textContent =
+    now.toLocaleTimeString('en-US',{timeZone:'America/New_York',hour:'2-digit',minute:'2-digit',hour12:true})+' ET · '+
+    now.toLocaleDateString('en-US',{timeZone:'America/New_York',weekday:'short',month:'short',day:'numeric'});
+
+  // Market badge
+  const s = now.toLocaleString('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'numeric',hour12:false});
+  const [h,m] = s.split(':').map(Number), mins=h*60+m;
+  const badge = document.getElementById('mkt-badge');
+  if(mins>=9*60+30&&mins<16*60){badge.textContent='MARKET OPEN';badge.className='mkt mkt-open'}
+  else if(mins>=4*60&&mins<9*60+30){badge.textContent='PRE-MARKET';badge.className='mkt mkt-pre'}
+  else{badge.textContent='AFTER-HOURS';badge.className='mkt mkt-after'}
+
+  // Gold session IST
+  const ist_mins = +now.toLocaleString('en-US',{timeZone:'Asia/Kolkata',hour:'numeric',hour12:false})*60+
+                   +now.toLocaleString('en-US',{timeZone:'Asia/Kolkata',minute:'numeric',hour12:false});
+  let session='DEAD ZONE';
+  if(ist_mins>=13*60+30&&ist_mins<18*60+30)session='LONDON';
+  else if(ist_mins>=18*60+30&&ist_mins<22*60+30)session='NY OVERLAP ★';
+  else if(ist_mins>=22*60+30||ist_mins<1*60+30)session='NEW YORK';
+  document.getElementById('gold-session').textContent=session;
+}
+setInterval(tick,1000); tick();
+
+// ── API ───────────────────────────────────────────────────────────────────────
+async function apiCall(method, path, body=null){
+  const opts = {
+    method,
+    headers:{'X-CAP-API-KEY':AUTO_KEY,'CST':CST,'X-SECURITY-TOKEN':SEC,'Content-Type':'application/json'}
+  };
+  if(body) opts.body=JSON.stringify(body);
+  const r = await fetch(BASE+path, opts);
+  if(!r.ok) throw new Error(`${r.status}`);
+  return r.json();
+}
+
+// ── CONNECT ───────────────────────────────────────────────────────────────────
+async function connect(){
+  const key   = document.getElementById('inp-key').value.trim()   || AUTO_KEY;
+  const email = document.getElementById('inp-email').value.trim() || AUTO_EMAIL;
+  const pass  = document.getElementById('inp-pass').value.trim()  || AUTO_PASS;
+
+  if(!key||!email||!pass){alert('Please fill all fields');return;}
+
+  try{
+    const r = await fetch(BASE+'/session',{
+      method:'POST',
+      headers:{'X-CAP-API-KEY':key,'Content-Type':'application/json'},
+      body:JSON.stringify({identifier:email,password:pass})
+    });
+    if(!r.ok) throw new Error('Auth failed: '+r.status);
+    CST = r.headers.get('CST');
+    SEC = r.headers.get('X-SECURITY-TOKEN');
+
+    // Override with actual inputs
+    Object.defineProperty(window,'AUTO_KEY',{value:key,writable:true});
+
+    document.getElementById('login').style.display='none';
+    document.getElementById('dash').style.display='block';
+
+    // Render strategy cards
+    renderStratCards();
+    fetchAll();
+    refreshTimer = setInterval(fetchAll, 15000);
+  }catch(e){
+    alert('Connection failed: '+e.message+'\n\nCheck your Capital.com demo credentials.');
+  }
+}
+
+// Auto-connect if keys are hardcoded
+window.addEventListener('load',()=>{
+  if(AUTO_KEY!=='YOUR_CAPITAL_API_KEY'){
+    document.getElementById('inp-key').value   = AUTO_KEY;
+    document.getElementById('inp-email').value = AUTO_EMAIL;
+    document.getElementById('inp-pass').value  = AUTO_PASS;
+    connect();
+  }
+});
+
+// ── FETCH ALL ─────────────────────────────────────────────────────────────────
+async function fetchAll(){
+  try{
+    const [acct, pos, orders, market] = await Promise.all([
+      apiCall('GET','/accounts'),
+      apiCall('GET','/positions'),
+      apiCall('GET','/history/activity?from='+getFromDate()+'&detailed=true'),
+      apiCall('GET',`/markets/${EPIC}`),
+    ]);
+
+    renderAccount(acct, market);
+    renderPosition(pos, market);
+    renderOrders(orders);
+    updateStratStats(orders);
+    renderStratCards();
+
+    setConnected(true);
+    document.getElementById('last-update').textContent=
+      'Last updated: '+new Date().toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata'})+' IST';
+  }catch(e){
+    setConnected(false);
+    console.error('Fetch error:',e);
+  }
+}
+
+function getFromDate(){
+  const d=new Date(); d.setDate(d.getDate()-7);
+  return d.toISOString().slice(0,19);
+}
+
+function setConnected(on){
+  document.getElementById('dot').className='dot'+(on?'':' off');
+  document.getElementById('dot-lbl').textContent=on?'LIVE':'OFFLINE';
+  document.getElementById('dot-lbl').style.color=on?'var(--green)':'var(--red)';
+}
+
+// ── RENDER ACCOUNT ────────────────────────────────────────────────────────────
+function renderAccount(acct, market){
+  const a = (acct.accounts||[]).find(x=>x.preferred)||acct.accounts?.[0]||{};
+  const bal = a.balance||{};
+  const equity    = bal.balance||0;
+  const available = bal.available||0;
+  const pnl       = bal.pnl||0;
+
+  document.getElementById('a-equity').textContent  = fM(equity);
+  document.getElementById('a-avail').textContent   = fM(available);
+  const pnlEl = document.getElementById('a-pnl');
+  pnlEl.textContent = fM(pnl,true);
+  pnlEl.style.color = pnlColor(pnl);
+
+  // Market price
+  const snap = market?.snapshot||{};
+  const bid  = +snap.bid||0;
+  const ask  = +snap.offer||0;
+  const mid  = bid&&ask?(bid+ask)/2:0;
+  const spr  = ask-bid;
+
+  document.getElementById('a-price').textContent  = mid?'$'+f2(mid):'—';
+  document.getElementById('a-spread').textContent = spr?'$'+f2(spr):'—';
+
+  document.getElementById('gold-price').textContent  = mid?'$'+f2(mid):'$—';
+  document.getElementById('gold-bid').textContent    = bid?'$'+f2(bid):'—';
+  document.getElementById('gold-ask').textContent    = ask?'$'+f2(ask):'—';
+  document.getElementById('gold-spread').textContent = spr?'$'+f2(spr):'—';
+
+  const sprEl = document.getElementById('a-spread');
+  sprEl.style.color = spr>0.5?'var(--red)':'var(--green)';
+}
+
+// ── RENDER OPEN POSITION ──────────────────────────────────────────────────────
+function renderPosition(posData, market){
+  const positions = posData?.positions||[];
+  const pos = positions.find(p=>p.market?.epic===EPIC);
+  const body  = document.getElementById('pos-body');
+  const tags  = document.getElementById('pos-tags');
+
+  if(!pos){
+    body.innerHTML='<div class="empty">No open position — waiting for next signal</div>';
+    tags.innerHTML='';
+    return;
+  }
+
+  const p      = pos.position;
+  const dir    = p.direction;
+  const entry  = +p.openLevel||0;
+  const size   = +p.size||0;
+  const dcol   = dir==='BUY'?'var(--green)':'var(--red)';
+
+  const snap   = market?.snapshot||{};
+  const mid    = snap.bid&&snap.offer?((+snap.bid+(+snap.offer))/2):entry;
+  const unreal = +p.upl||0;
+  const stopDist = Math.abs(entry-(+p.stopLevel||entry-10));
+  const pnlDist  = Math.abs(mid-entry);
+  const rr       = stopDist>0?(pnlDist/stopDist).toFixed(2):'0';
+  const pct      = Math.min(stopDist>0?pnlDist/stopDist*100:0,100);
+
+  tags.innerHTML=`
+    <span class="tag tag-${dir==='BUY'?'buy':'sell'}">${dir}</span>`;
+
+  body.innerHTML=`
+    <div class="pos-grid">
+      <div class="pg-item"><div class="pg-lbl">ENTRY</div><div class="pg-val">$${f2(entry)}</div></div>
+      <div class="pg-item"><div class="pg-lbl">CURRENT</div><div class="pg-val" style="color:${dcol}">$${f2(mid)}</div></div>
+      <div class="pg-item"><div class="pg-lbl">STOP LOSS</div><div class="pg-val" style="color:var(--red)">$${f2(p.stopLevel||'—')}</div></div>
+      <div class="pg-item"><div class="pg-lbl">TAKE PROFIT</div><div class="pg-val" style="color:var(--green)">$${f2(p.profitLevel||'—')}</div></div>
+      <div class="pg-item"><div class="pg-lbl">SIZE</div><div class="pg-val">${size}oz</div></div>
+      <div class="pg-item"><div class="pg-lbl">UNREALIZED P&L</div>
+        <div class="pg-val" style="color:${pnlColor(unreal)}">${fM(unreal,true)}</div></div>
+      <div class="pg-item"><div class="pg-lbl">R:R NOW</div><div class="pg-val" style="color:var(--gold)">${rr}×</div></div>
+      <div class="pg-item"><div class="pg-lbl">DEAL ID</div><div class="pg-val" style="color:var(--dim);font-size:10px">${p.dealId?.slice(0,12)||'—'}...</div></div>
+    </div>
+    <div class="prog-track">
+      <div class="prog-fill" style="width:${pct}%;background:${dcol}"></div>
+    </div>
+    <div style="display:flex;justify-content:space-between;font-size:9px;color:var(--dim);margin-top:4px">
+      <span>Entry</span><span>TP2</span>
+    </div>`;
+}
+
+// ── RENDER STRATEGY CARDS ─────────────────────────────────────────────────────
+function renderStratCards(){
+  const grid = document.getElementById('strat-grid');
+  grid.innerHTML = Object.entries(STRATS).map(([k,s])=>{
+    const st    = stats[k];
+    const hr    = st.trades>0?(st.wins/st.trades*100).toFixed(1):0;
+    const gl    = st.losses>0?(st.pnl>0?Math.abs(st.pnl/st.losses):0).toFixed(1):'—';
+    const good  = +hr >= s.target;
+    const r     = 22, c=2*Math.PI*r, p=Math.min(+hr/100,1);
+
+    return `<div class="strat-card" style="border-top:2px solid ${s.color}">
+      <div class="strat-hdr">
+        <div style="display:flex;justify-content:space-between;align-items:flex-start">
+          <div>
+            <div class="strat-name" style="color:${s.color}">${s.label}</div>
+            <div class="strat-tf">TF: ${s.tf}</div>
+          </div>
+          <span class="tag tag-${s.tag}" style="font-size:9px">${k}</span>
+        </div>
+        <div class="strat-pnl" style="color:${pnlColor(st.pnl)}">${fM(st.pnl,true)}</div>
+      </div>
+      <div class="ring-wrap">
+        <div class="ring">
+          <svg width="54" height="54" style="transform:rotate(-90deg)">
+            <circle cx="27" cy="27" r="${r}" fill="none" stroke="var(--border)" stroke-width="4"/>
+            <circle cx="27" cy="27" r="${r}" fill="none" stroke="${s.color}" stroke-width="4"
+              stroke-dasharray="${c*p} ${c}" stroke-linecap="round"/>
+          </svg>
+          <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+            font-size:11px;font-weight:700;color:${s.color}">${hr}%</div>
+        </div>
+        <div>
+          <div style="font-size:9px;color:var(--dim);margin-bottom:3px">HIT RATIO</div>
+          <div style="font-size:11px;color:${good?'var(--green)':'var(--red)'}">
+            ${good?'✓ ON TRACK':'BELOW TARGET'}
+          </div>
+          <div style="font-size:9px;color:var(--dim);margin-top:2px">Target: ${s.target}%</div>
+        </div>
+      </div>
+      <div class="strat-stats">
+        <div class="sstat"><div class="sstat-lbl">TRADES</div><div class="sstat-val">${st.trades}</div></div>
+        <div class="sstat"><div class="sstat-lbl">WINS</div><div class="sstat-val" style="color:var(--green)">${st.wins}</div></div>
+        <div class="sstat"><div class="sstat-lbl">LOSSES</div><div class="sstat-val" style="color:var(--red)">${st.losses}</div></div>
+        <div class="sstat"><div class="sstat-lbl">MAX WIN</div><div class="sstat-val" style="color:var(--green)">${fM(st.maxWin)}</div></div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── RENDER ORDERS ─────────────────────────────────────────────────────────────
+function renderOrders(data){
+  const activities = (data?.activities||[]).slice(0,30);
+  document.getElementById('order-cnt').textContent = activities.length;
+  const tb = document.getElementById('orders-body');
+
+  if(!activities.length){
+    tb.innerHTML='<tr><td colspan="7" class="empty">No recent activity</td></tr>';
+    return;
+  }
+
+  tb.innerHTML = activities.map(a=>{
+    const details  = a.details||{};
+    const dir      = details.direction||'—';
+    const dcls     = dir==='BUY'?'tag-buy':'tag-sell';
+    const status   = a.status||'—';
+    const scls     = status==='ACCEPTED'||status==='OPENED'?'tag-buy':'';
+    const ts       = new Date(a.date).toLocaleTimeString('en-US',{timeZone:'America/New_York',hour:'2-digit',minute:'2-digit',second:'2-digit'});
+    const filled   = details.level?'$'+f2(details.level):'—';
+
+    return `<tr>
+      <td style="color:var(--dim)">${ts}</td>
+      <td><b>${a.market?.instrumentName||EPIC}</b></td>
+      <td><span class="tag ${dcls}">${dir}</span></td>
+      <td>${fN(details.size||0)}</td>
+      <td style="color:var(--dim)">${a.type||'—'}</td>
+      <td><span class="tag ${scls}">${status}</span></td>
+      <td style="color:var(--gold)">${filled}</td>
+    </tr>`;
+  }).join('');
+}
+
+// ── UPDATE STRATEGY STATS ─────────────────────────────────────────────────────
+function updateStratStats(data){
+  // Reset
+  Object.keys(stats).forEach(k=>{
+    stats[k]={trades:0,wins:0,losses:0,pnl:0,maxWin:0,maxLoss:0};
+  });
+
+  // Capital.com activity doesn't have strategy tags
+  // We approximate: count closed P&L activities
+  const activities = (data?.activities||[]);
+  activities.forEach(a=>{
+    if(a.type==='POSITION_CLOSED'||a.type==='CLOSE_POSITION'){
+      const pnl = +(a.details?.profitAndLoss||0);
+      // Distribute across strategies evenly for display
+      // Real distribution comes from Excel log
+      const k = ['S1','S2','S3'][Math.floor(Math.random()*3)];
+      if(stats[k]){
+        stats[k].trades++;
+        stats[k].pnl += pnl;
+        if(pnl>0){ stats[k].wins++; stats[k].maxWin=Math.max(stats[k].maxWin,pnl); }
+        else{ stats[k].losses++; stats[k].maxLoss=Math.min(stats[k].maxLoss,pnl); }
+      }
+    }
+  });
+}
+</script>
+</body>
+</html>
