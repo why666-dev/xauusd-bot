@@ -416,16 +416,16 @@ class XAUUSDBot:
             while self.running:
                 now_ist = datetime.now(IST)
                 h, m    = now_ist.hour, now_ist.minute
-                # Close at 1:28 AM IST (= 3:58 PM ET)
-                if h == 1 and m >= 28 and not fired:
+                # Close at 1:25 AM IST (= 3:55 PM ET) — 5-min buffer
+                if h == 1 and m >= 25 and not fired:  # 5-min buffer = 1:25 AM IST
                     self.end_of_day()
                     fired = True
-                if not (h == 1 and m >= 28):
+                if not (h == 1 and m >= 25):
                     fired = False
                 time.sleep(1)
 
         threading.Thread(target=eod_watchdog, daemon=True).start()
-        log.info("EOD watchdog started — closes at 1:28 AM IST")
+        log.info("EOD watchdog started — closes at 1:25 AM IST (5-min buffer)")
 
         while self.running:
             try:
