@@ -22,9 +22,9 @@ ATR_STOP_MULT       = 1.5     # SL = 1.5 × ATR
 TP1_RR              = 1.5     # TP1 at 1.5R
 TP2_RR              = 2.0     # TP2 at 2.0R
 BREAKEVEN_RR        = 1.0     # Move SL to BE at 1R
-MIN_ASIAN_RANGE     = 5.0     # Skip if range < $5
-MAX_ASIAN_RANGE     = 25.0    # Skip if range > $25
-MAX_SPREAD          = 0.50    # Skip if spread > $0.50
+MIN_ASIAN_RANGE     = 10.0     # Skip if range < $5
+MAX_ASIAN_RANGE     = 200.0    # Skip if range > $25
+MAX_SPREAD          = 2.0    # Skip if spread > $0.50
 
 
 class RiskManager:
