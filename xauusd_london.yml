@@ -1,0 +1,85 @@
+name: XAUUSD Bot — London Session (1:25 PM – 7:15 PM IST)
+
+on:
+  schedule:
+    - cron: "55 7 * * 2-4"   # Tue/Wed/Thu only — 1:25 PM IST
+  workflow_dispatch:
+
+jobs:
+  run-bot-london:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350      # 5h 50min — under GitHub's 360 hard cap
+
+    permissions:
+      contents: write
+
+    env:
+      CAPITAL_API_KEY:       ${{ secrets.CAPITAL_API_KEY }}
+      CAPITAL_EMAIL:         ${{ secrets.CAPITAL_EMAIL }}
+      CAPITAL_PASSWORD:      ${{ secrets.CAPITAL_PASSWORD }}
+      TWELVE_DATA_API_KEY:   ${{ secrets.TWELVE_DATA_API_KEY }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Pull latest Excel (carry-forward trades from previous session)
+        run: |
+          git pull origin main --rebase || true
+          ls -lh xauusd_trades.xlsx 2>/dev/null && echo "✅ Excel found" || echo "ℹ️ No Excel yet — will create fresh"
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Confirm Capital.com connection
+        run: |
+          python - << 'PYEOF'
+          import os, requests
+          r = requests.post(
+            "https://demo-api-capital.backend-capital.com/api/v1/session",
+            headers={"X-CAP-API-KEY": os.environ["CAPITAL_API_KEY"], "Content-Type": "application/json"},
+            json={"identifier": os.environ["CAPITAL_EMAIL"], "password": os.environ["CAPITAL_PASSWORD"]},
+            timeout=15
+          )
+          r.raise_for_status()
+          print(f"✅ Capital.com connected | {r.status_code}")
+          PYEOF
+
+      - name: Run XAUUSD Bot — London Session
+        run: python main.py
+
+      - name: Save Excel + Logs permanently to repo
+        if: always()
+        run: |
+          git config user.name  "xauusd-bot[actions]"
+          git config user.email "bot@xauusd-bot"
+
+          # Pull latest before push to avoid conflicts with NY session
+          git pull origin main --rebase || true
+
+          git add -f xauusd_trades.xlsx xauusd_bot.log xauusd_state.json 2>/dev/null || true
+
+          git diff --cached --quiet && echo "No changes to commit" || (
+            git commit -m "📊 London session — $(date +'%Y-%m-%d')" &&
+            git push origin main
+          )
+
+      - name: Upload as Artifact (30-day backup)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: london-${{ github.run_number }}-${{ github.run_attempt }}
+          path: |
+            xauusd_trades.xlsx
+            xauusd_bot.log
+          retention-days: 30
+          if-no-files-found: warn
