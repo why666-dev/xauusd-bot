@@ -392,13 +392,18 @@ async function connect(){
   }
 }
 
-// Auto-connect if keys are hardcoded
+// Auto-connect using localStorage — enter once, remembered forever
 window.addEventListener('load',()=>{
-  if(AUTO_KEY!=='YOUR_CAPITAL_API_KEY'){
-    document.getElementById('inp-key').value   = AUTO_KEY;
-    document.getElementById('inp-email').value = AUTO_EMAIL;
-    document.getElementById('inp-pass').value  = AUTO_PASS;
-    connect();
+  const savedKey   = localStorage.getItem('cap_key')   || AUTO_KEY;
+  const savedEmail = localStorage.getItem('cap_email') || AUTO_EMAIL;
+  const savedPass  = localStorage.getItem('cap_pass')  || AUTO_PASS;
+
+  document.getElementById('inp-key').value   = savedKey;
+  document.getElementById('inp-email').value = savedEmail;
+  document.getElementById('inp-pass').value  = savedPass;
+
+  if(savedKey && savedKey !== 'YOUR_CAPITAL_API_KEY'){
+    connect();  // auto-connect silently
   }
 });
 
