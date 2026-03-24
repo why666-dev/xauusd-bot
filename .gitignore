@@ -1,0 +1,33 @@
+# Environment — NEVER commit API keys
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Bot runtime files — committed intentionally by workflow, not manually
+# Uncomment these lines if you want to EXCLUDE them from manual commits
+# xauusd_trades.xlsx
+# xauusd_bot.log
+# xauusd_state.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
