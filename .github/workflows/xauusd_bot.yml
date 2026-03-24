@@ -2,20 +2,13 @@ name: XAUUSD Bot — Live Paper Trading
 
 on:
   schedule:
-    # ── US MARKET SCHEDULE (public repo = unlimited minutes) ──
-    # XAUUSD trades London+NY overlap — starts at London open
-    # London open: 8:00 AM GMT = 1:30 PM IST → start 1:25 PM IST
-    # EDT (Summer): London 8:00 AM GMT = 8:00 AM UTC → start 7:55 AM UTC
-    - cron: "55 7 * * 1-5"    # EDT — Mar to Nov
-    # EST (Winter): London 8:00 AM GMT = 8:00 AM UTC (same — London doesn't change)
-    # NY close: 4:05 PM ET + 5min = ends ~10:05 PM UTC
-    # Total runtime: ~14h 10min → need 870 min timeout
+    - cron: "55 7 * * 1-5"    # London open — 1:25 PM IST
   workflow_dispatch:
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    timeout-minutes: 480       # 8 hours — covers full London+NY session
+    timeout-minutes: 480
 
     env:
       CAPITAL_API_KEY:       ${{ secrets.CAPITAL_API_KEY }}
@@ -56,3 +49,14 @@ jobs:
 
       - name: Run XAUUSD Bot
         run: python main.py
+
+      - name: Upload Trade Log Excel
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: xauusd-trades-${{ github.run_number }}
+          path: |
+            xauusd_trades.xlsx
+            xauusd_bot.log
+          retention-days: 30
+          if-no-files-found: warn
