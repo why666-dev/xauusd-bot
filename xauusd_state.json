@@ -2,12 +2,12 @@
   "stats": {
     "S1_Asian_Breakout": {
       "name": "S1_Asian_Breakout",
-      "trades": 12,
+      "trades": 13,
       "wins": 5,
-      "losses": 7,
-      "gross_pnl": -19374.99999999909,
-      "net_pnl": -19375.599999999078,
-      "commission": 0.6,
+      "losses": 8,
+      "gross_pnl": -27134.99999999931,
+      "net_pnl": -27135.649999999296,
+      "commission": 0.65,
       "max_win": 29234.949999999673,
       "max_loss": -28080.049999999927,
       "trade_history": [
@@ -238,10 +238,29 @@
           "net_pnl": 29234.95,
           "result": "WIN",
           "reason": ""
+        },
+        {
+          "date": "2026-04-22",
+          "time_ist": "15:25:59",
+          "strategy": "S1_Asian_Breakout",
+          "direction": "BUY",
+          "entry": 4760.87,
+          "sl": 4752.36,
+          "tp1": 4773.63,
+          "tp2": 4777.89,
+          "size": 10.0,
+          "exit_price": 4753.11,
+          "exit_time": "15:25:59",
+          "gross_pnl": -7760.0,
+          "rr_achieved": 0.91,
+          "commission": 0.05,
+          "net_pnl": -7760.05,
+          "result": "LOSS",
+          "reason": ""
         }
       ],
-      "hit_ratio": 41.7,
-      "gain_loss_ratio": 1.19
+      "hit_ratio": 38.5,
+      "gain_loss_ratio": 1.29
     },
     "S2_Goldmine": {
       "name": "S2_Goldmine",
@@ -332,6 +351,6 @@
     }
   },
   "open_trade": null,
-  "equity": 50830.58,
-  "timestamp": "2026-04-22T03:18:56.940539+05:30"
+  "equity": 50740.38,
+  "timestamp": "2026-04-22T20:29:19.921418+05:30"
 }
