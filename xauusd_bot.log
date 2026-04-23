@@ -9557,3 +9557,363 @@
 2026-04-23 15:03:46,736 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-04-23 15:04:48,622 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-04-23 15:05:50,406 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 16:22:57,839 [INFO] ✅ Capital.com session created
+2026-04-23 16:22:57,840 [INFO] ✅ Daily risk counters reset
+2026-04-23 16:22:57,841 [INFO] ✅ Weekly risk counters reset
+2026-04-23 16:22:57,841 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-04-23T20:35:50.407932+05:30)
+2026-04-23 16:22:57,841 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-04-23 16:22:57,841 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-04-23 16:22:57,842 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-04-23 16:22:57,842 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-04-23 16:22:57,843 [INFO] EOD watchdog + supervisor started
+2026-04-23 16:22:57,846 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.1.159:5051
+2026-04-23 16:22:57,846 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-23 16:23:00,924 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-23&end_date=2026-04-23&importance=high — trading allowed
+2026-04-23 16:23:00,924 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-23 16:23:01,026 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-23&end_date=2026-04-23&importance=high — trading allowed
+2026-04-23 16:23:01,027 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-23 16:23:01,493 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:24:04,826 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:25:07,883 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:26:11,026 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:27:14,335 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:28:17,489 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:29:20,602 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:30:23,713 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:31:27,175 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:32:30,507 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:33:33,590 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:34:36,716 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:35:39,797 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:36:42,865 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:37:45,977 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:38:49,081 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:39:52,333 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:40:55,500 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:41:58,648 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:43:01,743 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:44:04,877 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:45:07,955 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:46:11,088 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:47:14,396 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:48:17,641 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:49:20,751 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:50:23,826 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:51:26,992 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:52:30,052 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:53:34,095 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:54:37,208 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:55:40,336 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:56:43,437 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:57:46,516 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:58:49,635 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 16:59:52,886 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:00:56,026 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:01:59,150 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:03:02,229 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:04:05,357 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:05:08,458 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:06:11,552 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:07:14,717 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:08:17,803 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:09:20,909 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:10:23,976 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:11:27,145 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:12:30,199 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:13:33,255 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:14:36,289 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:15:39,261 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:16:42,421 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:17:45,402 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:18:48,405 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:19:51,404 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:20:54,426 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:21:57,418 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:23:00,390 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:23:04,212 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-23&end_date=2026-04-23&importance=high — trading allowed
+2026-04-23 17:23:04,212 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-23 17:24:03,525 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:25:06,569 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:26:09,503 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:27:12,486 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:28:15,500 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:29:18,529 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:30:21,552 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:31:24,604 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:32:27,551 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:33:30,512 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:34:33,476 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:35:36,364 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:36:39,296 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:37:42,261 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:38:45,377 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:39:48,595 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:40:51,742 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:41:54,936 [INFO] S1: Asian range built | High=4753.96 Low=4694.19 Range=$59.77
+2026-04-23 17:41:54,936 [INFO] 🎯 SIGNAL: S1_Asian_Breakout SELL | 15M closed below Asian Low $4694.19
+2026-04-23 17:41:54,936 [INFO]   Position size: equity=$50608 risk=$506 ATR=11.79 → 10.0oz
+2026-04-23 17:41:55,391 [INFO] ✅ TRADE OPENED | SELL 10.0oz XAUUSD | SL=4708.92 TP=4655.87 | S1_Asian_Breakout
+2026-04-23 17:41:55,392 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout SELL 10.0oz @ $4691.24 | SL=$4708.92 TP1=$4664.71 TP2=$4655.87
+2026-04-23 17:54:33,722 [INFO] Trade recorded | PnL=$-3925.05 | Daily=1 | Daily PnL=$-3925.05
+2026-04-23 17:54:33,886 [INFO] Excel ✅ S1_Asian_Breakout SELL | net=$-3925.05 | result=LOSS
+2026-04-23 17:54:33,886 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout SELL | Exit=$4695.16 | PnL=$-3925.05 | LOSS
+2026-04-23 17:55:36,952 [INFO] ⏸ Skipping: Daily loss -7.8% — trading halted
+2026-04-23 17:56:40,123 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 17:57:43,171 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 17:58:46,272 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 17:59:49,387 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:00:52,632 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:01:55,756 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:02:58,737 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:04:02,098 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:05:05,127 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:06:08,156 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:07:11,167 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:08:14,426 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:09:17,428 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:10:20,328 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:11:23,341 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:12:26,241 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:13:29,184 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:14:32,068 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:15:35,044 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:16:38,176 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:17:41,293 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:18:44,372 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:19:47,420 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:20:51,145 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:21:54,505 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:22:57,663 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:23:04,819 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-23&end_date=2026-04-23&importance=high — trading allowed
+2026-04-23 18:23:04,820 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-23 18:24:00,949 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:25:04,032 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:26:07,103 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:27:10,203 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:28:13,299 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:29:16,377 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-04-23 18:30:19,367 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:31:22,375 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:32:25,346 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:33:28,361 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:34:31,369 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:35:34,300 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:36:37,279 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:37:40,299 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:38:43,523 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:39:46,493 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:40:49,411 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:41:52,392 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:42:55,426 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:43:58,552 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:45:01,570 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:46:04,635 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:47:07,754 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:48:11,031 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:49:14,042 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:50:17,016 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:51:19,973 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:52:23,075 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:53:25,949 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:54:28,906 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:55:31,815 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:56:34,931 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:57:37,871 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:58:40,828 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 18:59:43,790 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:00:46,810 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:01:49,773 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:02:52,712 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:03:55,627 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:04:58,563 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:06:01,584 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:07:04,709 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:08:07,906 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:09:10,993 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:10:14,086 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:11:17,235 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:12:20,664 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:13:23,723 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:14:26,753 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:15:29,780 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:16:32,978 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:17:35,968 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:18:39,021 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:19:42,034 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:20:45,133 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:21:48,123 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:22:51,244 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:23:06,696 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-23&end_date=2026-04-23&importance=high — trading allowed
+2026-04-23 19:23:06,697 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-23 19:23:54,312 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:24:57,447 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:26:00,569 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:27:03,712 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:28:06,805 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:29:09,928 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:30:13,059 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:31:16,153 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:32:19,396 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:33:22,486 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:34:25,596 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:35:28,724 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:36:31,888 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:37:35,018 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:38:38,082 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:39:41,239 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:40:44,560 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:41:48,618 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:42:51,573 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:43:54,612 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:44:57,704 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:46:00,687 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:47:03,776 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:48:06,871 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:49:09,928 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:50:12,951 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:51:15,943 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:52:19,039 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:53:22,205 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:54:25,381 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-04-23 19:55:00,758 [INFO] 🏁 EOD: Closing all positions...
+2026-04-23 19:55:00,759 [INFO] ✅ Daily risk counters reset
+2026-04-23 19:55:00,759 [INFO] ✅ EOD complete
+2026-04-23 19:55:28,477 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -7.8% — trading halted for week
+2026-04-23 19:56:31,586 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -7.8% — trading halted for week
+2026-04-23 19:57:34,788 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -7.8% — trading halted for week
+2026-04-23 19:58:37,910 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -7.8% — trading halted for week
+2026-04-23 19:59:41,051 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:00:44,372 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:30 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:01:47,497 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:31 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:02:50,619 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:32 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:03:53,753 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:33 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:04:56,937 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:34 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:06:00,071 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:35 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:07:03,189 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:37 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:08:06,328 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:38 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:09:09,538 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:39 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:10:18,339 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:40 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:11:21,488 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:41 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:12:24,655 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:42 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:13:27,808 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:43 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:14:30,950 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:44 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:15:34,046 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:45 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:16:37,132 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:46 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:17:40,153 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:47 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:18:43,287 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:48 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:19:46,371 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:49 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:20:49,564 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:50 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:21:52,718 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:51 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:22:55,756 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:52 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:23:09,061 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-23&end_date=2026-04-23&importance=high — trading allowed
+2026-04-23 20:23:09,062 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-23 20:23:58,875 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:53 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:25:02,082 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:55 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:26:05,200 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:56 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:27:08,225 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:57 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:28:11,255 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:58 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:29:14,326 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:59 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:30:18,075 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:00 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:31:22,447 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:01 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:32:25,614 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:02 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:33:28,707 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:03 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:34:31,779 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:04 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:35:34,922 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:05 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:36:38,039 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:06 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:37:41,131 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:07 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:38:44,247 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:08 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:39:47,329 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:09 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:40:50,467 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:10 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:41:53,686 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:11 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:42:56,774 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:12 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:43:59,895 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:13 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:45:03,344 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:15 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:46:06,436 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:16 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:47:09,537 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:17 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:48:12,677 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:18 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:49:15,759 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:19 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:50:18,896 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:20 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:51:22,004 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:21 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:52:25,147 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:22 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:53:28,287 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:23 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:54:31,432 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:24 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:55:34,509 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:25 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:56:37,539 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:26 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:57:40,550 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:27 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:58:43,602 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:28 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 20:59:46,630 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:29 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:00:49,673 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:30 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:01:52,767 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:31 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:02:56,073 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:32 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:03:59,160 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:33 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:05:02,246 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:35 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:06:05,388 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:36 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:07:08,510 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:37 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:08:11,638 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:38 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:09:14,893 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:39 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:10:18,034 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:40 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:11:21,201 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:41 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:12:24,427 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:42 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:13:27,616 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:43 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:14:30,685 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:44 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:15:33,808 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:45 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:16:36,890 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:46 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:17:40,001 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:47 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:18:43,069 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:48 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:19:46,108 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:49 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:20:49,202 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:50 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:21:52,612 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:51 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:22:55,607 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:52 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:23:11,040 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-23&end_date=2026-04-23&importance=high — trading allowed
+2026-04-23 21:23:11,041 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-23 21:23:58,676 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:53 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:25:01,748 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:55 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:26:04,850 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:56 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:27:07,892 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:57 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:28:11,051 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:58 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:29:14,200 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:59 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:30:17,382 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:00 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:31:20,531 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:01 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:32:23,608 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:02 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:33:26,923 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:03 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:34:30,051 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:04 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:35:33,147 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:05 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:36:36,263 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:06 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:37:39,328 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:07 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:38:42,323 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:08 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:39:45,394 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:09 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:40:48,422 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:10 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:41:51,491 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:11 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:42:54,467 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:12 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:43:57,484 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:13 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:45:00,424 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:14 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:46:03,407 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:16 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:47:06,440 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:17 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:48:09,363 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:18 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:49:12,360 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:19 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:50:15,387 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:20 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:51:18,431 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:21 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:51:57,904 [INFO] 🔄 Session expiring — refreshing...
+2026-04-23 21:51:58,452 [INFO] ✅ Capital.com session created
+2026-04-23 21:52:21,409 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:22 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:53:24,458 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:23 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:54:27,419 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:24 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:55:31,009 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:25 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:56:36,524 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:26 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:57:40,417 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:27 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 21:58:51,410 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:28 IST) | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:00:18,068 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:30 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:01:32,309 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:31 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:02:48,053 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:32 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:03:51,093 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:33 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:04:54,110 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:34 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:05:57,258 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:35 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:07:00,279 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:36 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:08:03,328 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:38 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:09:06,351 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:39 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:10:09,392 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:40 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:11:12,388 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:41 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
+2026-04-23 22:12:15,366 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:42 IST) — low liquidity | Weekly loss -7.8% — trading halted for week
