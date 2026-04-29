@@ -10970,3 +10970,280 @@
 2026-04-29 15:43:38,858 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
 2026-04-29 15:44:42,092 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
 2026-04-29 15:45:45,323 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:21:22,939 [ERROR] ❌ Session creation failed (attempt 1): 429 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/session
+2026-04-29 16:21:22,939 [INFO]    Retrying in 2s...
+2026-04-29 16:21:25,315 [INFO] ✅ Capital.com session created
+2026-04-29 16:21:25,317 [INFO] ✅ Daily risk counters reset
+2026-04-29 16:21:25,317 [INFO] ✅ Weekly risk counters reset
+2026-04-29 16:21:25,317 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-04-29T21:15:45.324933+05:30)
+2026-04-29 16:21:25,317 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-04-29 16:21:25,317 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-04-29 16:21:25,318 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-04-29 16:21:25,318 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-04-29 16:21:25,319 [INFO] EOD watchdog + supervisor started
+2026-04-29 16:21:25,322 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.62:5051
+2026-04-29 16:21:25,322 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-29 16:21:27,416 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-29&end_date=2026-04-29&importance=high — trading allowed
+2026-04-29 16:21:27,417 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-29 16:21:27,797 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:22:29,637 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:23:31,492 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:24:33,340 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:25:35,207 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:26:37,085 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:27:38,937 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:28:40,806 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:29:42,676 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:30:44,679 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:31:46,638 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:32:48,570 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:33:50,417 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:34:52,265 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:35:54,119 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:36:56,053 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:37:58,017 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:38:59,879 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:40:01,745 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:41:03,607 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:42:05,475 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:43:07,388 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:44:09,232 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:45:11,085 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:46:12,934 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:47:14,795 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:48:16,747 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:49:18,624 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:50:20,483 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:51:22,348 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:52:24,201 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:53:26,068 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:54:27,913 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:55:29,770 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:56:31,617 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:57:33,493 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:58:35,360 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 16:59:37,227 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:00:39,234 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:01:41,102 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:02:42,944 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:03:44,814 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:04:46,682 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:05:48,544 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:06:50,398 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:07:52,257 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:08:54,117 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:09:55,997 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:10:58,160 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:12:00,010 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:13:01,882 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:14:03,808 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:15:05,704 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:16:07,558 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:17:09,431 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:18:11,289 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:19:13,232 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:20:15,117 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:21:16,993 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:21:29,654 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-29&end_date=2026-04-29&importance=high — trading allowed
+2026-04-29 17:21:29,655 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-29 17:22:18,955 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:23:20,811 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:24:22,705 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:25:24,573 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:26:26,437 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:27:28,320 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:28:30,170 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:29:32,120 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:30:33,972 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:31:35,850 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:32:37,700 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:33:39,552 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:34:41,410 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:35:43,275 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:36:45,150 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:37:47,013 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:38:48,866 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:39:50,784 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:40:52,670 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:41:54,594 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:42:56,479 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:43:58,341 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:45:00,198 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:46:02,100 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:47:03,982 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:48:05,850 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:49:07,724 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:50:09,578 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:51:11,460 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:52:13,324 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:53:15,185 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:54:17,085 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:55:18,961 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:56:20,815 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:57:22,669 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:58:24,533 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 17:59:26,419 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 18:00:28,323 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 18:01:30,241 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 18:02:32,133 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 18:03:34,036 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 18:04:35,896 [INFO] S1: Asian range built | High=4610.54 Low=4575.91 Range=$34.62
+2026-04-29 18:05:37,789 [INFO] S1: Asian range built | High=4610.54 Low=4538.66 Range=$71.88
+2026-04-29 18:06:39,656 [INFO] S1: Asian range built | High=4610.54 Low=4538.66 Range=$71.88
+2026-04-29 18:07:41,519 [INFO] S1: Asian range built | High=4610.54 Low=4538.66 Range=$71.88
+2026-04-29 18:07:41,520 [INFO] 🎯 SIGNAL: S1_Asian_Breakout SELL | 15M closed below Asian Low $4538.66
+2026-04-29 18:07:41,520 [INFO]   Position size: equity=$50393 risk=$504 ATR=11.38 → 10.0oz
+2026-04-29 18:07:41,808 [INFO] ✅ TRADE OPENED | SELL 10.0oz XAUUSD | SL=4552.12 TP=4500.91 | S1_Asian_Breakout
+2026-04-29 18:07:41,808 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout SELL 10.0oz @ $4535.05 | SL=$4552.12 TP1=$4509.44 TP2=$4500.91
+2026-04-29 18:21:30,723 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-29&end_date=2026-04-29&importance=high — trading allowed
+2026-04-29 18:21:30,724 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-29 19:21:31,066 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-29&end_date=2026-04-29&importance=high — trading allowed
+2026-04-29 19:21:31,066 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-29 19:55:00,381 [INFO] 🏁 EOD: Closing all positions...
+2026-04-29 19:55:01,226 [INFO] ✅ TRADE CLOSED | deal_id=00601567-0055-311e-0000-0000849ff21e
+2026-04-29 19:55:01,227 [INFO] Trade recorded | PnL=$-12290.05 | Daily=1 | Daily PnL=$-12290.05
+2026-04-29 19:55:01,428 [INFO] Excel ✅ S1_Asian_Breakout SELL | net=$-12290.05 | result=LOSS
+2026-04-29 19:55:01,428 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout SELL | Exit=$4547.34 | PnL=$-12290.05 | LOSS
+2026-04-29 19:55:01,429 [INFO] ✅ Daily risk counters reset
+2026-04-29 19:55:01,430 [INFO] ✅ EOD complete
+2026-04-29 19:56:00,252 [INFO] ⏸ Skipping: Weekly loss -25.6% — trading halted for week
+2026-04-29 19:57:02,282 [INFO] ⏸ Skipping: Weekly loss -25.6% — trading halted for week
+2026-04-29 19:58:04,139 [INFO] ⏸ Skipping: Weekly loss -25.6% — trading halted for week
+2026-04-29 19:59:05,991 [INFO] ⏸ Skipping: Weekly loss -25.6% — trading halted for week
+2026-04-29 20:00:07,862 [INFO] ⏸ Skipping: Outside trading window (01:30 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:01:09,829 [INFO] ⏸ Skipping: Outside trading window (01:31 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:02:11,716 [INFO] ⏸ Skipping: Outside trading window (01:32 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:03:13,566 [INFO] ⏸ Skipping: Outside trading window (01:33 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:04:15,430 [INFO] ⏸ Skipping: Outside trading window (01:34 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:05:17,274 [INFO] ⏸ Skipping: Outside trading window (01:35 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:06:19,147 [INFO] ⏸ Skipping: Outside trading window (01:36 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:07:21,008 [INFO] ⏸ Skipping: Outside trading window (01:37 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:08:22,914 [INFO] ⏸ Skipping: Outside trading window (01:38 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:09:24,769 [INFO] ⏸ Skipping: Outside trading window (01:39 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:10:26,667 [INFO] ⏸ Skipping: Outside trading window (01:40 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:11:28,521 [INFO] ⏸ Skipping: Outside trading window (01:41 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:12:30,387 [INFO] ⏸ Skipping: Outside trading window (01:42 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:13:32,255 [INFO] ⏸ Skipping: Outside trading window (01:43 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:14:34,105 [INFO] ⏸ Skipping: Outside trading window (01:44 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:15:35,966 [INFO] ⏸ Skipping: Outside trading window (01:45 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:16:37,839 [INFO] ⏸ Skipping: Outside trading window (01:46 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:17:39,771 [INFO] ⏸ Skipping: Outside trading window (01:47 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:18:41,630 [INFO] ⏸ Skipping: Outside trading window (01:48 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:19:43,486 [INFO] ⏸ Skipping: Outside trading window (01:49 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:20:45,342 [INFO] ⏸ Skipping: Outside trading window (01:50 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:21:31,643 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-29&end_date=2026-04-29&importance=high — trading allowed
+2026-04-29 20:21:31,644 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-29 20:21:47,232 [INFO] ⏸ Skipping: Outside trading window (01:51 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:22:49,095 [INFO] ⏸ Skipping: Outside trading window (01:52 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:23:50,942 [INFO] ⏸ Skipping: Outside trading window (01:53 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:24:52,808 [INFO] ⏸ Skipping: Outside trading window (01:54 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:25:54,669 [INFO] ⏸ Skipping: Outside trading window (01:55 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:26:56,532 [INFO] ⏸ Skipping: Outside trading window (01:56 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:27:58,417 [INFO] ⏸ Skipping: Outside trading window (01:57 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:29:00,400 [INFO] ⏸ Skipping: Outside trading window (01:59 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:30:02,242 [INFO] ⏸ Skipping: Outside trading window (02:00 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:31:04,111 [INFO] ⏸ Skipping: Outside trading window (02:01 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:32:05,998 [INFO] ⏸ Skipping: Outside trading window (02:02 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:33:07,851 [INFO] ⏸ Skipping: Outside trading window (02:03 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:34:09,719 [INFO] ⏸ Skipping: Outside trading window (02:04 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:35:11,594 [INFO] ⏸ Skipping: Outside trading window (02:05 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:36:13,451 [INFO] ⏸ Skipping: Outside trading window (02:06 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:37:15,301 [INFO] ⏸ Skipping: Outside trading window (02:07 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:38:17,179 [INFO] ⏸ Skipping: Outside trading window (02:08 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:39:19,028 [INFO] ⏸ Skipping: Outside trading window (02:09 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:40:20,898 [INFO] ⏸ Skipping: Outside trading window (02:10 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:41:22,745 [INFO] ⏸ Skipping: Outside trading window (02:11 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:42:24,606 [INFO] ⏸ Skipping: Outside trading window (02:12 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:43:26,493 [INFO] ⏸ Skipping: Outside trading window (02:13 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:44:28,368 [INFO] ⏸ Skipping: Outside trading window (02:14 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:45:30,314 [INFO] ⏸ Skipping: Outside trading window (02:15 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:46:32,282 [INFO] ⏸ Skipping: Outside trading window (02:16 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:47:34,138 [INFO] ⏸ Skipping: Outside trading window (02:17 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:48:35,992 [INFO] ⏸ Skipping: Outside trading window (02:18 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:49:37,832 [INFO] ⏸ Skipping: Outside trading window (02:19 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:50:39,717 [INFO] ⏸ Skipping: Outside trading window (02:20 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:51:41,575 [INFO] ⏸ Skipping: Outside trading window (02:21 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:52:43,462 [INFO] ⏸ Skipping: Outside trading window (02:22 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:53:45,346 [INFO] ⏸ Skipping: Outside trading window (02:23 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:54:47,188 [INFO] ⏸ Skipping: Outside trading window (02:24 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:55:49,138 [INFO] ⏸ Skipping: Outside trading window (02:25 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:56:50,997 [INFO] ⏸ Skipping: Outside trading window (02:26 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:57:52,840 [INFO] ⏸ Skipping: Outside trading window (02:27 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:58:54,701 [INFO] ⏸ Skipping: Outside trading window (02:28 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 20:59:56,543 [INFO] ⏸ Skipping: Outside trading window (02:29 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:00:58,404 [INFO] ⏸ Skipping: Outside trading window (02:30 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:02:00,296 [INFO] ⏸ Skipping: Outside trading window (02:32 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:03:02,159 [INFO] ⏸ Skipping: Outside trading window (02:33 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:04:04,043 [INFO] ⏸ Skipping: Outside trading window (02:34 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:05:05,912 [INFO] ⏸ Skipping: Outside trading window (02:35 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:06:07,761 [INFO] ⏸ Skipping: Outside trading window (02:36 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:07:09,660 [INFO] ⏸ Skipping: Outside trading window (02:37 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:08:11,517 [INFO] ⏸ Skipping: Outside trading window (02:38 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:09:13,389 [INFO] ⏸ Skipping: Outside trading window (02:39 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:10:15,283 [INFO] ⏸ Skipping: Outside trading window (02:40 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:11:17,175 [INFO] ⏸ Skipping: Outside trading window (02:41 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:12:19,033 [INFO] ⏸ Skipping: Outside trading window (02:42 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:13:20,900 [INFO] ⏸ Skipping: Outside trading window (02:43 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:14:22,754 [INFO] ⏸ Skipping: Outside trading window (02:44 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:15:24,626 [INFO] ⏸ Skipping: Outside trading window (02:45 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:16:26,580 [INFO] ⏸ Skipping: Outside trading window (02:46 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:17:28,469 [INFO] ⏸ Skipping: Outside trading window (02:47 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:18:30,395 [INFO] ⏸ Skipping: Outside trading window (02:48 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:19:32,307 [INFO] ⏸ Skipping: Outside trading window (02:49 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:20:34,180 [INFO] ⏸ Skipping: Outside trading window (02:50 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:21:32,215 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-29&end_date=2026-04-29&importance=high — trading allowed
+2026-04-29 21:21:32,216 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-29 21:21:36,031 [INFO] ⏸ Skipping: Outside trading window (02:51 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:22:37,877 [INFO] ⏸ Skipping: Outside trading window (02:52 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:23:39,844 [INFO] ⏸ Skipping: Outside trading window (02:53 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:24:41,722 [INFO] ⏸ Skipping: Outside trading window (02:54 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:25:43,611 [INFO] ⏸ Skipping: Outside trading window (02:55 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:26:45,480 [INFO] ⏸ Skipping: Outside trading window (02:56 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:27:47,338 [INFO] ⏸ Skipping: Outside trading window (02:57 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:28:49,200 [INFO] ⏸ Skipping: Outside trading window (02:58 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:29:51,078 [INFO] ⏸ Skipping: Outside trading window (02:59 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:30:52,941 [INFO] ⏸ Skipping: Outside trading window (03:00 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:31:54,805 [INFO] ⏸ Skipping: Outside trading window (03:01 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:32:56,669 [INFO] ⏸ Skipping: Outside trading window (03:02 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:33:58,537 [INFO] ⏸ Skipping: Outside trading window (03:03 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:35:00,397 [INFO] ⏸ Skipping: Outside trading window (03:05 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:36:02,255 [INFO] ⏸ Skipping: Outside trading window (03:06 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:37:04,107 [INFO] ⏸ Skipping: Outside trading window (03:07 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:38:05,964 [INFO] ⏸ Skipping: Outside trading window (03:08 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:39:07,817 [INFO] ⏸ Skipping: Outside trading window (03:09 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:40:09,708 [INFO] ⏸ Skipping: Outside trading window (03:10 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:41:11,600 [INFO] ⏸ Skipping: Outside trading window (03:11 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:42:13,458 [INFO] ⏸ Skipping: Outside trading window (03:12 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:43:15,371 [INFO] ⏸ Skipping: Outside trading window (03:13 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:44:17,239 [INFO] ⏸ Skipping: Outside trading window (03:14 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:45:19,087 [INFO] ⏸ Skipping: Outside trading window (03:15 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:46:20,939 [INFO] ⏸ Skipping: Outside trading window (03:16 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:47:22,819 [INFO] ⏸ Skipping: Outside trading window (03:17 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:48:24,688 [INFO] ⏸ Skipping: Outside trading window (03:18 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:49:26,557 [INFO] ⏸ Skipping: Outside trading window (03:19 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:50:26,559 [INFO] 🔄 Session expiring — refreshing...
+2026-04-29 21:50:26,956 [INFO] ✅ Capital.com session created
+2026-04-29 21:50:28,841 [INFO] ⏸ Skipping: Outside trading window (03:20 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:51:30,713 [INFO] ⏸ Skipping: Outside trading window (03:21 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:52:32,559 [INFO] ⏸ Skipping: Outside trading window (03:22 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:53:34,440 [INFO] ⏸ Skipping: Outside trading window (03:23 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:54:36,305 [INFO] ⏸ Skipping: Outside trading window (03:24 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:55:38,171 [INFO] ⏸ Skipping: Outside trading window (03:25 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:56:40,041 [INFO] ⏸ Skipping: Outside trading window (03:26 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:57:41,903 [INFO] ⏸ Skipping: Outside trading window (03:27 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:58:43,802 [INFO] ⏸ Skipping: Outside trading window (03:28 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 21:59:45,695 [INFO] ⏸ Skipping: Outside trading window (03:29 IST) | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:00:47,548 [INFO] ⏸ Skipping: Dead zone (03:30 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:01:49,401 [INFO] ⏸ Skipping: Dead zone (03:31 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:02:51,253 [INFO] ⏸ Skipping: Dead zone (03:32 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:03:53,105 [INFO] ⏸ Skipping: Dead zone (03:33 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:04:54,957 [INFO] ⏸ Skipping: Dead zone (03:34 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:05:56,820 [INFO] ⏸ Skipping: Dead zone (03:35 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:06:58,676 [INFO] ⏸ Skipping: Dead zone (03:36 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:08:00,549 [INFO] ⏸ Skipping: Dead zone (03:38 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:09:02,413 [INFO] ⏸ Skipping: Dead zone (03:39 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:10:04,258 [INFO] ⏸ Skipping: Dead zone (03:40 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
+2026-04-29 22:11:06,117 [INFO] ⏸ Skipping: Dead zone (03:41 IST) — low liquidity | Weekly loss -25.6% — trading halted for week
