@@ -11593,3 +11593,159 @@
 2026-04-30 15:15:33,667 [INFO] ✅ TRADE OPENED | S3_Silver_Bullet SELL 10.0oz @ $4620.15 | SL=$4636.40 TP1=$4595.76 TP2=$4587.63
 2026-04-30 15:24:40,505 [INFO] 🔄 Session expiring — refreshing...
 2026-04-30 15:24:40,908 [INFO] ✅ Capital.com session created
+2026-04-30 16:09:27,883 [INFO] ✅ Capital.com session created
+2026-04-30 16:09:27,884 [INFO] ✅ Daily risk counters reset
+2026-04-30 16:09:27,884 [INFO] ✅ Weekly risk counters reset
+2026-04-30 16:09:27,885 [INFO] 🔄 Restored open trade: S3_Silver_Bullet SELL @ $4620.145
+2026-04-30 16:09:27,885 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-04-30T21:15:29.190917+05:30)
+2026-04-30 16:09:28,338 [INFO] ✅ Reconcile: open trade confirmed on broker — deal still live
+2026-04-30 16:09:28,339 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-04-30 16:09:28,339 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-04-30 16:09:28,339 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-04-30 16:09:28,339 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-04-30 16:09:28,340 [INFO] EOD watchdog + supervisor started
+2026-04-30 16:09:28,343 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.1.57:5051
+2026-04-30 16:09:28,343 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-30 16:09:31,023 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-30&end_date=2026-04-30&importance=high — trading allowed
+2026-04-30 16:09:31,024 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-30 17:09:33,564 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-30&end_date=2026-04-30&importance=high — trading allowed
+2026-04-30 17:09:33,565 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-30 18:09:33,592 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-30&end_date=2026-04-30&importance=high — trading allowed
+2026-04-30 18:09:33,593 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-30 19:09:34,822 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-30&end_date=2026-04-30&importance=high — trading allowed
+2026-04-30 19:09:34,823 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-30 19:55:00,734 [INFO] 🏁 EOD: Closing all positions...
+2026-04-30 19:55:01,976 [INFO] ✅ TRADE CLOSED | deal_id=00601567-0055-311e-0000-000084a0ebb2
+2026-04-30 19:55:01,976 [INFO] Trade recorded | PnL=$3564.95 | Daily=1 | Daily PnL=$3564.95
+2026-04-30 19:55:02,097 [INFO] Excel ✅ S3_Silver_Bullet SELL | net=$3564.95 | result=WIN
+2026-04-30 19:55:02,097 [INFO] 📊 TRADE CLOSED | S3_Silver_Bullet SELL | Exit=$4616.58 | PnL=$3564.95 | WIN
+2026-04-30 19:55:02,099 [INFO] ✅ Daily risk counters reset
+2026-04-30 19:55:02,099 [INFO] ✅ EOD complete
+2026-04-30 19:55:28,780 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-04-30 19:56:31,552 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-04-30 19:57:34,427 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-04-30 19:58:37,175 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-04-30 19:59:39,850 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-04-30 20:00:42,623 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:30 IST)
+2026-04-30 20:01:45,363 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:31 IST)
+2026-04-30 20:02:48,112 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:32 IST)
+2026-04-30 20:03:50,856 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:33 IST)
+2026-04-30 20:04:53,565 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:34 IST)
+2026-04-30 20:05:56,288 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:35 IST)
+2026-04-30 20:06:59,029 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:36 IST)
+2026-04-30 20:08:01,755 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:38 IST)
+2026-04-30 20:09:04,485 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:39 IST)
+2026-04-30 20:09:37,772 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-30&end_date=2026-04-30&importance=high — trading allowed
+2026-04-30 20:09:37,773 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-30 20:10:07,182 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:40 IST)
+2026-04-30 20:11:09,919 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:41 IST)
+2026-04-30 20:12:12,586 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:42 IST)
+2026-04-30 20:13:15,320 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:43 IST)
+2026-04-30 20:14:18,062 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:44 IST)
+2026-04-30 20:15:20,850 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:45 IST)
+2026-04-30 20:16:23,578 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:46 IST)
+2026-04-30 20:17:26,302 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:47 IST)
+2026-04-30 20:18:29,037 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:48 IST)
+2026-04-30 20:19:31,770 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:49 IST)
+2026-04-30 20:20:34,467 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:50 IST)
+2026-04-30 20:21:37,187 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:51 IST)
+2026-04-30 20:22:40,031 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:52 IST)
+2026-04-30 20:23:42,804 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:53 IST)
+2026-04-30 20:24:45,519 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:54 IST)
+2026-04-30 20:25:48,277 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:55 IST)
+2026-04-30 20:26:51,009 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:56 IST)
+2026-04-30 20:27:53,702 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:57 IST)
+2026-04-30 20:28:56,438 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:58 IST)
+2026-04-30 20:29:59,127 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:59 IST)
+2026-04-30 20:31:01,838 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:01 IST)
+2026-04-30 20:32:04,575 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:02 IST)
+2026-04-30 20:33:07,336 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:03 IST)
+2026-04-30 20:34:10,047 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:04 IST)
+2026-04-30 20:35:12,758 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:05 IST)
+2026-04-30 20:36:15,566 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:06 IST)
+2026-04-30 20:37:18,405 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:07 IST)
+2026-04-30 20:38:21,105 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:08 IST)
+2026-04-30 20:39:23,793 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:09 IST)
+2026-04-30 20:40:26,498 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:10 IST)
+2026-04-30 20:41:29,223 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:11 IST)
+2026-04-30 20:42:31,920 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:12 IST)
+2026-04-30 20:43:34,612 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:13 IST)
+2026-04-30 20:44:37,332 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:14 IST)
+2026-04-30 20:45:40,064 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:15 IST)
+2026-04-30 20:46:42,830 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:16 IST)
+2026-04-30 20:47:45,573 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:17 IST)
+2026-04-30 20:48:48,305 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:18 IST)
+2026-04-30 20:49:50,988 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:19 IST)
+2026-04-30 20:50:53,636 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:20 IST)
+2026-04-30 20:51:56,300 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:21 IST)
+2026-04-30 20:52:58,986 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:22 IST)
+2026-04-30 20:54:01,630 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:24 IST)
+2026-04-30 20:55:04,435 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:25 IST)
+2026-04-30 20:56:07,099 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:26 IST)
+2026-04-30 20:57:09,768 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:27 IST)
+2026-04-30 20:58:12,418 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:28 IST)
+2026-04-30 20:59:15,108 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:29 IST)
+2026-04-30 21:00:17,773 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:30 IST)
+2026-04-30 21:01:20,423 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:31 IST)
+2026-04-30 21:02:23,095 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:32 IST)
+2026-04-30 21:03:25,966 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:33 IST)
+2026-04-30 21:04:28,632 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:34 IST)
+2026-04-30 21:05:31,295 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:35 IST)
+2026-04-30 21:06:33,953 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:36 IST)
+2026-04-30 21:07:36,645 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:37 IST)
+2026-04-30 21:08:39,346 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:38 IST)
+2026-04-30 21:09:39,435 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-04-30&end_date=2026-04-30&importance=high — trading allowed
+2026-04-30 21:09:39,436 [INFO] 📰 News calendar refreshed — 0 events today
+2026-04-30 21:09:41,991 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:39 IST)
+2026-04-30 21:10:45,121 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:40 IST)
+2026-04-30 21:11:47,799 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:41 IST)
+2026-04-30 21:12:50,471 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:42 IST)
+2026-04-30 21:13:53,119 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:43 IST)
+2026-04-30 21:14:55,795 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:44 IST)
+2026-04-30 21:15:58,492 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:45 IST)
+2026-04-30 21:17:01,197 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:47 IST)
+2026-04-30 21:18:03,878 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:48 IST)
+2026-04-30 21:19:06,563 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:49 IST)
+2026-04-30 21:20:09,225 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:50 IST)
+2026-04-30 21:21:11,884 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:51 IST)
+2026-04-30 21:22:14,547 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:52 IST)
+2026-04-30 21:23:17,210 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:53 IST)
+2026-04-30 21:24:19,864 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:54 IST)
+2026-04-30 21:25:22,557 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:55 IST)
+2026-04-30 21:26:25,233 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:56 IST)
+2026-04-30 21:27:27,890 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:57 IST)
+2026-04-30 21:28:30,529 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:58 IST)
+2026-04-30 21:29:33,283 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:59 IST)
+2026-04-30 21:30:35,982 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:00 IST)
+2026-04-30 21:31:38,917 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:01 IST)
+2026-04-30 21:32:41,584 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:02 IST)
+2026-04-30 21:33:44,391 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:03 IST)
+2026-04-30 21:34:47,155 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:04 IST)
+2026-04-30 21:35:49,969 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:05 IST)
+2026-04-30 21:36:52,764 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:06 IST)
+2026-04-30 21:37:55,543 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:07 IST)
+2026-04-30 21:38:28,451 [INFO] 🔄 Session expiring — refreshing...
+2026-04-30 21:38:28,982 [INFO] ✅ Capital.com session created
+2026-04-30 21:38:58,227 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:08 IST)
+2026-04-30 21:40:00,917 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:10 IST)
+2026-04-30 21:41:03,585 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:11 IST)
+2026-04-30 21:42:06,278 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:12 IST)
+2026-04-30 21:43:08,896 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:13 IST)
+2026-04-30 21:44:11,674 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:14 IST)
+2026-04-30 21:45:14,327 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:15 IST)
+2026-04-30 21:46:16,945 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:16 IST)
+2026-04-30 21:47:19,602 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:17 IST)
+2026-04-30 21:48:22,247 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:18 IST)
+2026-04-30 21:49:24,895 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:19 IST)
+2026-04-30 21:50:27,667 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:20 IST)
+2026-04-30 21:51:30,380 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:21 IST)
+2026-04-30 21:52:33,152 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:22 IST)
+2026-04-30 21:53:35,872 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:23 IST)
+2026-04-30 21:54:38,597 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:24 IST)
+2026-04-30 21:55:41,320 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:25 IST)
+2026-04-30 21:56:44,029 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:26 IST)
+2026-04-30 21:57:46,785 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:27 IST)
+2026-04-30 21:58:49,521 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:28 IST)
