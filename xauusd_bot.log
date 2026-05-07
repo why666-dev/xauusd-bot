@@ -13339,3 +13339,371 @@
 2026-05-07 16:00:48,555 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
 2026-05-07 16:01:51,458 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
 2026-05-07 16:02:54,393 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:29:23,475 [INFO] ✅ Capital.com session created
+2026-05-07 16:29:23,476 [INFO] ✅ Daily risk counters reset
+2026-05-07 16:29:23,476 [INFO] ✅ Weekly risk counters reset
+2026-05-07 16:29:23,476 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-05-07T21:32:54.395242+05:30)
+2026-05-07 16:29:23,477 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-05-07 16:29:23,477 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-05-07 16:29:23,477 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-05-07 16:29:23,477 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-05-07 16:29:23,478 [INFO] EOD watchdog + supervisor started
+2026-05-07 16:29:23,481 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.222:5051
+2026-05-07 16:29:23,481 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-07 16:29:26,029 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-07&end_date=2026-05-07&importance=high — trading allowed
+2026-05-07 16:29:26,031 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-07 16:29:26,363 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:30:28,639 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:31:31,003 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:32:33,277 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:33:35,568 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:34:37,957 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:35:40,222 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:36:42,531 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:37:44,814 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:38:47,094 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:39:49,446 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:40:51,734 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:41:54,002 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:42:56,288 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:43:58,586 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:45:00,889 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:46:03,176 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:47:05,451 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:48:07,767 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:49:10,056 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:50:12,351 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:51:14,657 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:52:16,969 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:53:19,255 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:54:21,546 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:55:23,849 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:56:26,146 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:57:28,423 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:58:30,746 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 16:59:33,067 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:00:35,387 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:01:37,671 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:02:39,978 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:03:42,276 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:04:44,588 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:05:46,977 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:06:49,284 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:07:51,576 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:08:53,917 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:09:56,210 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:10:58,616 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:12:00,873 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:13:03,148 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:14:05,520 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:15:07,795 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:16:10,077 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:17:12,341 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:18:14,632 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:19:16,898 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:20:19,187 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:21:21,457 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:22:23,810 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:23:26,083 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:24:28,364 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:25:30,703 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:26:32,978 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:27:35,271 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:28:37,575 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:29:27,229 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-07&end_date=2026-05-07&importance=high — trading allowed
+2026-05-07 17:29:27,231 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-07 17:29:39,846 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:30:42,138 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:31:44,417 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:32:46,711 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:33:49,489 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:34:51,768 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:35:54,046 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:36:56,337 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:37:58,657 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:39:00,995 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:40:03,333 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:41:05,648 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:42:07,984 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:43:10,322 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:44:12,640 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:45:14,981 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:46:17,320 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:47:19,765 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:48:22,097 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:49:24,360 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:50:26,609 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:51:28,872 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:52:31,197 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:53:33,467 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:54:35,755 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:55:37,982 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:56:40,220 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:57:42,467 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:58:44,830 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 17:59:47,082 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:00:50,338 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:01:52,580 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:02:54,844 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:03:57,101 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:04:59,349 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:06:01,581 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:07:03,855 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:08:06,123 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:09:08,470 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:10:10,727 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:11:12,993 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:12:15,240 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:13:17,508 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:14:19,739 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:15:22,017 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:16:24,265 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:17:26,644 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:18:28,965 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:19:31,239 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:20:33,463 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:21:35,689 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:22:37,946 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:23:40,176 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:24:42,427 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:25:44,677 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:26:46,932 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:27:49,424 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:28:51,676 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:29:28,286 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-07&end_date=2026-05-07&importance=high — trading allowed
+2026-05-07 18:29:28,288 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-07 18:29:53,992 [INFO] S1: Asian range built | High=4721.38 Low=4682.04 Range=$39.34
+2026-05-07 18:30:56,264 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:31:58,537 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:33:00,799 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:34:03,094 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:35:05,423 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:36:07,947 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:37:10,259 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:38:12,583 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:39:14,910 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:40:17,245 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:41:19,524 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:42:21,818 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:43:24,184 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:44:26,537 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:45:28,878 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:46:31,158 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:47:33,465 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:48:35,830 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:49:38,169 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:50:40,481 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:51:42,834 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:52:45,150 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:53:47,457 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:54:49,741 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:55:52,007 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:56:54,277 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:57:56,531 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 18:58:58,846 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:00:01,119 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:01:03,353 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:02:05,828 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:03:08,091 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:04:10,351 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:05:12,730 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:06:15,044 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:07:17,361 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:08:19,669 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:09:21,963 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:10:24,230 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:11:26,517 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:12:28,784 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:13:31,078 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:14:33,388 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:15:35,631 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:16:37,917 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:17:40,182 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:18:42,523 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:19:44,830 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:20:47,128 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:21:49,438 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:22:51,740 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:23:54,069 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:24:56,413 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:25:58,718 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:27:01,044 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:28:03,365 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:29:05,668 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:29:29,735 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-07&end_date=2026-05-07&importance=high — trading allowed
+2026-05-07 19:29:29,736 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-07 19:30:07,867 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:31:10,105 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:32:12,343 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:33:14,570 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:34:16,819 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:35:19,077 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:36:21,315 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:37:23,562 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:38:25,818 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:39:28,063 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:40:30,307 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:41:32,544 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:42:34,793 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:43:37,044 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:44:39,320 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:45:41,581 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:46:43,915 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:47:46,221 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:48:48,520 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:49:50,836 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:50:53,457 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:51:55,775 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:52:58,055 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:54:01,621 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:55:00,687 [INFO] 🏁 EOD: Closing all positions...
+2026-05-07 19:55:00,687 [INFO] ✅ Daily risk counters reset
+2026-05-07 19:55:00,687 [INFO] ✅ EOD complete
+2026-05-07 19:55:03,916 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:56:06,221 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:57:08,587 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:58:10,885 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 19:59:13,143 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-05-07 20:00:15,436 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:30 IST)
+2026-05-07 20:01:17,887 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:31 IST)
+2026-05-07 20:02:20,163 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:32 IST)
+2026-05-07 20:03:22,420 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:33 IST)
+2026-05-07 20:04:24,730 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:34 IST)
+2026-05-07 20:05:27,007 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:35 IST)
+2026-05-07 20:06:29,444 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:36 IST)
+2026-05-07 20:07:31,739 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:37 IST)
+2026-05-07 20:08:34,050 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:38 IST)
+2026-05-07 20:09:36,314 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:39 IST)
+2026-05-07 20:10:38,621 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:40 IST)
+2026-05-07 20:11:40,876 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:41 IST)
+2026-05-07 20:12:43,151 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:42 IST)
+2026-05-07 20:13:45,493 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:43 IST)
+2026-05-07 20:14:47,727 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:44 IST)
+2026-05-07 20:15:49,966 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:45 IST)
+2026-05-07 20:16:52,213 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:46 IST)
+2026-05-07 20:17:54,513 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:47 IST)
+2026-05-07 20:18:56,762 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:48 IST)
+2026-05-07 20:19:59,031 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:49 IST)
+2026-05-07 20:21:01,353 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:51 IST)
+2026-05-07 20:22:03,614 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:52 IST)
+2026-05-07 20:23:05,911 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:53 IST)
+2026-05-07 20:24:08,167 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:54 IST)
+2026-05-07 20:25:10,421 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:55 IST)
+2026-05-07 20:26:12,696 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:56 IST)
+2026-05-07 20:27:14,965 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:57 IST)
+2026-05-07 20:28:17,233 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:58 IST)
+2026-05-07 20:29:19,507 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:59 IST)
+2026-05-07 20:29:32,467 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-07&end_date=2026-05-07&importance=high — trading allowed
+2026-05-07 20:29:32,468 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-07 20:30:21,693 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:00 IST)
+2026-05-07 20:31:23,876 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:01 IST)
+2026-05-07 20:32:26,086 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:02 IST)
+2026-05-07 20:33:28,263 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:03 IST)
+2026-05-07 20:34:30,460 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:04 IST)
+2026-05-07 20:35:32,644 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:05 IST)
+2026-05-07 20:36:34,842 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:06 IST)
+2026-05-07 20:37:37,131 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:07 IST)
+2026-05-07 20:38:39,378 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:08 IST)
+2026-05-07 20:39:41,645 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:09 IST)
+2026-05-07 20:40:43,877 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:10 IST)
+2026-05-07 20:41:46,250 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:11 IST)
+2026-05-07 20:42:48,585 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:12 IST)
+2026-05-07 20:43:50,816 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:13 IST)
+2026-05-07 20:44:53,134 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:14 IST)
+2026-05-07 20:45:55,373 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:15 IST)
+2026-05-07 20:46:57,768 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:16 IST)
+2026-05-07 20:48:00,061 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:17 IST)
+2026-05-07 20:49:02,347 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:19 IST)
+2026-05-07 20:50:04,626 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:20 IST)
+2026-05-07 20:51:07,109 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:21 IST)
+2026-05-07 20:52:09,395 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:22 IST)
+2026-05-07 20:53:11,920 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:23 IST)
+2026-05-07 20:54:14,170 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:24 IST)
+2026-05-07 20:55:16,416 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:25 IST)
+2026-05-07 20:56:18,656 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:26 IST)
+2026-05-07 20:57:21,002 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:27 IST)
+2026-05-07 20:58:23,273 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:28 IST)
+2026-05-07 20:59:25,522 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:29 IST)
+2026-05-07 21:00:27,799 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:30 IST)
+2026-05-07 21:01:30,026 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:31 IST)
+2026-05-07 21:02:32,264 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:32 IST)
+2026-05-07 21:03:34,523 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:33 IST)
+2026-05-07 21:04:36,902 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:34 IST)
+2026-05-07 21:05:39,158 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:35 IST)
+2026-05-07 21:06:41,413 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:36 IST)
+2026-05-07 21:07:43,692 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:37 IST)
+2026-05-07 21:08:45,913 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:38 IST)
+2026-05-07 21:09:48,487 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:39 IST)
+2026-05-07 21:10:50,752 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:40 IST)
+2026-05-07 21:11:52,997 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:41 IST)
+2026-05-07 21:12:55,235 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:42 IST)
+2026-05-07 21:13:57,430 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:43 IST)
+2026-05-07 21:14:59,949 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:44 IST)
+2026-05-07 21:16:02,356 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:46 IST)
+2026-05-07 21:17:04,625 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:47 IST)
+2026-05-07 21:18:06,940 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:48 IST)
+2026-05-07 21:19:09,215 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:49 IST)
+2026-05-07 21:20:11,624 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:50 IST)
+2026-05-07 21:21:13,890 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:51 IST)
+2026-05-07 21:22:16,177 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:52 IST)
+2026-05-07 21:23:18,448 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:53 IST)
+2026-05-07 21:24:20,735 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:54 IST)
+2026-05-07 21:25:23,017 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:55 IST)
+2026-05-07 21:26:25,379 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:56 IST)
+2026-05-07 21:27:27,687 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:57 IST)
+2026-05-07 21:28:30,165 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:58 IST)
+2026-05-07 21:29:32,453 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:59 IST)
+2026-05-07 21:29:32,629 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-07&end_date=2026-05-07&importance=high — trading allowed
+2026-05-07 21:29:32,630 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-07 21:30:34,758 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:00 IST)
+2026-05-07 21:31:37,060 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:01 IST)
+2026-05-07 21:32:39,322 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:02 IST)
+2026-05-07 21:33:41,658 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:03 IST)
+2026-05-07 21:34:43,985 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:04 IST)
+2026-05-07 21:35:46,302 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:05 IST)
+2026-05-07 21:36:48,637 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:06 IST)
+2026-05-07 21:37:51,017 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:07 IST)
+2026-05-07 21:38:53,339 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:08 IST)
+2026-05-07 21:39:55,672 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:09 IST)
+2026-05-07 21:40:58,186 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:10 IST)
+2026-05-07 21:42:00,514 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:12 IST)
+2026-05-07 21:43:02,858 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:13 IST)
+2026-05-07 21:44:05,162 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:14 IST)
+2026-05-07 21:45:07,420 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:15 IST)
+2026-05-07 21:46:09,659 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:16 IST)
+2026-05-07 21:47:12,025 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:17 IST)
+2026-05-07 21:48:14,234 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:18 IST)
+2026-05-07 21:49:16,479 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:19 IST)
+2026-05-07 21:50:18,780 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:20 IST)
+2026-05-07 21:51:21,055 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:21 IST)
+2026-05-07 21:52:23,269 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:22 IST)
+2026-05-07 21:53:25,540 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:23 IST)
+2026-05-07 21:54:27,787 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:24 IST)
+2026-05-07 21:55:30,071 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:25 IST)
+2026-05-07 21:56:32,358 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:26 IST)
+2026-05-07 21:57:34,611 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:27 IST)
+2026-05-07 21:58:23,517 [INFO] 🔄 Session expiring — refreshing...
+2026-05-07 21:58:23,986 [INFO] ✅ Capital.com session created
+2026-05-07 21:58:36,966 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:28 IST)
+2026-05-07 21:59:39,271 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:29 IST)
+2026-05-07 22:00:41,512 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:30 IST) — low liquidity
+2026-05-07 22:01:43,764 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:31 IST) — low liquidity
+2026-05-07 22:02:45,991 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:32 IST) — low liquidity
+2026-05-07 22:03:48,273 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:33 IST) — low liquidity
+2026-05-07 22:04:50,548 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:34 IST) — low liquidity
+2026-05-07 22:05:52,912 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:35 IST) — low liquidity
+2026-05-07 22:06:55,160 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:36 IST) — low liquidity
+2026-05-07 22:07:57,440 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:37 IST) — low liquidity
+2026-05-07 22:08:59,799 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:38 IST) — low liquidity
+2026-05-07 22:10:02,059 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:40 IST) — low liquidity
+2026-05-07 22:11:04,285 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:41 IST) — low liquidity
+2026-05-07 22:12:06,631 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:42 IST) — low liquidity
+2026-05-07 22:13:08,900 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:43 IST) — low liquidity
+2026-05-07 22:14:11,224 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:44 IST) — low liquidity
+2026-05-07 22:15:13,474 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:45 IST) — low liquidity
+2026-05-07 22:16:15,773 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:46 IST) — low liquidity
+2026-05-07 22:17:18,258 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:47 IST) — low liquidity
+2026-05-07 22:18:20,564 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:48 IST) — low liquidity
