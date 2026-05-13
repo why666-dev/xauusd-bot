@@ -540,7 +540,18 @@
       "gain_loss_ratio": 0.16
     }
   },
-  "open_trade": null,
-  "equity": 50270.98,
-  "timestamp": "2026-05-13T21:30:57.922877+05:30"
+  "open_trade": {
+    "deal_id": "o_ab73f824-c11a-4698-a912-f3219cecdcfb",
+    "strategy": "S3_Silver_Bullet",
+    "direction": "BUY",
+    "entry": 4686.235000000001,
+    "sl": 4676.28,
+    "tp1": 4701.16,
+    "tp2": 4706.14,
+    "size": 10.0,
+    "open_time": "2026-05-14T01:25:36.692378+05:30",
+    "tp1_hit": false
+  },
+  "equity": 48040.77,
+  "timestamp": "2026-05-14T04:24:10.232076+05:30"
 }
