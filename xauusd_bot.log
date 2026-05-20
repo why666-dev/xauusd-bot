@@ -16403,3 +16403,284 @@
 2026-05-20 16:27:05,532 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-05-20 16:28:07,576 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-05-20 16:29:09,582 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 17:46:31,732 [INFO] ✅ Capital.com session created
+2026-05-20 17:46:31,733 [INFO] ✅ Daily risk counters reset
+2026-05-20 17:46:31,733 [INFO] ✅ Weekly risk counters reset
+2026-05-20 17:46:31,734 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-05-20T21:59:09.584205+05:30)
+2026-05-20 17:46:31,734 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-05-20 17:46:31,734 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-05-20 17:46:31,734 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-05-20 17:46:31,734 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-05-20 17:46:31,735 [INFO] EOD watchdog + supervisor started
+2026-05-20 17:46:31,738 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.47:5051
+2026-05-20 17:46:31,738 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-20 17:46:34,411 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 17:46:34,412 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 17:46:34,806 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:47:37,459 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:48:40,124 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:49:43,227 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:50:45,845 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:51:48,537 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:52:51,164 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:53:53,802 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:54:56,491 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:55:59,232 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:57:01,876 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:58:04,526 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 17:59:07,186 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 18:00:09,999 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 18:01:12,640 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 18:02:15,348 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 18:03:18,018 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 18:04:20,674 [INFO] S1: Asian range built | High=4508.98 Low=4456.22 Range=$52.76
+2026-05-20 18:05:23,297 [INFO] S1: Asian range built | High=4533.20 Low=4456.22 Range=$76.98
+2026-05-20 18:06:25,951 [INFO] S1: Asian range built | High=4533.20 Low=4456.22 Range=$76.98
+2026-05-20 18:07:28,640 [INFO] S1: Asian range built | High=4533.20 Low=4456.22 Range=$76.98
+2026-05-20 18:08:31,326 [INFO] S1: Asian range built | High=4533.20 Low=4456.22 Range=$76.98
+2026-05-20 18:09:33,987 [INFO] S1: Asian range built | High=4533.20 Low=4456.22 Range=$76.98
+2026-05-20 18:10:36,617 [INFO] S1: Asian range built | High=4533.69 Low=4456.22 Range=$77.47
+2026-05-20 18:11:39,248 [INFO] S1: Asian range built | High=4533.69 Low=4456.22 Range=$77.47
+2026-05-20 18:12:41,914 [INFO] S1: Asian range built | High=4533.69 Low=4456.22 Range=$77.47
+2026-05-20 18:13:44,602 [INFO] S1: Asian range built | High=4533.69 Low=4456.22 Range=$77.47
+2026-05-20 18:14:47,272 [INFO] S1: Asian range built | High=4533.69 Low=4456.22 Range=$77.47
+2026-05-20 18:15:49,941 [INFO] S1: Asian range built | High=4534.10 Low=4456.22 Range=$77.89
+2026-05-20 18:16:52,639 [INFO] S1: Asian range built | High=4534.10 Low=4456.22 Range=$77.89
+2026-05-20 18:16:52,640 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4534.10
+2026-05-20 18:16:52,640 [INFO]   Position size: equity=$50415 risk=$504 ATR=9.14 → 10.0oz
+2026-05-20 18:16:53,039 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4521.29 TP=4562.42 | S1_Asian_Breakout
+2026-05-20 18:16:53,040 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4535.00 | SL=$4521.29 TP1=$4555.56 TP2=$4562.42
+2026-05-20 18:46:34,744 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 18:46:34,745 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 19:46:36,202 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 19:46:36,203 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 19:55:00,981 [INFO] 🏁 EOD: Closing all positions...
+2026-05-20 19:55:02,215 [INFO] ✅ TRADE CLOSED | deal_id=00601567-0055-311e-0000-000084af94c6
+2026-05-20 19:55:02,215 [INFO] Trade recorded | PnL=$12839.95 | Daily=1 | Daily PnL=$12839.95
+2026-05-20 19:55:02,350 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$12839.95 | result=WIN
+2026-05-20 19:55:02,350 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4547.84 | PnL=$12839.95 | WIN
+2026-05-20 19:55:02,352 [INFO] ✅ Daily risk counters reset
+2026-05-20 19:55:02,352 [INFO] ✅ EOD complete
+2026-05-20 19:55:06,582 [INFO] S1: Asian range built | High=4550.35 Low=4456.22 Range=$94.13
+2026-05-20 19:56:09,406 [INFO] S1: Asian range built | High=4550.35 Low=4456.22 Range=$94.13
+2026-05-20 19:57:12,091 [INFO] S1: Asian range built | High=4550.35 Low=4456.22 Range=$94.13
+2026-05-20 19:58:14,711 [INFO] S1: Asian range built | High=4550.35 Low=4456.22 Range=$94.13
+2026-05-20 19:59:17,337 [INFO] S1: Asian range built | High=4550.35 Low=4456.22 Range=$94.13
+2026-05-20 20:00:20,030 [INFO] ⏸ Skipping: Outside trading window (01:30 IST)
+2026-05-20 20:01:22,599 [INFO] ⏸ Skipping: Outside trading window (01:31 IST)
+2026-05-20 20:02:25,302 [INFO] ⏸ Skipping: Outside trading window (01:32 IST)
+2026-05-20 20:03:27,919 [INFO] ⏸ Skipping: Outside trading window (01:33 IST)
+2026-05-20 20:04:30,591 [INFO] ⏸ Skipping: Outside trading window (01:34 IST)
+2026-05-20 20:05:33,188 [INFO] ⏸ Skipping: Outside trading window (01:35 IST)
+2026-05-20 20:06:35,856 [INFO] ⏸ Skipping: Outside trading window (01:36 IST)
+2026-05-20 20:07:38,486 [INFO] ⏸ Skipping: Outside trading window (01:37 IST)
+2026-05-20 20:08:41,217 [INFO] ⏸ Skipping: Outside trading window (01:38 IST)
+2026-05-20 20:09:43,829 [INFO] ⏸ Skipping: Outside trading window (01:39 IST)
+2026-05-20 20:10:47,240 [INFO] ⏸ Skipping: Outside trading window (01:40 IST)
+2026-05-20 20:11:49,876 [INFO] ⏸ Skipping: Outside trading window (01:41 IST)
+2026-05-20 20:12:52,497 [INFO] ⏸ Skipping: Outside trading window (01:42 IST)
+2026-05-20 20:13:55,153 [INFO] ⏸ Skipping: Outside trading window (01:43 IST)
+2026-05-20 20:14:57,732 [INFO] ⏸ Skipping: Outside trading window (01:44 IST)
+2026-05-20 20:16:00,385 [INFO] ⏸ Skipping: Outside trading window (01:45 IST)
+2026-05-20 20:17:02,988 [INFO] ⏸ Skipping: Outside trading window (01:47 IST)
+2026-05-20 20:18:05,675 [INFO] ⏸ Skipping: Outside trading window (01:48 IST)
+2026-05-20 20:19:08,374 [INFO] ⏸ Skipping: Outside trading window (01:49 IST)
+2026-05-20 20:20:11,044 [INFO] ⏸ Skipping: Outside trading window (01:50 IST)
+2026-05-20 20:21:13,614 [INFO] ⏸ Skipping: Outside trading window (01:51 IST)
+2026-05-20 20:22:16,310 [INFO] ⏸ Skipping: Outside trading window (01:52 IST)
+2026-05-20 20:23:18,905 [INFO] ⏸ Skipping: Outside trading window (01:53 IST)
+2026-05-20 20:24:21,596 [INFO] ⏸ Skipping: Outside trading window (01:54 IST)
+2026-05-20 20:25:24,189 [INFO] ⏸ Skipping: Outside trading window (01:55 IST)
+2026-05-20 20:26:26,797 [INFO] ⏸ Skipping: Outside trading window (01:56 IST)
+2026-05-20 20:27:29,324 [INFO] ⏸ Skipping: Outside trading window (01:57 IST)
+2026-05-20 20:28:31,950 [INFO] ⏸ Skipping: Outside trading window (01:58 IST)
+2026-05-20 20:29:34,610 [INFO] ⏸ Skipping: Outside trading window (01:59 IST)
+2026-05-20 20:30:37,293 [INFO] ⏸ Skipping: Outside trading window (02:00 IST)
+2026-05-20 20:31:39,989 [INFO] ⏸ Skipping: Outside trading window (02:01 IST)
+2026-05-20 20:32:42,608 [INFO] ⏸ Skipping: Outside trading window (02:02 IST)
+2026-05-20 20:33:45,251 [INFO] ⏸ Skipping: Outside trading window (02:03 IST)
+2026-05-20 20:34:47,902 [INFO] ⏸ Skipping: Outside trading window (02:04 IST)
+2026-05-20 20:35:50,583 [INFO] ⏸ Skipping: Outside trading window (02:05 IST)
+2026-05-20 20:36:53,243 [INFO] ⏸ Skipping: Outside trading window (02:06 IST)
+2026-05-20 20:37:55,911 [INFO] ⏸ Skipping: Outside trading window (02:07 IST)
+2026-05-20 20:38:58,588 [INFO] ⏸ Skipping: Outside trading window (02:08 IST)
+2026-05-20 20:40:01,288 [INFO] ⏸ Skipping: Outside trading window (02:10 IST)
+2026-05-20 20:41:03,902 [INFO] ⏸ Skipping: Outside trading window (02:11 IST)
+2026-05-20 20:42:06,574 [INFO] ⏸ Skipping: Outside trading window (02:12 IST)
+2026-05-20 20:43:09,333 [INFO] ⏸ Skipping: Outside trading window (02:13 IST)
+2026-05-20 20:44:11,928 [INFO] ⏸ Skipping: Outside trading window (02:14 IST)
+2026-05-20 20:45:14,619 [INFO] ⏸ Skipping: Outside trading window (02:15 IST)
+2026-05-20 20:46:17,358 [INFO] ⏸ Skipping: Outside trading window (02:16 IST)
+2026-05-20 20:46:36,802 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 20:46:36,803 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 20:47:20,043 [INFO] ⏸ Skipping: Outside trading window (02:17 IST)
+2026-05-20 20:48:22,710 [INFO] ⏸ Skipping: Outside trading window (02:18 IST)
+2026-05-20 20:49:25,330 [INFO] ⏸ Skipping: Outside trading window (02:19 IST)
+2026-05-20 20:50:28,033 [INFO] ⏸ Skipping: Outside trading window (02:20 IST)
+2026-05-20 20:51:30,660 [INFO] ⏸ Skipping: Outside trading window (02:21 IST)
+2026-05-20 20:52:33,391 [INFO] ⏸ Skipping: Outside trading window (02:22 IST)
+2026-05-20 20:53:36,020 [INFO] ⏸ Skipping: Outside trading window (02:23 IST)
+2026-05-20 20:54:38,699 [INFO] ⏸ Skipping: Outside trading window (02:24 IST)
+2026-05-20 20:55:41,427 [INFO] ⏸ Skipping: Outside trading window (02:25 IST)
+2026-05-20 20:56:44,158 [INFO] ⏸ Skipping: Outside trading window (02:26 IST)
+2026-05-20 20:57:46,897 [INFO] ⏸ Skipping: Outside trading window (02:27 IST)
+2026-05-20 20:58:49,489 [INFO] ⏸ Skipping: Outside trading window (02:28 IST)
+2026-05-20 20:59:52,220 [INFO] ⏸ Skipping: Outside trading window (02:29 IST)
+2026-05-20 21:00:54,966 [INFO] ⏸ Skipping: Outside trading window (02:30 IST)
+2026-05-20 21:01:57,611 [INFO] ⏸ Skipping: Outside trading window (02:31 IST)
+2026-05-20 21:03:00,247 [INFO] ⏸ Skipping: Outside trading window (02:32 IST)
+2026-05-20 21:04:02,910 [INFO] ⏸ Skipping: Outside trading window (02:34 IST)
+2026-05-20 21:05:05,538 [INFO] ⏸ Skipping: Outside trading window (02:35 IST)
+2026-05-20 21:06:08,228 [INFO] ⏸ Skipping: Outside trading window (02:36 IST)
+2026-05-20 21:07:10,912 [INFO] ⏸ Skipping: Outside trading window (02:37 IST)
+2026-05-20 21:08:13,740 [INFO] ⏸ Skipping: Outside trading window (02:38 IST)
+2026-05-20 21:09:16,401 [INFO] ⏸ Skipping: Outside trading window (02:39 IST)
+2026-05-20 21:10:18,997 [INFO] ⏸ Skipping: Outside trading window (02:40 IST)
+2026-05-20 21:11:21,714 [INFO] ⏸ Skipping: Outside trading window (02:41 IST)
+2026-05-20 21:12:24,468 [INFO] ⏸ Skipping: Outside trading window (02:42 IST)
+2026-05-20 21:13:27,118 [INFO] ⏸ Skipping: Outside trading window (02:43 IST)
+2026-05-20 21:14:29,729 [INFO] ⏸ Skipping: Outside trading window (02:44 IST)
+2026-05-20 21:15:32,362 [INFO] ⏸ Skipping: Outside trading window (02:45 IST)
+2026-05-20 21:16:34,973 [INFO] ⏸ Skipping: Outside trading window (02:46 IST)
+2026-05-20 21:17:37,600 [INFO] ⏸ Skipping: Outside trading window (02:47 IST)
+2026-05-20 21:18:40,202 [INFO] ⏸ Skipping: Outside trading window (02:48 IST)
+2026-05-20 21:19:43,032 [INFO] ⏸ Skipping: Outside trading window (02:49 IST)
+2026-05-20 21:20:45,626 [INFO] ⏸ Skipping: Outside trading window (02:50 IST)
+2026-05-20 21:21:48,226 [INFO] ⏸ Skipping: Outside trading window (02:51 IST)
+2026-05-20 21:22:50,863 [INFO] ⏸ Skipping: Outside trading window (02:52 IST)
+2026-05-20 21:23:53,480 [INFO] ⏸ Skipping: Outside trading window (02:53 IST)
+2026-05-20 21:24:56,174 [INFO] ⏸ Skipping: Outside trading window (02:54 IST)
+2026-05-20 21:25:58,757 [INFO] ⏸ Skipping: Outside trading window (02:55 IST)
+2026-05-20 21:27:01,409 [INFO] ⏸ Skipping: Outside trading window (02:57 IST)
+2026-05-20 21:28:04,021 [INFO] ⏸ Skipping: Outside trading window (02:58 IST)
+2026-05-20 21:29:06,625 [INFO] ⏸ Skipping: Outside trading window (02:59 IST)
+2026-05-20 21:30:09,209 [INFO] ⏸ Skipping: Outside trading window (03:00 IST)
+2026-05-20 21:31:11,799 [INFO] ⏸ Skipping: Outside trading window (03:01 IST)
+2026-05-20 21:32:14,395 [INFO] ⏸ Skipping: Outside trading window (03:02 IST)
+2026-05-20 21:33:16,983 [INFO] ⏸ Skipping: Outside trading window (03:03 IST)
+2026-05-20 21:34:19,605 [INFO] ⏸ Skipping: Outside trading window (03:04 IST)
+2026-05-20 21:35:22,206 [INFO] ⏸ Skipping: Outside trading window (03:05 IST)
+2026-05-20 21:36:24,798 [INFO] ⏸ Skipping: Outside trading window (03:06 IST)
+2026-05-20 21:37:27,377 [INFO] ⏸ Skipping: Outside trading window (03:07 IST)
+2026-05-20 21:38:30,001 [INFO] ⏸ Skipping: Outside trading window (03:08 IST)
+2026-05-20 21:39:32,597 [INFO] ⏸ Skipping: Outside trading window (03:09 IST)
+2026-05-20 21:40:35,223 [INFO] ⏸ Skipping: Outside trading window (03:10 IST)
+2026-05-20 21:41:37,812 [INFO] ⏸ Skipping: Outside trading window (03:11 IST)
+2026-05-20 21:42:40,406 [INFO] ⏸ Skipping: Outside trading window (03:12 IST)
+2026-05-20 21:43:43,056 [INFO] ⏸ Skipping: Outside trading window (03:13 IST)
+2026-05-20 21:44:45,647 [INFO] ⏸ Skipping: Outside trading window (03:14 IST)
+2026-05-20 21:45:48,390 [INFO] ⏸ Skipping: Outside trading window (03:15 IST)
+2026-05-20 21:46:38,321 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 21:46:38,322 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 21:46:51,019 [INFO] ⏸ Skipping: Outside trading window (03:16 IST)
+2026-05-20 21:47:53,608 [INFO] ⏸ Skipping: Outside trading window (03:17 IST)
+2026-05-20 21:48:56,438 [INFO] ⏸ Skipping: Outside trading window (03:18 IST)
+2026-05-20 21:49:59,039 [INFO] ⏸ Skipping: Outside trading window (03:19 IST)
+2026-05-20 21:51:01,748 [INFO] ⏸ Skipping: Outside trading window (03:21 IST)
+2026-05-20 21:52:04,343 [INFO] ⏸ Skipping: Outside trading window (03:22 IST)
+2026-05-20 21:53:06,930 [INFO] ⏸ Skipping: Outside trading window (03:23 IST)
+2026-05-20 21:54:09,529 [INFO] ⏸ Skipping: Outside trading window (03:24 IST)
+2026-05-20 21:55:12,136 [INFO] ⏸ Skipping: Outside trading window (03:25 IST)
+2026-05-20 21:56:14,704 [INFO] ⏸ Skipping: Outside trading window (03:26 IST)
+2026-05-20 21:57:17,324 [INFO] ⏸ Skipping: Outside trading window (03:27 IST)
+2026-05-20 21:58:19,912 [INFO] ⏸ Skipping: Outside trading window (03:28 IST)
+2026-05-20 21:59:22,523 [INFO] ⏸ Skipping: Outside trading window (03:29 IST)
+2026-05-20 22:00:25,297 [INFO] ⏸ Skipping: Dead zone (03:30 IST) — low liquidity
+2026-05-20 22:01:28,071 [INFO] ⏸ Skipping: Dead zone (03:31 IST) — low liquidity
+2026-05-20 22:02:30,662 [INFO] ⏸ Skipping: Dead zone (03:32 IST) — low liquidity
+2026-05-20 22:03:33,254 [INFO] ⏸ Skipping: Dead zone (03:33 IST) — low liquidity
+2026-05-20 22:04:35,839 [INFO] ⏸ Skipping: Dead zone (03:34 IST) — low liquidity
+2026-05-20 22:05:38,436 [INFO] ⏸ Skipping: Dead zone (03:35 IST) — low liquidity
+2026-05-20 22:06:41,068 [INFO] ⏸ Skipping: Dead zone (03:36 IST) — low liquidity
+2026-05-20 22:07:43,652 [INFO] ⏸ Skipping: Dead zone (03:37 IST) — low liquidity
+2026-05-20 22:08:46,295 [INFO] ⏸ Skipping: Dead zone (03:38 IST) — low liquidity
+2026-05-20 22:09:48,873 [INFO] ⏸ Skipping: Dead zone (03:39 IST) — low liquidity
+2026-05-20 22:10:51,496 [INFO] ⏸ Skipping: Dead zone (03:40 IST) — low liquidity
+2026-05-20 22:11:54,109 [INFO] ⏸ Skipping: Dead zone (03:41 IST) — low liquidity
+2026-05-20 22:12:56,696 [INFO] ⏸ Skipping: Dead zone (03:42 IST) — low liquidity
+2026-05-20 22:13:59,284 [INFO] ⏸ Skipping: Dead zone (03:43 IST) — low liquidity
+2026-05-20 22:15:01,886 [INFO] ⏸ Skipping: Dead zone (03:45 IST) — low liquidity
+2026-05-20 22:16:04,472 [INFO] ⏸ Skipping: Dead zone (03:46 IST) — low liquidity
+2026-05-20 22:17:07,055 [INFO] ⏸ Skipping: Dead zone (03:47 IST) — low liquidity
+2026-05-20 22:18:09,677 [INFO] ⏸ Skipping: Dead zone (03:48 IST) — low liquidity
+2026-05-20 22:19:12,354 [INFO] ⏸ Skipping: Dead zone (03:49 IST) — low liquidity
+2026-05-20 22:20:15,167 [INFO] ⏸ Skipping: Dead zone (03:50 IST) — low liquidity
+2026-05-20 22:21:17,825 [INFO] ⏸ Skipping: Dead zone (03:51 IST) — low liquidity
+2026-05-20 22:22:20,404 [INFO] ⏸ Skipping: Dead zone (03:52 IST) — low liquidity
+2026-05-20 22:23:22,987 [INFO] ⏸ Skipping: Dead zone (03:53 IST) — low liquidity
+2026-05-20 22:24:25,561 [INFO] ⏸ Skipping: Dead zone (03:54 IST) — low liquidity
+2026-05-20 22:25:28,162 [INFO] ⏸ Skipping: Dead zone (03:55 IST) — low liquidity
+2026-05-20 22:26:30,759 [INFO] ⏸ Skipping: Dead zone (03:56 IST) — low liquidity
+2026-05-20 22:27:33,543 [INFO] ⏸ Skipping: Dead zone (03:57 IST) — low liquidity
+2026-05-20 22:28:36,150 [INFO] ⏸ Skipping: Dead zone (03:58 IST) — low liquidity
+2026-05-20 22:29:38,734 [INFO] ⏸ Skipping: Dead zone (03:59 IST) — low liquidity
+2026-05-20 22:30:41,325 [INFO] ⏸ Skipping: Dead zone (04:00 IST) — low liquidity
+2026-05-20 22:31:44,021 [INFO] ⏸ Skipping: Dead zone (04:01 IST) — low liquidity
+2026-05-20 22:32:46,769 [INFO] ⏸ Skipping: Dead zone (04:02 IST) — low liquidity
+2026-05-20 22:33:49,468 [INFO] ⏸ Skipping: Dead zone (04:03 IST) — low liquidity
+2026-05-20 22:34:52,046 [INFO] ⏸ Skipping: Dead zone (04:04 IST) — low liquidity
+2026-05-20 22:35:54,669 [INFO] ⏸ Skipping: Dead zone (04:05 IST) — low liquidity
+2026-05-20 22:36:57,308 [INFO] ⏸ Skipping: Dead zone (04:06 IST) — low liquidity
+2026-05-20 22:37:59,934 [INFO] ⏸ Skipping: Dead zone (04:07 IST) — low liquidity
+2026-05-20 22:39:02,517 [INFO] ⏸ Skipping: Dead zone (04:09 IST) — low liquidity
+2026-05-20 22:40:05,105 [INFO] ⏸ Skipping: Dead zone (04:10 IST) — low liquidity
+2026-05-20 22:41:07,694 [INFO] ⏸ Skipping: Dead zone (04:11 IST) — low liquidity
+2026-05-20 22:42:10,307 [INFO] ⏸ Skipping: Dead zone (04:12 IST) — low liquidity
+2026-05-20 22:43:12,943 [INFO] ⏸ Skipping: Dead zone (04:13 IST) — low liquidity
+2026-05-20 22:44:15,570 [INFO] ⏸ Skipping: Dead zone (04:14 IST) — low liquidity
+2026-05-20 22:45:18,318 [INFO] ⏸ Skipping: Dead zone (04:15 IST) — low liquidity
+2026-05-20 22:46:20,914 [INFO] ⏸ Skipping: Dead zone (04:16 IST) — low liquidity
+2026-05-20 22:46:39,583 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 22:46:39,584 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 22:47:23,496 [INFO] ⏸ Skipping: Dead zone (04:17 IST) — low liquidity
+2026-05-20 22:48:26,080 [INFO] ⏸ Skipping: Dead zone (04:18 IST) — low liquidity
+2026-05-20 22:49:28,713 [INFO] ⏸ Skipping: Dead zone (04:19 IST) — low liquidity
+2026-05-20 22:50:31,299 [INFO] ⏸ Skipping: Dead zone (04:20 IST) — low liquidity
+2026-05-20 22:51:33,901 [INFO] ⏸ Skipping: Dead zone (04:21 IST) — low liquidity
+2026-05-20 22:52:36,595 [INFO] ⏸ Skipping: Dead zone (04:22 IST) — low liquidity
+2026-05-20 22:53:39,173 [INFO] ⏸ Skipping: Dead zone (04:23 IST) — low liquidity
+2026-05-20 22:54:41,761 [INFO] ⏸ Skipping: Dead zone (04:24 IST) — low liquidity
+2026-05-20 22:55:44,343 [INFO] ⏸ Skipping: Dead zone (04:25 IST) — low liquidity
+2026-05-20 22:56:46,939 [INFO] ⏸ Skipping: Dead zone (04:26 IST) — low liquidity
+2026-05-20 22:57:49,515 [INFO] ⏸ Skipping: Dead zone (04:27 IST) — low liquidity
+2026-05-20 22:58:52,104 [INFO] ⏸ Skipping: Dead zone (04:28 IST) — low liquidity
+2026-05-20 22:59:54,717 [INFO] ⏸ Skipping: Dead zone (04:29 IST) — low liquidity
+2026-05-20 23:00:57,323 [INFO] ⏸ Skipping: Dead zone (04:30 IST) — low liquidity
+2026-05-20 23:01:59,995 [INFO] ⏸ Skipping: Dead zone (04:31 IST) — low liquidity
+2026-05-20 23:03:02,595 [INFO] ⏸ Skipping: Dead zone (04:33 IST) — low liquidity
+2026-05-20 23:04:05,182 [INFO] ⏸ Skipping: Dead zone (04:34 IST) — low liquidity
+2026-05-20 23:05:07,809 [INFO] ⏸ Skipping: Dead zone (04:35 IST) — low liquidity
+2026-05-20 23:06:15,112 [INFO] ⏸ Skipping: Dead zone (04:36 IST) — low liquidity
+2026-05-20 23:07:17,716 [INFO] ⏸ Skipping: Dead zone (04:37 IST) — low liquidity
+2026-05-20 23:08:20,355 [INFO] ⏸ Skipping: Dead zone (04:38 IST) — low liquidity
+2026-05-20 23:09:22,935 [INFO] ⏸ Skipping: Dead zone (04:39 IST) — low liquidity
+2026-05-20 23:10:25,569 [INFO] ⏸ Skipping: Dead zone (04:40 IST) — low liquidity
+2026-05-20 23:11:28,157 [INFO] ⏸ Skipping: Dead zone (04:41 IST) — low liquidity
+2026-05-20 23:12:30,734 [INFO] ⏸ Skipping: Dead zone (04:42 IST) — low liquidity
+2026-05-20 23:13:33,317 [INFO] ⏸ Skipping: Dead zone (04:43 IST) — low liquidity
+2026-05-20 23:14:35,916 [INFO] ⏸ Skipping: Dead zone (04:44 IST) — low liquidity
+2026-05-20 23:15:31,880 [INFO] 🔄 Session expiring — refreshing...
+2026-05-20 23:15:32,372 [INFO] ✅ Capital.com session created
+2026-05-20 23:15:38,517 [INFO] ⏸ Skipping: Dead zone (04:45 IST) — low liquidity
+2026-05-20 23:16:41,104 [INFO] ⏸ Skipping: Dead zone (04:46 IST) — low liquidity
+2026-05-20 23:17:43,707 [INFO] ⏸ Skipping: Dead zone (04:47 IST) — low liquidity
+2026-05-20 23:18:46,341 [INFO] ⏸ Skipping: Dead zone (04:48 IST) — low liquidity
+2026-05-20 23:19:48,916 [INFO] ⏸ Skipping: Dead zone (04:49 IST) — low liquidity
+2026-05-20 23:20:51,711 [INFO] ⏸ Skipping: Dead zone (04:50 IST) — low liquidity
+2026-05-20 23:21:54,313 [INFO] ⏸ Skipping: Dead zone (04:51 IST) — low liquidity
+2026-05-20 23:22:56,885 [INFO] ⏸ Skipping: Dead zone (04:52 IST) — low liquidity
+2026-05-20 23:23:59,514 [INFO] ⏸ Skipping: Dead zone (04:53 IST) — low liquidity
+2026-05-20 23:25:02,116 [INFO] ⏸ Skipping: Dead zone (04:55 IST) — low liquidity
+2026-05-20 23:26:05,021 [INFO] ⏸ Skipping: Dead zone (04:56 IST) — low liquidity
+2026-05-20 23:27:07,610 [INFO] ⏸ Skipping: Dead zone (04:57 IST) — low liquidity
+2026-05-20 23:28:10,189 [INFO] ⏸ Skipping: Dead zone (04:58 IST) — low liquidity
+2026-05-20 23:29:12,784 [INFO] ⏸ Skipping: Dead zone (04:59 IST) — low liquidity
+2026-05-20 23:30:15,412 [INFO] ⏸ Skipping: Dead zone (05:00 IST) — low liquidity
+2026-05-20 23:31:18,049 [INFO] ⏸ Skipping: Dead zone (05:01 IST) — low liquidity
+2026-05-20 23:32:20,662 [INFO] ⏸ Skipping: Dead zone (05:02 IST) — low liquidity
+2026-05-20 23:33:23,255 [INFO] ⏸ Skipping: Dead zone (05:03 IST) — low liquidity
+2026-05-20 23:34:25,831 [INFO] ⏸ Skipping: Dead zone (05:04 IST) — low liquidity
+2026-05-20 23:35:28,406 [INFO] ⏸ Skipping: Dead zone (05:05 IST) — low liquidity
