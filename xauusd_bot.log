@@ -16031,3 +16031,375 @@
 2026-05-19 22:30:30,337 [INFO] 📰 News calendar refreshed — 0 events today
 2026-05-19 22:59:21,260 [INFO] 🔄 Session expiring — refreshing...
 2026-05-19 22:59:21,640 [INFO] ✅ Capital.com session created
+2026-05-20 10:39:35,463 [INFO] ✅ Capital.com session created
+2026-05-20 10:39:35,464 [INFO] ✅ Daily risk counters reset
+2026-05-20 10:39:35,465 [INFO] ✅ Weekly risk counters reset
+2026-05-20 10:39:35,465 [INFO] 🔄 Restored open trade: S1_Asian_Breakout SELL @ $4483.22
+2026-05-20 10:39:35,465 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-05-20T04:50:12.666094+05:30)
+2026-05-20 10:39:35,772 [WARNING] ⚠️ Reconcile: open trade in state but NOT on broker — recording as closed
+2026-05-20 10:39:36,231 [INFO] Trade recorded | PnL=$-12710.05 | Daily=1 | Daily PnL=$-12710.05
+2026-05-20 10:39:36,361 [INFO] Excel ✅ S1_Asian_Breakout SELL | net=$-12710.05 | result=LOSS
+2026-05-20 10:39:36,361 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout SELL | Exit=$4495.93 | PnL=$-12710.05 | LOSS
+2026-05-20 10:39:36,364 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-05-20 10:39:36,364 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-05-20 10:39:36,364 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-05-20 10:39:36,364 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-05-20 10:39:36,365 [INFO] EOD watchdog + supervisor started
+2026-05-20 10:39:36,368 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.225:5051
+2026-05-20 10:39:36,368 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-20 10:39:38,112 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 10:39:38,113 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 10:39:38,809 [INFO] ⏸ Skipping: Daily loss -25.2% — trading halted
+2026-05-20 10:40:40,768 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:41:42,722 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:42:44,712 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:43:46,702 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:44:48,743 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:45:50,722 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:46:52,717 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:47:54,702 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:48:56,668 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:49:58,645 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:51:00,838 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:52:02,939 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:53:05,011 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:54:07,028 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:55:09,093 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:56:11,081 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:57:13,097 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:58:15,031 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 10:59:17,021 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:00:19,027 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:01:21,020 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:02:23,137 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:03:25,189 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:04:27,145 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:05:29,178 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:06:31,234 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:07:33,169 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:08:35,154 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:09:37,175 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:10:39,202 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:11:41,111 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:12:43,144 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:13:45,107 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:14:47,109 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:15:49,110 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:16:51,146 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:17:53,133 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:18:55,119 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:19:57,412 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:20:59,362 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:22:01,407 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:23:03,408 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:24:05,349 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:25:07,292 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:26:09,225 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:27:11,243 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:28:13,335 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:29:15,292 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:30:17,325 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:31:19,265 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:32:21,295 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:33:23,391 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:34:25,393 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:35:27,411 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:36:29,407 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:37:31,427 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:38:33,458 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:39:35,496 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:39:40,766 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 11:39:40,767 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 11:40:37,463 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:41:39,445 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:42:41,434 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:43:43,419 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:44:45,442 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:45:47,388 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:46:49,346 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:47:51,335 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:48:53,316 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:49:55,367 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:50:57,335 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:51:59,284 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:53:01,292 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:54:03,246 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:55:05,278 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:56:07,290 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:57:09,338 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:58:11,347 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 11:59:13,274 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:00:15,229 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:01:17,355 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:02:19,356 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:03:21,380 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:04:23,336 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:05:25,380 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:06:27,335 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:07:29,359 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:08:31,341 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:09:33,267 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:10:35,354 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:11:37,262 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:12:39,255 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:13:41,200 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:14:43,192 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:15:45,224 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:16:47,232 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:17:49,246 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:18:51,256 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:19:53,287 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:20:55,325 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:21:57,419 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:22:59,498 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:24:01,469 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:25:03,463 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:26:05,422 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:27:07,445 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:28:09,534 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:29:11,486 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:30:13,869 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:31:15,924 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:32:17,882 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:33:19,883 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:34:21,937 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:35:23,896 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:36:25,902 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:37:27,919 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:38:29,948 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:39:31,987 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:39:41,811 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 12:39:41,812 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 12:40:33,997 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:41:36,064 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:42:38,009 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:43:40,109 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:44:42,067 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:45:44,109 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:46:46,108 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:47:48,089 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:48:50,251 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:49:52,331 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:50:54,395 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:51:56,413 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:52:58,459 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:54:00,443 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:55:02,568 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:56:04,588 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:57:06,713 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:58:08,734 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 12:59:10,704 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:00:12,780 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:01:14,776 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:02:16,824 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:03:19,063 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:04:21,096 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:05:23,084 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:06:25,096 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:07:27,084 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:08:29,046 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:09:31,086 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:10:33,092 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:11:35,117 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:12:37,116 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:13:39,173 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:14:41,272 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:15:43,257 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:16:45,307 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:17:47,305 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:18:49,287 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:19:51,406 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:20:53,443 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:21:55,512 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:22:57,489 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:23:59,538 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:25:01,695 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:26:03,786 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:27:05,923 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:28:07,957 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:29:10,028 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:30:12,033 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:31:14,027 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:32:16,041 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:33:18,061 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:34:20,052 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:35:22,086 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:36:24,107 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:37:26,103 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:38:28,205 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:39:30,169 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:39:43,734 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 13:39:43,735 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 13:40:32,199 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:41:34,742 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:42:36,742 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:43:38,825 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:44:40,877 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:45:42,907 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:46:45,007 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:47:47,019 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:48:48,921 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:49:50,902 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:50:52,980 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:51:55,004 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:52:57,077 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:53:59,100 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:55:01,078 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:56:03,071 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:57:05,226 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:58:07,280 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 13:59:09,350 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:00:11,417 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:01:13,517 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:02:15,541 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:03:17,583 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:04:19,570 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:05:21,792 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:06:23,764 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:07:25,833 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:08:27,924 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:09:29,950 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:10:32,202 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:11:34,262 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:12:36,617 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:13:38,700 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:14:40,870 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:15:42,923 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:16:44,941 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:17:46,915 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:18:48,862 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:19:50,908 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:20:53,018 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:21:55,173 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:22:57,266 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:23:59,323 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:25:01,415 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:26:03,414 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:27:05,498 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:28:07,596 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:29:09,652 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:30:11,731 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:31:13,844 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:32:15,832 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:33:17,909 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:34:19,998 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:35:22,026 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:36:24,085 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:37:26,142 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:38:28,159 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:39:30,216 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:39:44,585 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 14:39:44,586 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 14:40:32,167 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:41:34,074 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:42:36,101 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:43:38,139 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:44:40,148 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:45:42,148 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:46:44,097 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:47:46,238 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:48:48,208 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:49:50,201 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:50:52,287 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:51:54,291 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:52:56,367 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:53:58,360 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:55:00,408 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:56:02,519 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:57:04,594 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:58:06,625 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 14:59:08,585 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:00:10,562 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:01:12,768 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:02:14,780 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:03:16,786 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:04:18,838 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:05:20,883 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:06:22,976 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:07:25,031 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:08:26,992 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:09:29,120 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:10:31,071 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:11:33,078 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:12:35,135 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:13:37,147 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:14:39,251 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:15:41,232 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:16:43,318 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:17:45,331 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:18:47,398 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:19:49,479 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:20:51,556 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:21:53,557 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:22:56,144 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:23:58,178 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:25:00,170 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:26:02,357 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:27:04,408 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:28:06,423 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:29:08,498 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:30:10,760 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:31:12,902 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:32:14,948 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:33:17,044 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:34:19,131 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:35:21,211 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:36:23,242 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:37:25,218 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:38:27,248 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:39:29,237 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:39:47,019 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-20&end_date=2026-05-20&importance=high — trading allowed
+2026-05-20 15:39:47,020 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-20 15:40:31,220 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:41:33,217 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:42:35,278 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:43:37,395 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:44:39,424 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:45:41,522 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:46:43,630 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:47:45,742 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:48:47,797 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:49:49,848 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:50:51,957 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:51:53,914 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:52:55,925 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:53:58,049 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:55:00,234 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:56:02,439 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:57:04,526 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:58:06,576 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 15:59:08,565 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:00:11,738 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:01:13,801 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:02:15,827 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:03:17,880 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:04:19,875 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:05:21,905 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:06:23,946 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:07:26,055 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:08:28,083 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:08:37,141 [INFO] 🔄 Session expiring — refreshing...
+2026-05-20 16:08:37,540 [INFO] ✅ Capital.com session created
+2026-05-20 16:09:30,077 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:10:32,153 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:11:34,223 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:12:36,362 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:13:38,327 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:14:40,363 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:15:42,423 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:16:44,462 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:17:46,443 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:18:48,521 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:19:50,548 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:20:53,598 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:21:55,534 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:22:57,488 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:23:59,428 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:25:01,414 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:26:03,539 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:27:05,532 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:28:07,576 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-20 16:29:09,582 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
