@@ -17419,3 +17419,364 @@
 2026-05-21 23:11:00,872 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (04:41 IST) — low liquidity
 2026-05-21 23:12:03,067 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (04:42 IST) — low liquidity
 2026-05-21 23:13:05,290 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (04:43 IST) — low liquidity
+2026-05-26 17:48:47,834 [ERROR] ❌ Session creation failed (attempt 1): 429 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/session
+2026-05-26 17:48:47,835 [INFO]    Retrying in 2s...
+2026-05-26 17:48:50,272 [INFO] ✅ Capital.com session created
+2026-05-26 17:48:50,274 [INFO] ✅ Daily risk counters reset
+2026-05-26 17:48:50,274 [INFO] ✅ Weekly risk counters reset
+2026-05-26 17:48:50,274 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-05-22T04:43:05.292112+05:30)
+2026-05-26 17:48:50,274 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-05-26 17:48:50,274 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-05-26 17:48:50,275 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-05-26 17:48:50,275 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-05-26 17:48:50,275 [INFO] EOD watchdog + supervisor started
+2026-05-26 17:48:50,279 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.1.110:5051
+2026-05-26 17:48:50,279 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-26 17:48:52,357 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-26&end_date=2026-05-26&importance=high — trading allowed
+2026-05-26 17:48:52,358 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-26 17:48:52,665 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:49:54,868 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:50:56,770 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:51:58,663 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:53:00,552 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:54:02,521 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:55:04,441 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:56:06,362 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:57:08,284 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:58:10,198 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 17:59:12,124 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 18:00:14,093 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 18:01:15,991 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 18:02:17,881 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 18:03:19,779 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 18:04:21,677 [INFO] S1: Asian range built | High=4580.49 Low=4527.91 Range=$52.58
+2026-05-26 18:05:23,611 [INFO] S1: Asian range built | High=4580.49 Low=4485.05 Range=$95.44
+2026-05-26 18:06:25,497 [INFO] S1: Asian range built | High=4580.49 Low=4485.05 Range=$95.44
+2026-05-26 18:06:25,497 [INFO] 🎯 SIGNAL: S1_Asian_Breakout SELL | 15M closed below Asian Low $4485.05
+2026-05-26 18:06:25,497 [INFO]   Position size: equity=$50533 risk=$505 ATR=7.08 → 10.0oz
+2026-05-26 18:06:25,807 [INFO] ✅ TRADE OPENED | SELL 10.0oz XAUUSD | SL=4495.07 TP=4463.22 | S1_Asian_Breakout
+2026-05-26 18:06:25,808 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout SELL 10.0oz @ $4484.45 | SL=$4495.07 TP1=$4468.52 TP2=$4463.22
+2026-05-26 18:26:02,035 [INFO] Trade recorded | PnL=$-9360.05 | Daily=1 | Daily PnL=$-9360.05
+2026-05-26 18:26:02,220 [INFO] Excel ✅ S1_Asian_Breakout SELL | net=$-9360.05 | result=LOSS
+2026-05-26 18:26:02,220 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout SELL | Exit=$4493.81 | PnL=$-9360.05 | LOSS
+2026-05-26 18:27:04,100 [INFO] ⏸ Skipping: Daily loss -18.5% — trading halted
+2026-05-26 18:28:06,001 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:29:07,887 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:30:09,786 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:31:11,731 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:32:13,611 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:33:15,772 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:34:17,652 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:35:19,542 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:36:21,406 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:37:23,377 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:38:25,353 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:39:27,278 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:40:29,178 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:41:31,092 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:42:33,057 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:43:35,008 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:44:36,908 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:45:38,784 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:46:40,692 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:47:42,594 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:48:44,659 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:48:53,049 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-26&end_date=2026-05-26&importance=high — trading allowed
+2026-05-26 18:48:53,050 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-26 18:49:46,563 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:50:48,509 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:51:50,431 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:52:52,363 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:53:54,270 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:54:56,203 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:55:58,107 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:57:00,019 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:58:01,916 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 18:59:03,811 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:00:05,863 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:01:07,759 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:02:09,667 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:03:11,573 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:04:13,508 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:05:15,425 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:06:17,346 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:07:19,253 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:08:21,252 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:09:23,190 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:10:25,096 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:11:27,022 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:12:28,916 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:13:30,825 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:14:32,732 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:15:34,736 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:16:36,639 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:17:38,557 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:18:40,458 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:19:42,358 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:20:44,223 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:21:46,122 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:22:48,042 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:23:49,969 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:24:51,865 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:25:53,774 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:26:55,657 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:27:57,673 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:28:59,574 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:30:01,527 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:31:03,402 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:32:05,315 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:33:07,219 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:34:09,088 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:35:11,033 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:36:12,913 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:37:14,951 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:38:16,832 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:39:18,725 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:40:20,614 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:41:22,564 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:42:24,474 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:43:26,339 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:44:28,203 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:45:30,127 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:46:32,010 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:47:33,894 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:48:35,800 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:48:54,577 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-26&end_date=2026-05-26&importance=high — trading allowed
+2026-05-26 19:48:54,578 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-26 19:49:37,696 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:50:39,683 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:51:41,574 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:52:43,488 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:53:45,387 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:54:47,277 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-05-26 19:55:00,563 [INFO] 🏁 EOD: Closing all positions...
+2026-05-26 19:55:00,563 [INFO] ✅ Daily risk counters reset
+2026-05-26 19:55:00,563 [INFO] ✅ EOD complete
+2026-05-26 19:55:49,405 [INFO] ⏸ Skipping: Weekly loss -18.6% — trading halted for week
+2026-05-26 19:56:51,370 [INFO] ⏸ Skipping: Weekly loss -18.6% — trading halted for week
+2026-05-26 19:57:53,283 [INFO] ⏸ Skipping: Weekly loss -18.6% — trading halted for week
+2026-05-26 19:58:55,175 [INFO] ⏸ Skipping: Weekly loss -18.6% — trading halted for week
+2026-05-26 19:59:57,076 [INFO] ⏸ Skipping: Weekly loss -18.6% — trading halted for week
+2026-05-26 20:00:59,022 [INFO] ⏸ Skipping: Outside trading window (01:30 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:02:00,906 [INFO] ⏸ Skipping: Outside trading window (01:32 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:03:02,891 [INFO] ⏸ Skipping: Outside trading window (01:33 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:04:04,772 [INFO] ⏸ Skipping: Outside trading window (01:34 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:05:06,662 [INFO] ⏸ Skipping: Outside trading window (01:35 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:06:08,547 [INFO] ⏸ Skipping: Outside trading window (01:36 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:07:10,442 [INFO] ⏸ Skipping: Outside trading window (01:37 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:08:12,328 [INFO] ⏸ Skipping: Outside trading window (01:38 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:09:14,214 [INFO] ⏸ Skipping: Outside trading window (01:39 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:10:16,109 [INFO] ⏸ Skipping: Outside trading window (01:40 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:11:18,002 [INFO] ⏸ Skipping: Outside trading window (01:41 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:12:19,926 [INFO] ⏸ Skipping: Outside trading window (01:42 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:13:21,820 [INFO] ⏸ Skipping: Outside trading window (01:43 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:14:23,703 [INFO] ⏸ Skipping: Outside trading window (01:44 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:15:25,610 [INFO] ⏸ Skipping: Outside trading window (01:45 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:16:27,586 [INFO] ⏸ Skipping: Outside trading window (01:46 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:17:29,498 [INFO] ⏸ Skipping: Outside trading window (01:47 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:18:31,400 [INFO] ⏸ Skipping: Outside trading window (01:48 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:19:33,327 [INFO] ⏸ Skipping: Outside trading window (01:49 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:20:35,239 [INFO] ⏸ Skipping: Outside trading window (01:50 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:21:37,150 [INFO] ⏸ Skipping: Outside trading window (01:51 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:22:39,027 [INFO] ⏸ Skipping: Outside trading window (01:52 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:23:40,936 [INFO] ⏸ Skipping: Outside trading window (01:53 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:24:42,863 [INFO] ⏸ Skipping: Outside trading window (01:54 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:25:44,765 [INFO] ⏸ Skipping: Outside trading window (01:55 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:26:46,676 [INFO] ⏸ Skipping: Outside trading window (01:56 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:27:48,606 [INFO] ⏸ Skipping: Outside trading window (01:57 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:28:50,505 [INFO] ⏸ Skipping: Outside trading window (01:58 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:29:52,449 [INFO] ⏸ Skipping: Outside trading window (01:59 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:30:54,351 [INFO] ⏸ Skipping: Outside trading window (02:00 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:31:56,266 [INFO] ⏸ Skipping: Outside trading window (02:01 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:32:58,192 [INFO] ⏸ Skipping: Outside trading window (02:02 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:34:00,156 [INFO] ⏸ Skipping: Outside trading window (02:03 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:35:02,091 [INFO] ⏸ Skipping: Outside trading window (02:05 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:36:03,971 [INFO] ⏸ Skipping: Outside trading window (02:06 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:37:05,866 [INFO] ⏸ Skipping: Outside trading window (02:07 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:38:07,739 [INFO] ⏸ Skipping: Outside trading window (02:08 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:39:09,628 [INFO] ⏸ Skipping: Outside trading window (02:09 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:40:11,482 [INFO] ⏸ Skipping: Outside trading window (02:10 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:41:13,359 [INFO] ⏸ Skipping: Outside trading window (02:11 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:42:15,239 [INFO] ⏸ Skipping: Outside trading window (02:12 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:43:17,117 [INFO] ⏸ Skipping: Outside trading window (02:13 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:44:19,023 [INFO] ⏸ Skipping: Outside trading window (02:14 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:45:20,907 [INFO] ⏸ Skipping: Outside trading window (02:15 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:46:22,794 [INFO] ⏸ Skipping: Outside trading window (02:16 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:47:24,666 [INFO] ⏸ Skipping: Outside trading window (02:17 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:48:26,568 [INFO] ⏸ Skipping: Outside trading window (02:18 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:48:57,361 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-26&end_date=2026-05-26&importance=high — trading allowed
+2026-05-26 20:48:57,362 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-26 20:49:28,451 [INFO] ⏸ Skipping: Outside trading window (02:19 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:50:30,354 [INFO] ⏸ Skipping: Outside trading window (02:20 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:51:32,274 [INFO] ⏸ Skipping: Outside trading window (02:21 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:52:34,138 [INFO] ⏸ Skipping: Outside trading window (02:22 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:53:36,052 [INFO] ⏸ Skipping: Outside trading window (02:23 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:54:37,933 [INFO] ⏸ Skipping: Outside trading window (02:24 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:55:39,811 [INFO] ⏸ Skipping: Outside trading window (02:25 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:56:41,700 [INFO] ⏸ Skipping: Outside trading window (02:26 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:57:43,588 [INFO] ⏸ Skipping: Outside trading window (02:27 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:58:45,465 [INFO] ⏸ Skipping: Outside trading window (02:28 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 20:59:47,329 [INFO] ⏸ Skipping: Outside trading window (02:29 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:00:49,240 [INFO] ⏸ Skipping: Outside trading window (02:30 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:01:51,125 [INFO] ⏸ Skipping: Outside trading window (02:31 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:02:53,008 [INFO] ⏸ Skipping: Outside trading window (02:32 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:03:54,893 [INFO] ⏸ Skipping: Outside trading window (02:33 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:04:56,770 [INFO] ⏸ Skipping: Outside trading window (02:34 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:05:58,686 [INFO] ⏸ Skipping: Outside trading window (02:35 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:07:00,585 [INFO] ⏸ Skipping: Outside trading window (02:37 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:08:02,471 [INFO] ⏸ Skipping: Outside trading window (02:38 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:09:04,404 [INFO] ⏸ Skipping: Outside trading window (02:39 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:10:06,348 [INFO] ⏸ Skipping: Outside trading window (02:40 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:11:08,240 [INFO] ⏸ Skipping: Outside trading window (02:41 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:12:10,137 [INFO] ⏸ Skipping: Outside trading window (02:42 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:13:12,022 [INFO] ⏸ Skipping: Outside trading window (02:43 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:14:13,922 [INFO] ⏸ Skipping: Outside trading window (02:44 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:15:15,831 [INFO] ⏸ Skipping: Outside trading window (02:45 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:16:17,746 [INFO] ⏸ Skipping: Outside trading window (02:46 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:17:19,683 [INFO] ⏸ Skipping: Outside trading window (02:47 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:18:21,590 [INFO] ⏸ Skipping: Outside trading window (02:48 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:19:23,468 [INFO] ⏸ Skipping: Outside trading window (02:49 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:20:25,338 [INFO] ⏸ Skipping: Outside trading window (02:50 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:21:27,239 [INFO] ⏸ Skipping: Outside trading window (02:51 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:22:29,163 [INFO] ⏸ Skipping: Outside trading window (02:52 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:23:31,105 [INFO] ⏸ Skipping: Outside trading window (02:53 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:24:33,036 [INFO] ⏸ Skipping: Outside trading window (02:54 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:25:34,907 [INFO] ⏸ Skipping: Outside trading window (02:55 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:26:36,776 [INFO] ⏸ Skipping: Outside trading window (02:56 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:27:38,634 [INFO] ⏸ Skipping: Outside trading window (02:57 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:28:40,644 [INFO] ⏸ Skipping: Outside trading window (02:58 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:29:42,558 [INFO] ⏸ Skipping: Outside trading window (02:59 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:30:44,439 [INFO] ⏸ Skipping: Outside trading window (03:00 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:31:46,327 [INFO] ⏸ Skipping: Outside trading window (03:01 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:32:48,372 [INFO] ⏸ Skipping: Outside trading window (03:02 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:33:50,323 [INFO] ⏸ Skipping: Outside trading window (03:03 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:34:52,236 [INFO] ⏸ Skipping: Outside trading window (03:04 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:35:54,147 [INFO] ⏸ Skipping: Outside trading window (03:05 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:36:56,034 [INFO] ⏸ Skipping: Outside trading window (03:06 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:37:57,954 [INFO] ⏸ Skipping: Outside trading window (03:07 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:38:59,907 [INFO] ⏸ Skipping: Outside trading window (03:08 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:40:01,773 [INFO] ⏸ Skipping: Outside trading window (03:10 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:41:03,761 [INFO] ⏸ Skipping: Outside trading window (03:11 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:42:05,647 [INFO] ⏸ Skipping: Outside trading window (03:12 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:43:07,514 [INFO] ⏸ Skipping: Outside trading window (03:13 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:44:09,423 [INFO] ⏸ Skipping: Outside trading window (03:14 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:45:11,302 [INFO] ⏸ Skipping: Outside trading window (03:15 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:46:13,191 [INFO] ⏸ Skipping: Outside trading window (03:16 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:47:15,061 [INFO] ⏸ Skipping: Outside trading window (03:17 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:48:16,971 [INFO] ⏸ Skipping: Outside trading window (03:18 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:48:58,487 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-26&end_date=2026-05-26&importance=high — trading allowed
+2026-05-26 21:48:58,488 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-26 21:49:18,865 [INFO] ⏸ Skipping: Outside trading window (03:19 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:50:20,786 [INFO] ⏸ Skipping: Outside trading window (03:20 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:51:22,664 [INFO] ⏸ Skipping: Outside trading window (03:21 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:52:24,525 [INFO] ⏸ Skipping: Outside trading window (03:22 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:53:26,430 [INFO] ⏸ Skipping: Outside trading window (03:23 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:54:28,312 [INFO] ⏸ Skipping: Outside trading window (03:24 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:55:30,223 [INFO] ⏸ Skipping: Outside trading window (03:25 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:56:32,172 [INFO] ⏸ Skipping: Outside trading window (03:26 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:57:34,054 [INFO] ⏸ Skipping: Outside trading window (03:27 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:58:35,958 [INFO] ⏸ Skipping: Outside trading window (03:28 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 21:59:37,869 [INFO] ⏸ Skipping: Outside trading window (03:29 IST) | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:00:39,740 [INFO] ⏸ Skipping: Dead zone (03:30 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:01:41,620 [INFO] ⏸ Skipping: Dead zone (03:31 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:02:43,506 [INFO] ⏸ Skipping: Dead zone (03:32 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:03:45,392 [INFO] ⏸ Skipping: Dead zone (03:33 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:04:47,274 [INFO] ⏸ Skipping: Dead zone (03:34 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:05:49,186 [INFO] ⏸ Skipping: Dead zone (03:35 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:06:51,050 [INFO] ⏸ Skipping: Dead zone (03:36 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:07:52,950 [INFO] ⏸ Skipping: Dead zone (03:37 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:08:54,821 [INFO] ⏸ Skipping: Dead zone (03:38 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:09:56,702 [INFO] ⏸ Skipping: Dead zone (03:39 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:10:58,684 [INFO] ⏸ Skipping: Dead zone (03:40 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:12:00,576 [INFO] ⏸ Skipping: Dead zone (03:42 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:13:02,473 [INFO] ⏸ Skipping: Dead zone (03:43 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:14:04,373 [INFO] ⏸ Skipping: Dead zone (03:44 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:15:06,310 [INFO] ⏸ Skipping: Dead zone (03:45 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:16:08,197 [INFO] ⏸ Skipping: Dead zone (03:46 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:17:10,120 [INFO] ⏸ Skipping: Dead zone (03:47 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:18:12,063 [INFO] ⏸ Skipping: Dead zone (03:48 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:19:13,954 [INFO] ⏸ Skipping: Dead zone (03:49 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:20:15,827 [INFO] ⏸ Skipping: Dead zone (03:50 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:21:17,721 [INFO] ⏸ Skipping: Dead zone (03:51 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:22:19,593 [INFO] ⏸ Skipping: Dead zone (03:52 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:23:21,478 [INFO] ⏸ Skipping: Dead zone (03:53 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:24:23,395 [INFO] ⏸ Skipping: Dead zone (03:54 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:25:25,264 [INFO] ⏸ Skipping: Dead zone (03:55 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:26:27,136 [INFO] ⏸ Skipping: Dead zone (03:56 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:27:29,020 [INFO] ⏸ Skipping: Dead zone (03:57 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:28:30,888 [INFO] ⏸ Skipping: Dead zone (03:58 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:29:32,781 [INFO] ⏸ Skipping: Dead zone (03:59 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:30:34,680 [INFO] ⏸ Skipping: Dead zone (04:00 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:31:36,571 [INFO] ⏸ Skipping: Dead zone (04:01 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:32:38,439 [INFO] ⏸ Skipping: Dead zone (04:02 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:33:40,331 [INFO] ⏸ Skipping: Dead zone (04:03 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:34:42,219 [INFO] ⏸ Skipping: Dead zone (04:04 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:35:44,084 [INFO] ⏸ Skipping: Dead zone (04:05 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:36:45,960 [INFO] ⏸ Skipping: Dead zone (04:06 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:37:47,877 [INFO] ⏸ Skipping: Dead zone (04:07 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:38:49,828 [INFO] ⏸ Skipping: Dead zone (04:08 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:39:51,696 [INFO] ⏸ Skipping: Dead zone (04:09 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:40:53,651 [INFO] ⏸ Skipping: Dead zone (04:10 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:41:55,559 [INFO] ⏸ Skipping: Dead zone (04:11 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:42:57,533 [INFO] ⏸ Skipping: Dead zone (04:12 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:43:59,423 [INFO] ⏸ Skipping: Dead zone (04:13 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:45:01,348 [INFO] ⏸ Skipping: Dead zone (04:15 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:46:03,203 [INFO] ⏸ Skipping: Dead zone (04:16 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:47:05,095 [INFO] ⏸ Skipping: Dead zone (04:17 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:48:06,962 [INFO] ⏸ Skipping: Dead zone (04:18 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:49:01,274 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-05-26&end_date=2026-05-26&importance=high — trading allowed
+2026-05-26 22:49:01,275 [INFO] 📰 News calendar refreshed — 0 events today
+2026-05-26 22:49:08,838 [INFO] ⏸ Skipping: Dead zone (04:19 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:50:10,751 [INFO] ⏸ Skipping: Dead zone (04:20 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:51:12,688 [INFO] ⏸ Skipping: Dead zone (04:21 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:52:14,555 [INFO] ⏸ Skipping: Dead zone (04:22 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:53:16,427 [INFO] ⏸ Skipping: Dead zone (04:23 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:54:18,321 [INFO] ⏸ Skipping: Dead zone (04:24 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:55:20,199 [INFO] ⏸ Skipping: Dead zone (04:25 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:56:22,170 [INFO] ⏸ Skipping: Dead zone (04:26 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:57:24,098 [INFO] ⏸ Skipping: Dead zone (04:27 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:58:25,978 [INFO] ⏸ Skipping: Dead zone (04:28 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 22:59:27,855 [INFO] ⏸ Skipping: Dead zone (04:29 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:00:29,730 [INFO] ⏸ Skipping: Dead zone (04:30 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:01:31,595 [INFO] ⏸ Skipping: Dead zone (04:31 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:02:33,486 [INFO] ⏸ Skipping: Dead zone (04:32 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:03:35,375 [INFO] ⏸ Skipping: Dead zone (04:33 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:04:37,269 [INFO] ⏸ Skipping: Dead zone (04:34 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:05:39,143 [INFO] ⏸ Skipping: Dead zone (04:35 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:06:41,021 [INFO] ⏸ Skipping: Dead zone (04:36 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:07:42,908 [INFO] ⏸ Skipping: Dead zone (04:37 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:08:44,766 [INFO] ⏸ Skipping: Dead zone (04:38 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:09:46,639 [INFO] ⏸ Skipping: Dead zone (04:39 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:10:48,495 [INFO] ⏸ Skipping: Dead zone (04:40 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:11:50,378 [INFO] ⏸ Skipping: Dead zone (04:41 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:12:52,266 [INFO] ⏸ Skipping: Dead zone (04:42 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:13:54,158 [INFO] ⏸ Skipping: Dead zone (04:43 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:14:56,023 [INFO] ⏸ Skipping: Dead zone (04:44 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:15:57,924 [INFO] ⏸ Skipping: Dead zone (04:45 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:16:59,831 [INFO] ⏸ Skipping: Dead zone (04:46 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:17:51,288 [INFO] 🔄 Session expiring — refreshing...
+2026-05-26 23:17:51,682 [INFO] ✅ Capital.com session created
+2026-05-26 23:18:01,683 [INFO] ⏸ Skipping: Dead zone (04:48 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:19:03,588 [INFO] ⏸ Skipping: Dead zone (04:49 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:20:05,476 [INFO] ⏸ Skipping: Dead zone (04:50 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:21:07,358 [INFO] ⏸ Skipping: Dead zone (04:51 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:22:09,248 [INFO] ⏸ Skipping: Dead zone (04:52 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:23:11,151 [INFO] ⏸ Skipping: Dead zone (04:53 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:24:13,013 [INFO] ⏸ Skipping: Dead zone (04:54 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:25:14,888 [INFO] ⏸ Skipping: Dead zone (04:55 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:26:16,742 [INFO] ⏸ Skipping: Dead zone (04:56 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:27:18,607 [INFO] ⏸ Skipping: Dead zone (04:57 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:28:20,494 [INFO] ⏸ Skipping: Dead zone (04:58 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:29:22,390 [INFO] ⏸ Skipping: Dead zone (04:59 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:30:24,288 [INFO] ⏸ Skipping: Dead zone (05:00 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:31:26,161 [INFO] ⏸ Skipping: Dead zone (05:01 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:32:28,080 [INFO] ⏸ Skipping: Dead zone (05:02 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:33:29,963 [INFO] ⏸ Skipping: Dead zone (05:03 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:34:31,835 [INFO] ⏸ Skipping: Dead zone (05:04 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:35:33,719 [INFO] ⏸ Skipping: Dead zone (05:05 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:36:35,583 [INFO] ⏸ Skipping: Dead zone (05:06 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:37:37,462 [INFO] ⏸ Skipping: Dead zone (05:07 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
+2026-05-26 23:38:39,341 [INFO] ⏸ Skipping: Dead zone (05:08 IST) — low liquidity | Weekly loss -18.6% — trading halted for week
