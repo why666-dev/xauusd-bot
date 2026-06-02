@@ -19124,3 +19124,199 @@
 2026-05-28 23:40:30,170 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Friday cutoff — no new trades after 7:30 PM ET
 2026-05-28 23:41:32,798 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Friday cutoff — no new trades after 7:30 PM ET
 2026-05-28 23:42:35,413 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Friday cutoff — no new trades after 7:30 PM ET
+2026-06-02 11:55:28,127 [INFO] ✅ Capital.com session created
+2026-06-02 11:55:28,128 [INFO] ✅ Daily risk counters reset
+2026-06-02 11:55:28,128 [INFO] ✅ Weekly risk counters reset
+2026-06-02 11:55:28,129 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-05-29T05:12:35.415040+05:30)
+2026-06-02 11:55:28,129 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-06-02 11:55:28,129 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-06-02 11:55:28,129 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-06-02 11:55:28,130 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-06-02 11:55:28,130 [INFO] EOD watchdog + supervisor started
+2026-06-02 11:55:28,133 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.1.100:5051
+2026-06-02 11:55:28,133 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-02 11:55:29,767 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-02&end_date=2026-06-02&importance=high — trading allowed
+2026-06-02 11:55:29,768 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-02 11:55:30,042 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 11:56:31,859 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 11:57:33,889 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 11:58:35,693 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 11:59:37,506 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:00:39,315 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:01:41,278 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:02:43,175 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:03:44,992 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:04:46,814 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:05:48,898 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:06:50,713 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:07:52,563 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:08:54,369 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:09:56,254 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:10:58,047 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:11:59,857 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:13:01,663 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:14:03,472 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:15:05,380 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:16:07,189 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:17:09,011 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:18:10,817 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:19:12,627 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:20:14,444 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:21:16,259 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:22:18,129 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:23:19,931 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:24:21,724 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:25:23,531 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:26:25,406 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:27:27,212 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:28:29,029 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:29:31,076 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:30:32,909 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:31:34,706 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:32:36,516 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:33:38,539 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:34:40,361 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:35:42,160 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:36:43,976 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:37:45,784 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:38:47,623 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:39:49,405 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:40:51,190 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:41:53,255 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:42:55,067 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:43:56,868 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:44:58,669 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:46:00,622 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:47:02,455 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:48:04,252 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:49:06,055 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:50:07,838 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:51:09,759 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:52:11,625 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:53:13,421 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:54:15,214 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:55:17,030 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:55:31,055 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-02&end_date=2026-06-02&importance=high — trading allowed
+2026-06-02 12:55:31,056 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-02 12:56:18,830 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:57:20,617 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:58:22,411 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 12:59:24,213 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:00:26,009 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:01:27,800 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:02:29,607 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:03:31,407 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:04:33,226 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:05:35,117 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:06:37,104 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:07:38,910 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:08:40,712 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:09:42,615 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:10:44,416 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:11:46,219 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:12:48,039 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:13:50,192 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:14:52,016 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:15:53,847 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:16:55,656 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:17:57,590 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:18:59,385 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:20:01,343 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:21:03,156 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:22:05,109 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:23:06,951 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:24:08,769 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:25:10,584 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:26:12,589 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:27:14,377 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:28:16,175 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:29:17,982 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:30:19,787 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:31:21,639 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:32:23,442 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:33:25,278 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:34:27,199 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:35:29,018 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:36:30,825 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:37:32,641 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:38:34,454 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:39:36,263 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:40:38,222 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:41:40,044 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:42:41,971 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:43:43,778 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:44:45,597 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:45:47,462 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:46:49,277 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:47:51,106 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:48:52,947 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:49:55,080 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:50:56,883 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:51:58,707 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:53:00,548 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:54:02,733 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:55:04,604 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:55:31,060 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-02&end_date=2026-06-02&importance=high — trading allowed
+2026-06-02 13:55:31,060 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-02 13:56:06,467 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:57:08,264 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:58:10,346 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 13:59:12,145 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:00:14,035 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:01:15,861 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:02:17,890 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:03:19,694 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:04:21,497 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:05:23,307 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:06:25,253 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:07:27,056 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:08:28,881 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:09:30,672 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:10:32,605 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:11:34,396 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:12:36,197 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:13:38,014 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:14:39,832 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:15:41,617 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:16:43,426 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:17:45,231 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:18:47,129 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:19:48,919 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:20:50,712 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:21:52,505 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:22:54,397 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:23:56,226 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:24:58,053 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:25:59,851 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:27:01,678 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:28:03,481 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:29:05,267 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:30:07,119 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:31:08,918 [INFO] S1: Asian range built | High=4497.15 Low=4462.95 Range=$34.20
+2026-06-02 14:31:08,919 [INFO] S2: Breakout LONG detected above $4497.15 — waiting retest
+2026-06-02 14:31:08,919 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4497.15
+2026-06-02 14:31:08,919 [INFO]   Position size: equity=$50274 risk=$503 ATR=8.36 → 10.0oz
+2026-06-02 14:31:09,207 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4485.45 TP=4523.09 | S1_Asian_Breakout
+2026-06-02 14:31:09,207 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4498.00 | SL=$4485.45 TP1=$4516.82 TP2=$4523.09
+2026-06-02 14:55:32,563 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-02&end_date=2026-06-02&importance=high — trading allowed
+2026-06-02 14:55:32,564 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-02 15:55:33,524 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-02&end_date=2026-06-02&importance=high — trading allowed
+2026-06-02 15:55:33,525 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-02 16:55:34,549 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-02&end_date=2026-06-02&importance=high — trading allowed
+2026-06-02 16:55:34,550 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-02 17:24:29,086 [INFO] 🔄 Session expiring — refreshing...
+2026-06-02 17:24:29,484 [INFO] ✅ Capital.com session created
+2026-06-02 17:36:43,054 [INFO] Trade recorded | PnL=$-12930.05 | Daily=1 | Daily PnL=$-12930.05
+2026-06-02 17:36:43,235 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$-12930.05 | result=LOSS
+2026-06-02 17:36:43,235 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4485.07 | PnL=$-12930.05 | LOSS
+2026-06-02 17:37:45,036 [INFO] ⏸ Skipping: Daily loss -25.7% — trading halted
+2026-06-02 17:38:46,838 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-02 17:39:48,941 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-02 17:40:50,732 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-02 17:41:52,520 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-02 17:42:54,333 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-02 17:43:56,125 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-02 17:44:57,918 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
