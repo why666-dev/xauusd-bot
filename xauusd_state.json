@@ -625,12 +625,12 @@
     },
     "S2_Goldmine": {
       "name": "S2_Goldmine",
-      "trades": 1,
-      "wins": 1,
+      "trades": 2,
+      "wins": 2,
       "losses": 0,
-      "gross_pnl": 40170.00000000007,
-      "net_pnl": 40169.95000000007,
-      "commission": 0.05,
+      "gross_pnl": 50630.00000000011,
+      "net_pnl": 50629.90000000011,
+      "commission": 0.1,
       "max_win": 40169.95000000007,
       "max_loss": 0.0,
       "trade_history": [
@@ -650,6 +650,25 @@
           "rr_achieved": 1.98,
           "commission": 0.05,
           "net_pnl": 40169.95,
+          "result": "WIN",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-04",
+          "time_ist": "01:25:01",
+          "strategy": "S2_Goldmine",
+          "direction": "SELL",
+          "entry": 4455.6,
+          "sl": 4473.77,
+          "tp1": 4428.34,
+          "tp2": 4419.26,
+          "size": 10.0,
+          "exit_price": 4445.14,
+          "exit_time": "01:25:01",
+          "gross_pnl": 10460.0,
+          "rr_achieved": 0.58,
+          "commission": 0.05,
+          "net_pnl": 10459.95,
           "result": "WIN",
           "reason": ""
         }
@@ -768,18 +787,7 @@
       "gain_loss_ratio": 0.35
     }
   },
-  "open_trade": {
-    "deal_id": "o_644cf728-b1d8-4a35-a25a-e8f982df9590",
-    "strategy": "S2_Goldmine",
-    "direction": "SELL",
-    "entry": 4455.6,
-    "sl": 4473.77,
-    "tp1": 4428.34,
-    "tp2": 4419.26,
-    "size": 10.0,
-    "open_time": "2026-06-03T19:47:48.280827+05:30",
-    "tp1_hit": false
-  },
-  "equity": 48386.66,
-  "timestamp": "2026-06-03T23:46:15.725199+05:30"
+  "open_trade": null,
+  "equity": 50523.99,
+  "timestamp": "2026-06-04T05:56:57.317065+05:30"
 }
