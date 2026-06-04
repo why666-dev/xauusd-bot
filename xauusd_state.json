@@ -2,12 +2,12 @@
   "stats": {
     "S1_Asian_Breakout": {
       "name": "S1_Asian_Breakout",
-      "trades": 32,
-      "wins": 11,
+      "trades": 33,
+      "wins": 12,
       "losses": 21,
-      "gross_pnl": -57934.999999997664,
-      "net_pnl": -57936.59999999768,
-      "commission": 1.6000000000000008,
+      "gross_pnl": -34089.99999999741,
+      "net_pnl": -34091.64999999742,
+      "commission": 1.6500000000000008,
       "max_win": 29234.949999999673,
       "max_loss": -28080.049999999927,
       "trade_history": [
@@ -618,21 +618,40 @@
           "net_pnl": 28479.95,
           "result": "WIN",
           "reason": ""
+        },
+        {
+          "date": "2026-06-04",
+          "time_ist": "17:17:40",
+          "strategy": "S1_Asian_Breakout",
+          "direction": "BUY",
+          "entry": 4476.78,
+          "sl": 4466.61,
+          "tp1": 4492.03,
+          "tp2": 4497.12,
+          "size": 10.0,
+          "exit_price": 4500.62,
+          "exit_time": "17:17:40",
+          "gross_pnl": 23845.0,
+          "rr_achieved": 2.34,
+          "commission": 0.05,
+          "net_pnl": 23844.95,
+          "result": "WIN",
+          "reason": ""
         }
       ],
-      "hit_ratio": 34.4,
-      "gain_loss_ratio": 1.51
+      "hit_ratio": 36.4,
+      "gain_loss_ratio": 1.53
     },
     "S2_Goldmine": {
       "name": "S2_Goldmine",
-      "trades": 2,
+      "trades": 3,
       "wins": 2,
-      "losses": 0,
-      "gross_pnl": 50630.00000000011,
-      "net_pnl": 50629.90000000011,
-      "commission": 0.1,
+      "losses": 1,
+      "gross_pnl": 33980.00000000047,
+      "net_pnl": 33979.85000000047,
+      "commission": 0.15000000000000002,
       "max_win": 40169.95000000007,
-      "max_loss": 0.0,
+      "max_loss": -16650.049999999635,
       "trade_history": [
         {
           "date": "2026-04-09",
@@ -671,10 +690,29 @@
           "net_pnl": 10459.95,
           "result": "WIN",
           "reason": ""
+        },
+        {
+          "date": "2026-06-04",
+          "time_ist": "20:21:31",
+          "strategy": "S2_Goldmine",
+          "direction": "BUY",
+          "entry": 4481.35,
+          "sl": 4461.97,
+          "tp1": 4510.44,
+          "tp2": 4520.13,
+          "size": 10.0,
+          "exit_price": 4464.7,
+          "exit_time": "20:21:31",
+          "gross_pnl": -16650.0,
+          "rr_achieved": 0.86,
+          "commission": 0.05,
+          "net_pnl": -16650.05,
+          "result": "LOSS",
+          "reason": ""
         }
       ],
-      "hit_ratio": 100.0,
-      "gain_loss_ratio": 0.0
+      "hit_ratio": 66.7,
+      "gain_loss_ratio": 1.52
     },
     "S3_Silver_Bullet": {
       "name": "S3_Silver_Bullet",
@@ -788,6 +826,6 @@
     }
   },
   "open_trade": null,
-  "equity": 50523.99,
-  "timestamp": "2026-06-04T05:56:57.317065+05:30"
+  "equity": 50533.19,
+  "timestamp": "2026-06-04T22:11:36.497794+05:30"
 }
