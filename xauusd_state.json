@@ -939,7 +939,18 @@
       "gain_loss_ratio": 0.35
     }
   },
-  "open_trade": null,
-  "equity": 52299.29,
-  "timestamp": "2026-06-12T05:16:37.416406+05:30"
+  "open_trade": {
+    "deal_id": "o_fb0b18aa-6fb6-4a90-b499-9635bddd08f3",
+    "strategy": "S1_Asian_Breakout",
+    "direction": "BUY",
+    "entry": 4328.305,
+    "sl": 4314.68,
+    "tp1": 4348.74,
+    "tp2": 4355.55,
+    "size": 10.0,
+    "open_time": "2026-06-16T20:13:24.710838+05:30",
+    "tp1_hit": false
+  },
+  "equity": 50268.26,
+  "timestamp": "2026-06-17T00:02:44.752912+05:30"
 }
