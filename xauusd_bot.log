@@ -23275,3 +23275,368 @@
 2026-06-17 00:35:11,689 [INFO] ⏸ Skipping: Dead zone (06:05 IST) — low liquidity
 2026-06-17 00:36:13,473 [INFO] ⏸ Skipping: Dead zone (06:06 IST) — low liquidity
 2026-06-17 00:37:15,291 [INFO] ⏸ Skipping: Dead zone (06:07 IST) — low liquidity
+2026-06-17 12:08:04,370 [INFO] ✅ Capital.com session created
+2026-06-17 12:08:04,371 [INFO] ✅ Daily risk counters reset
+2026-06-17 12:08:04,371 [INFO] ✅ Weekly risk counters reset
+2026-06-17 12:08:04,371 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-06-17T06:07:15.293879+05:30)
+2026-06-17 12:08:04,371 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-06-17 12:08:04,372 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-06-17 12:08:04,372 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-06-17 12:08:04,372 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-06-17 12:08:04,373 [INFO] EOD watchdog + supervisor started
+2026-06-17 12:08:04,375 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.1.139:5051
+2026-06-17 12:08:04,375 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-17 12:08:07,311 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-17&end_date=2026-06-17&importance=high — trading allowed
+2026-06-17 12:08:07,312 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-17 12:08:07,416 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-17&end_date=2026-06-17&importance=high — trading allowed
+2026-06-17 12:08:07,417 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-17 12:08:07,735 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:09:10,518 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:10:13,285 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:11:16,112 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:12:19,112 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:13:22,052 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:14:24,937 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:15:27,814 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:16:30,546 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:17:33,363 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:18:36,193 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:19:38,950 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:20:41,862 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:21:44,775 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:22:47,608 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:23:50,499 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:24:53,350 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:25:56,244 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:26:59,039 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:28:01,953 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:29:04,776 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:30:07,666 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:31:10,487 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:32:13,320 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:33:16,239 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:34:18,993 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:35:21,789 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:36:24,558 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:37:27,459 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:38:30,225 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:39:33,110 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:40:36,022 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:41:38,925 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:42:41,784 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:43:44,620 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:44:47,536 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:45:50,373 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:46:53,227 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:47:56,049 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:48:58,891 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:50:01,742 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:51:04,555 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:52:07,347 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:53:10,098 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:54:12,893 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:55:15,805 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:56:18,665 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:57:21,529 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:58:24,338 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 12:59:27,287 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 13:00:30,139 [INFO] S1: Asian range built | High=4347.32 Low=4329.11 Range=$18.21
+2026-06-17 13:01:32,947 [INFO] S1: Asian range built | High=4347.32 Low=4329.11 Range=$18.21
+2026-06-17 13:02:35,821 [INFO] S1: Asian range built | High=4347.32 Low=4329.11 Range=$18.21
+2026-06-17 13:03:38,605 [INFO] S1: Asian range built | High=4347.32 Low=4329.11 Range=$18.21
+2026-06-17 13:04:41,366 [INFO] S1: Asian range built | High=4347.32 Low=4329.11 Range=$18.21
+2026-06-17 13:05:44,173 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 13:06:46,969 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 13:06:46,969 [INFO] S2: Breakout SHORT detected below $4328.64 — waiting retest
+2026-06-17 13:06:46,969 [INFO] 🎯 SIGNAL: S1_Asian_Breakout SELL | 15M closed below Asian Low $4328.64
+2026-06-17 13:06:46,969 [INFO]   Position size: equity=$50093 risk=$501 ATR=5.15 → 10.0oz
+2026-06-17 13:06:47,377 [INFO] ✅ TRADE OPENED | SELL 10.0oz XAUUSD | SL=4333.95 TP=4310.78 | S1_Asian_Breakout
+2026-06-17 13:06:47,378 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout SELL 10.0oz @ $4326.23 | SL=$4333.95 TP1=$4314.64 TP2=$4310.78
+2026-06-17 13:07:50,201 [INFO] Trade recorded | PnL=$1214.95 | Daily=1 | Daily PnL=$1214.95
+2026-06-17 13:07:50,335 [INFO] Excel ✅ S1_Asian_Breakout SELL | net=$1214.95 | result=WIN
+2026-06-17 13:07:50,335 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout SELL | Exit=$4325.01 | PnL=$1214.95 | WIN
+2026-06-17 13:08:10,591 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-17&end_date=2026-06-17&importance=high — trading allowed
+2026-06-17 13:08:10,592 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-17 13:08:53,095 [INFO] S1: Asian range built | High=4349.93 Low=4328.64 Range=$21.29
+2026-06-17 13:08:53,095 [INFO] 🎯 SIGNAL: S2_Goldmine SELL | Goldmine: retest of $4328.64 confirmed
+2026-06-17 13:08:53,095 [INFO]   Position size: equity=$52254 risk=$523 ATR=5.24 → 10.0oz
+2026-06-17 13:08:53,507 [INFO] ✅ TRADE OPENED | SELL 10.0oz XAUUSD | SL=4334.94 TP=4311.37 | S2_Goldmine
+2026-06-17 13:08:53,508 [INFO] ✅ TRADE OPENED | S2_Goldmine SELL 10.0oz @ $4327.09 | SL=$4334.94 TP1=$4315.30 TP2=$4311.37
+2026-06-17 13:23:33,289 [INFO] Trade recorded | PnL=$-9985.05 | Daily=2 | Daily PnL=$-8770.10
+2026-06-17 13:23:33,348 [INFO] Excel ✅ S2_Goldmine SELL | net=$-9985.05 | result=LOSS
+2026-06-17 13:23:33,348 [INFO] 📊 TRADE CLOSED | S2_Goldmine SELL | Exit=$4337.07 | PnL=$-9985.05 | LOSS
+2026-06-17 13:24:36,266 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:25:39,038 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:26:41,838 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:27:44,660 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:28:47,438 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:29:50,388 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:30:53,223 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:31:56,125 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:32:58,945 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:34:01,768 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:35:04,593 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:36:07,483 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:37:10,301 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:38:13,141 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:39:16,109 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:40:18,905 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:41:21,744 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:42:24,599 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:43:27,656 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:44:30,533 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:45:33,377 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:46:36,195 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:47:38,977 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:48:41,806 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:49:44,682 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:50:47,532 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:51:50,428 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:52:53,320 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:53:56,212 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:54:59,204 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:56:02,073 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:57:04,956 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:58:07,849 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 13:59:10,777 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:00:13,661 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:01:16,634 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:02:19,517 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:03:22,286 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:04:25,180 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:05:28,017 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:06:30,850 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:07:33,738 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:08:13,204 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-17&end_date=2026-06-17&importance=high — trading allowed
+2026-06-17 14:08:13,205 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-17 14:08:36,559 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:09:39,547 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:10:42,290 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:11:45,098 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:12:47,945 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:13:50,771 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:14:53,545 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:15:56,509 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:16:59,511 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:18:02,360 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:19:05,314 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:20:08,196 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:21:11,073 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:22:13,887 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:23:16,692 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:24:19,509 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:25:22,363 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:26:25,243 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:27:28,040 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:28:30,911 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:29:33,887 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:30:36,735 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:31:39,618 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:32:42,434 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:33:45,285 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:34:48,243 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:35:51,033 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:36:53,965 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:37:56,880 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:38:59,690 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:40:02,559 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:41:05,417 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:42:08,329 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:43:11,057 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:44:13,942 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:45:16,809 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:46:19,738 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:47:22,785 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:48:25,646 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:49:28,584 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:50:31,348 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:51:34,184 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:52:36,942 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:53:39,721 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:54:42,571 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:55:45,419 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:56:48,166 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:57:51,069 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:58:53,952 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 14:59:56,749 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:00:59,606 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:02:02,470 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:03:05,334 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:04:08,163 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:05:11,045 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:06:13,861 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:07:16,643 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:08:15,147 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-17&end_date=2026-06-17&importance=high — trading allowed
+2026-06-17 15:08:15,148 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-17 15:08:19,582 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:09:22,457 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:10:25,300 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:11:28,082 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:12:30,842 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:13:33,668 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:14:36,484 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:15:39,372 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:16:42,273 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:17:45,239 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:18:47,997 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:19:50,841 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:20:53,671 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:21:56,490 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:22:59,350 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:24:02,257 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:25:05,079 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:26:07,940 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:27:10,748 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:28:13,525 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:29:16,403 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:30:19,302 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:31:22,177 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:32:24,995 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:33:27,871 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:34:30,662 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:35:33,511 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:36:36,385 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:37:39,152 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:38:41,962 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:39:44,743 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:40:47,578 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:41:50,403 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:42:53,210 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:43:56,011 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:44:58,818 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:46:01,686 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:47:04,553 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:48:07,429 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:49:10,228 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:50:13,143 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:51:16,094 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:52:18,983 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:53:21,834 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:54:24,621 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:55:27,523 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:56:30,426 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:57:33,245 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:58:36,152 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 15:59:38,988 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:00:41,776 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:01:44,659 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:02:47,609 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:03:50,601 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:04:53,439 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:05:56,361 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:06:59,174 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:08:01,938 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:08:15,222 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-17&end_date=2026-06-17&importance=high — trading allowed
+2026-06-17 16:08:15,223 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-17 16:09:04,745 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:10:07,649 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:11:10,512 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:12:13,343 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:13:16,190 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:14:19,078 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:15:22,004 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:16:24,817 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:17:27,642 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:18:30,554 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:19:33,254 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:20:35,985 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:21:38,703 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:22:41,440 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:23:44,170 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:24:46,926 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:25:49,663 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:26:52,440 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:27:55,206 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:28:57,907 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:30:00,607 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:31:03,302 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:32:06,031 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:33:08,762 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:34:11,546 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:35:14,244 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:36:16,977 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:37:19,742 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:38:22,453 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:39:25,244 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:40:28,041 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:41:30,824 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:42:33,611 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:43:36,377 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:44:39,118 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:45:41,906 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:46:44,679 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:47:47,397 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:48:50,160 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:49:52,942 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:50:55,701 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:51:58,480 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:53:01,211 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:54:04,009 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:55:06,731 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:56:09,488 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:57:12,235 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:58:14,932 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 16:59:17,649 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:00:20,339 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:01:23,087 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:02:25,876 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:03:28,618 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:04:31,395 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:05:34,152 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:06:36,875 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:07:39,602 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:08:17,251 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-17&end_date=2026-06-17&importance=high — trading allowed
+2026-06-17 17:08:17,252 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-17 17:08:42,306 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:09:45,073 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:10:47,780 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:11:50,519 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:12:53,289 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:13:55,993 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:14:58,687 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:16:01,435 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:17:04,208 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:18:06,927 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:19:09,621 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:20:12,327 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:21:15,065 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:22:17,817 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:23:20,534 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:24:23,230 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:25:25,944 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:26:28,639 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:27:31,328 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:28:34,019 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:29:36,717 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:30:39,459 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:31:42,162 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:32:44,961 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:33:47,748 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:34:50,593 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:35:53,289 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:36:55,989 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:37:04,747 [INFO] 🔄 Session expiring — refreshing...
+2026-06-17 17:37:05,294 [INFO] ✅ Capital.com session created
+2026-06-17 17:37:58,713 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:39:01,504 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:40:04,373 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:41:07,099 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:42:09,856 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:43:12,542 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:44:15,284 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:45:18,040 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:46:20,776 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:47:23,542 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:48:26,354 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:49:29,203 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:50:31,939 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:51:34,633 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:52:37,417 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:53:40,199 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:54:42,959 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:55:45,694 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:56:48,453 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-06-17 17:57:51,339 [INFO] ⏸ Skipping: Max 2 trades reached for today
