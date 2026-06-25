@@ -25145,3 +25145,332 @@
 2026-06-24 16:25:52,944 [INFO] S1: Asian range built | High=4131.16 Low=4052.14 Range=$79.02
 2026-06-24 16:26:56,098 [INFO] S1: Asian range built | High=4131.16 Low=4052.14 Range=$79.02
 2026-06-24 16:27:59,255 [INFO] S1: Asian range built | High=4131.16 Low=4052.14 Range=$79.02
+2026-06-25 10:31:27,830 [INFO] ✅ Capital.com session created
+2026-06-25 10:31:27,831 [INFO] ✅ Daily risk counters reset
+2026-06-25 10:31:27,831 [INFO] ✅ Weekly risk counters reset
+2026-06-25 10:31:27,832 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-06-24T21:57:59.257158+05:30)
+2026-06-25 10:31:27,832 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-06-25 10:31:27,832 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-06-25 10:31:27,832 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-06-25 10:31:27,832 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-06-25 10:31:27,833 [INFO] EOD watchdog + supervisor started
+2026-06-25 10:31:27,835 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.156:5051
+2026-06-25 10:31:27,836 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-25 10:31:30,800 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-25&end_date=2026-06-25&importance=high — trading allowed
+2026-06-25 10:31:30,801 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-25 10:31:31,126 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-25&end_date=2026-06-25&importance=high — trading allowed
+2026-06-25 10:31:31,127 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-25 10:31:31,261 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:32:34,469 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:33:37,666 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:34:40,870 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:35:44,302 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:36:47,524 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:37:50,732 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:38:53,951 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:39:57,148 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:41:00,319 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:42:03,519 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:43:06,713 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:44:09,943 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:45:13,314 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:46:16,539 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:47:19,743 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:48:23,151 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:49:26,348 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:50:29,585 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:51:32,795 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:52:35,998 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:53:39,184 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:54:42,389 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:55:45,604 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:56:48,822 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:57:52,042 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:58:55,283 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 10:59:58,548 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:01:01,751 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:02:05,039 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:03:08,192 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:04:11,386 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:05:14,477 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:06:17,579 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:07:20,661 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:08:23,814 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:09:26,945 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:10:30,055 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:11:33,209 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:12:36,393 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:13:39,528 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:14:42,706 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:15:45,895 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:16:49,084 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:17:52,255 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:18:55,429 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:19:58,587 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:21:01,736 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:22:04,902 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:23:08,050 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:24:11,310 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:25:14,462 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:26:17,599 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:27:20,730 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:28:24,092 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:29:27,288 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:30:30,453 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:31:33,301 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-25&end_date=2026-06-25&importance=high — trading allowed
+2026-06-25 11:31:33,302 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-25 11:31:33,759 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:32:36,972 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:33:40,114 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:34:43,312 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:35:46,641 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:36:49,796 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:37:52,945 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:38:56,087 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:39:59,275 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:41:02,478 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:42:05,648 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:43:08,816 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:44:12,032 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:45:15,207 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:46:18,416 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:47:21,586 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:48:24,861 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:49:28,029 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:50:31,146 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:51:34,275 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:52:37,410 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:53:40,574 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:54:43,676 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:55:46,938 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:56:50,051 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:57:53,172 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:58:56,301 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 11:59:59,438 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:01:02,646 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:02:06,000 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:03:09,168 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:04:12,331 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:05:15,523 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:06:18,713 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:07:21,842 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:08:25,114 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:09:28,226 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:10:31,336 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:11:34,547 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:12:37,795 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:13:40,979 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:14:44,117 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:15:47,255 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:16:50,491 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:17:53,673 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:18:56,858 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:20:00,039 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:21:03,242 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:22:06,415 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:23:09,539 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:24:12,696 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:25:15,858 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:26:18,965 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:27:22,113 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:28:25,272 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:29:28,434 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:30:31,590 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:31:34,396 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-25&end_date=2026-06-25&importance=high — trading allowed
+2026-06-25 12:31:34,397 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-25 12:31:34,839 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:32:37,971 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:33:41,108 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:34:44,229 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:35:47,524 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:36:51,913 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:37:55,119 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:38:58,896 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:40:02,013 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:41:05,161 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:42:08,277 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:43:11,397 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:44:14,552 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:45:17,697 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:46:20,797 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:47:23,943 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:48:27,060 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:49:30,196 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:50:33,296 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:51:36,402 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:52:39,552 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:53:42,656 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:54:45,754 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:55:48,857 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:56:52,216 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:57:55,426 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 12:58:58,660 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 13:00:01,871 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 13:01:05,140 [INFO] S1: Asian range built | High=4018.76 Low=3959.08 Range=$59.68
+2026-06-25 13:01:05,140 [INFO] S2: Breakout LONG detected above $4018.76 — waiting retest
+2026-06-25 13:01:05,140 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4018.76
+2026-06-25 13:01:05,140 [INFO]   Position size: equity=$52708 risk=$527 ATR=9.17 → 10.0oz
+2026-06-25 13:01:05,709 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4010.58 TP=4051.85 | S1_Asian_Breakout
+2026-06-25 13:01:05,709 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4024.34 | SL=$4010.58 TP1=$4044.97 TP2=$4051.85
+2026-06-25 13:31:36,871 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-25&end_date=2026-06-25&importance=high — trading allowed
+2026-06-25 13:31:36,872 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-25 13:46:23,808 [INFO] Trade recorded | PnL=$-11030.05 | Daily=1 | Daily PnL=$-11030.05
+2026-06-25 13:46:24,031 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$-11030.05 | result=LOSS
+2026-06-25 13:46:24,032 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4013.30 | PnL=$-11030.05 | LOSS
+2026-06-25 13:47:27,158 [INFO] ⏸ Skipping: Daily loss -20.9% — trading halted
+2026-06-25 13:48:30,327 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:49:33,513 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:50:36,638 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:51:39,771 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:52:42,896 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:53:46,084 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:54:49,260 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:55:52,446 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:56:55,656 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:57:58,932 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 13:59:02,083 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:00:05,349 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:01:08,516 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:02:11,693 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:03:14,883 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:04:18,077 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:05:21,275 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:06:24,492 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:07:27,857 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:08:31,062 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:09:34,318 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:10:37,525 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:11:40,744 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:12:43,949 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:13:47,191 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:14:50,366 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:15:53,595 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:16:56,824 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:18:00,043 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:19:03,272 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:20:06,512 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:21:09,714 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:22:12,868 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:23:16,053 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:24:19,203 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:25:22,343 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:26:25,499 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:27:29,724 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:28:32,864 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:29:36,038 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:30:39,154 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:31:38,629 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-25&end_date=2026-06-25&importance=high — trading allowed
+2026-06-25 14:31:38,630 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-25 14:31:42,270 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:32:45,399 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:33:48,531 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:34:51,731 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:35:54,936 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:36:58,081 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:38:01,246 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:39:04,437 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:40:07,650 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:41:10,865 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:42:14,081 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:43:17,311 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:44:20,559 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:45:23,751 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:46:26,958 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:47:30,170 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:48:33,335 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:49:36,682 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:50:39,930 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:51:43,171 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:52:46,407 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:53:49,713 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:54:52,820 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:55:55,937 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:56:59,044 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:58:02,202 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 14:59:05,346 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:00:08,431 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:01:11,537 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:02:14,681 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:03:17,787 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:04:20,906 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:05:24,055 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:06:27,234 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:07:30,408 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:08:33,587 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:09:36,782 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:10:39,998 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:11:43,158 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:12:46,364 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:13:49,469 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:14:52,577 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:15:55,675 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:16:58,775 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:18:01,918 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:19:05,041 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:20:08,133 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:21:11,248 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:22:14,354 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:23:17,458 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:24:20,573 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:25:23,666 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:25:36,300 [WARNING] ⏱ Timeout GET /markets/GOLD (attempt 1) — retry in 2s
+2026-06-25 15:26:26,773 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:27:29,883 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:28:32,999 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:29:36,100 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:30:39,234 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:31:41,186 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-06-25&end_date=2026-06-25&importance=high — trading allowed
+2026-06-25 15:31:41,187 [INFO] 📰 News calendar refreshed — 0 events today
+2026-06-25 15:31:42,349 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:32:45,442 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:33:48,569 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:34:51,690 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:35:54,997 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:36:58,081 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:38:01,195 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:39:04,300 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:40:07,448 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:41:10,544 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:42:13,760 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:43:16,867 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:44:19,967 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:45:23,065 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:46:26,220 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:47:29,324 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:48:32,417 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:49:35,516 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:50:38,660 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:51:41,945 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:52:45,061 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:53:48,206 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:54:51,398 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:55:54,577 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:56:57,741 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:58:00,927 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 15:59:04,217 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:00:07,411 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:00:27,832 [INFO] 🔄 Session expiring — refreshing...
+2026-06-25 16:00:28,413 [INFO] ✅ Capital.com session created
+2026-06-25 16:01:10,745 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:02:13,946 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:03:17,160 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:04:20,402 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:05:23,601 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:06:26,797 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:07:29,998 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:08:33,224 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:09:36,445 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:10:39,699 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:11:43,071 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:12:46,279 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:13:49,477 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:14:52,725 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:15:55,931 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:16:59,127 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:18:02,444 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:19:05,700 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:20:08,890 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-06-25 16:21:12,098 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
