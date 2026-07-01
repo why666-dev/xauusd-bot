@@ -1039,13 +1039,13 @@
     },
     "S3_Silver_Bullet": {
       "name": "S3_Silver_Bullet",
-      "trades": 5,
-      "wins": 3,
+      "trades": 6,
+      "wins": 4,
       "losses": 2,
-      "gross_pnl": -17399.999999999636,
-      "net_pnl": -17400.249999999636,
-      "commission": 0.25,
-      "max_win": 13254.9499999992,
+      "gross_pnl": 2519.999999999982,
+      "net_pnl": 2519.6999999999825,
+      "commission": 0.3,
+      "max_win": 19919.94999999962,
       "max_loss": -34575.04999999982,
       "trade_history": [
         {
@@ -1142,13 +1142,32 @@
           "net_pnl": 13254.95,
           "result": "WIN",
           "reason": ""
+        },
+        {
+          "date": "2026-07-02",
+          "time_ist": "01:22:15",
+          "strategy": "S3_Silver_Bullet",
+          "direction": "SELL",
+          "entry": 4066.14,
+          "sl": 4075.32,
+          "tp1": 4052.37,
+          "tp2": 4047.78,
+          "size": 10.0,
+          "exit_price": 4046.22,
+          "exit_time": "01:22:15",
+          "gross_pnl": 19920.0,
+          "rr_achieved": 2.17,
+          "commission": 0.05,
+          "net_pnl": 19919.95,
+          "result": "WIN",
+          "reason": ""
         }
       ],
-      "hit_ratio": 60.0,
-      "gain_loss_ratio": 0.35
+      "hit_ratio": 66.7,
+      "gain_loss_ratio": 0.53
     }
   },
   "open_trade": null,
-  "equity": 52110.68,
-  "timestamp": "2026-07-01T22:19:19.978173+05:30"
+  "equity": 52295.28,
+  "timestamp": "2026-07-02T04:21:54.164296+05:30"
 }
