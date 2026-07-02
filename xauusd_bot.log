@@ -27053,3 +27053,271 @@
 2026-07-01 22:49:49,521 [INFO] ⏸ Skipping: Dead zone (04:19 IST) — low liquidity
 2026-07-01 22:50:51,836 [INFO] ⏸ Skipping: Dead zone (04:20 IST) — low liquidity
 2026-07-01 22:51:54,162 [INFO] ⏸ Skipping: Dead zone (04:21 IST) — low liquidity
+2026-07-02 10:25:31,150 [INFO] ✅ Capital.com session created
+2026-07-02 10:25:31,152 [INFO] ✅ Daily risk counters reset
+2026-07-02 10:25:31,152 [INFO] ✅ Weekly risk counters reset
+2026-07-02 10:25:31,152 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-07-02T04:21:54.164296+05:30)
+2026-07-02 10:25:31,152 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-07-02 10:25:31,153 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-07-02 10:25:31,153 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-07-02 10:25:31,153 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-07-02 10:25:31,154 [INFO] EOD watchdog + supervisor started
+2026-07-02 10:25:31,156 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.223:5051
+2026-07-02 10:25:31,156 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-02 10:25:33,432 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-02&end_date=2026-07-02&importance=high — trading allowed
+2026-07-02 10:25:33,433 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-02 10:25:33,801 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:26:36,064 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:27:38,298 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:28:40,525 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:29:42,761 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:30:44,979 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:31:47,251 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:32:49,523 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:33:51,781 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:34:54,089 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:35:56,385 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:36:58,686 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:38:00,979 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:39:03,239 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:40:05,529 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:41:08,476 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:42:10,745 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:43:13,010 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:44:15,264 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:45:17,592 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:46:19,872 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:47:22,121 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:48:24,414 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:49:26,705 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:50:28,990 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:51:31,261 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:52:33,563 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:53:35,831 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:54:38,121 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:55:40,374 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:56:42,603 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:57:44,861 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:58:47,102 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 10:59:49,330 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:00:51,578 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:01:53,891 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:02:56,146 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:03:58,391 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:05:00,656 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:06:02,895 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:07:05,119 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:08:07,390 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:09:09,666 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:10:11,912 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:11:14,145 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:12:16,381 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:13:18,606 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:14:20,909 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:15:23,159 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:16:25,407 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:17:27,790 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:18:30,092 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:19:32,378 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:20:34,648 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:21:36,927 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:22:39,216 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:23:41,459 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:24:43,683 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:25:35,478 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-02&end_date=2026-07-02&importance=high — trading allowed
+2026-07-02 11:25:35,479 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-02 11:25:45,953 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:26:48,234 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:27:50,508 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:28:52,796 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:29:55,086 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:30:57,345 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:31:59,587 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:33:01,884 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:34:04,139 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:35:06,420 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:36:08,693 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:37:10,910 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:38:13,161 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:39:15,419 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:40:17,706 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:41:19,927 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:42:22,177 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:43:24,439 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:44:26,681 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 11:44:26,682 [INFO] S2: Breakout LONG detected above $4070.82 — waiting retest
+2026-07-02 11:44:26,682 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4070.82
+2026-07-02 11:44:26,682 [INFO]   Position size: equity=$52295 risk=$523 ATR=6.91 → 10.0oz
+2026-07-02 11:44:27,029 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4060.88 TP=4091.99 | S1_Asian_Breakout
+2026-07-02 11:44:27,030 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4071.25 | SL=$4060.88 TP1=$4086.81 TP2=$4091.99
+2026-07-02 12:25:38,065 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-02&end_date=2026-07-02&importance=high — trading allowed
+2026-07-02 12:25:38,066 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-02 12:31:10,769 [INFO] Trade recorded | PnL=$48854.95 | Daily=1 | Daily PnL=$48854.95
+2026-07-02 12:31:10,964 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$48854.95 | result=WIN
+2026-07-02 12:31:10,964 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4120.10 | PnL=$48854.95 | WIN
+2026-07-02 12:32:13,218 [INFO] S1: Asian range built | High=4070.82 Low=4028.67 Range=$42.15
+2026-07-02 12:32:13,218 [INFO] 🎯 SIGNAL: S2_Goldmine BUY | Goldmine: retest of $4070.82 confirmed
+2026-07-02 12:32:13,218 [INFO]   Position size: equity=$52509 risk=$525 ATR=11.00 → 10.0oz
+2026-07-02 12:32:13,568 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4093.77 TP=4143.27 | S2_Goldmine
+2026-07-02 12:32:13,568 [INFO] ✅ TRADE OPENED | S2_Goldmine BUY 10.0oz @ $4110.27 | SL=$4093.77 TP1=$4135.02 TP2=$4143.27
+2026-07-02 12:39:29,919 [INFO] TP1 hit at $4136.14 — moving SL to breakeven $4110.27
+2026-07-02 12:39:30,245 [ERROR] ❌ PUT /positions/o_d7cf71b1-27db-478a-800a-420953080414 failed (attempt 1): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_d7cf71b1-27db-478a-800a-420953080414
+2026-07-02 12:39:32,576 [ERROR] ❌ PUT /positions/o_d7cf71b1-27db-478a-800a-420953080414 failed (attempt 2): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_d7cf71b1-27db-478a-800a-420953080414
+2026-07-02 12:39:37,915 [ERROR] ❌ PUT /positions/o_d7cf71b1-27db-478a-800a-420953080414 failed (attempt 3): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_d7cf71b1-27db-478a-800a-420953080414
+2026-07-02 12:39:53,240 [ERROR] ❌ PUT /positions/o_d7cf71b1-27db-478a-800a-420953080414 failed (attempt 4): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_d7cf71b1-27db-478a-800a-420953080414
+2026-07-02 12:39:53,240 [ERROR] ❌ PUT /positions/o_d7cf71b1-27db-478a-800a-420953080414 failed after 4 attempts — skipping
+2026-07-02 12:39:53,241 [WARNING] ⚠️ Breakeven SL API call failed — SL stays at $4093.77
+2026-07-02 13:07:08,704 [WARNING] ⏱ Timeout GET /positions (attempt 1) — retry in 2s
+2026-07-02 13:25:39,832 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-02&end_date=2026-07-02&importance=high — trading allowed
+2026-07-02 13:25:39,833 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-02 13:50:50,287 [INFO] Trade recorded | PnL=$32279.95 | Daily=2 | Daily PnL=$81134.90
+2026-07-02 13:50:50,352 [INFO] Excel ✅ S2_Goldmine BUY | net=$32279.95 | result=WIN
+2026-07-02 13:50:50,352 [INFO] 📊 TRADE CLOSED | S2_Goldmine BUY | Exit=$4142.55 | PnL=$32279.95 | WIN
+2026-07-02 13:51:52,675 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 13:52:54,988 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 13:53:57,266 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 13:54:59,595 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 13:56:01,888 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 13:57:04,167 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 13:58:06,457 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 13:59:08,705 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:00:10,952 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:01:13,249 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:02:15,519 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:03:17,909 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:04:20,220 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:05:22,508 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:06:24,790 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:07:27,036 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:08:29,287 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:09:31,572 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:10:33,840 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:11:36,200 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:12:38,433 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:13:40,697 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:14:42,965 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:15:45,260 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:16:47,581 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:17:49,873 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:18:52,285 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:19:54,551 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:20:56,829 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:21:59,193 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:23:01,651 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:24:03,982 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:25:06,235 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:25:40,283 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-02&end_date=2026-07-02&importance=high — trading allowed
+2026-07-02 14:25:40,285 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-02 14:26:08,540 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:27:10,915 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:28:13,201 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:29:15,503 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:30:17,793 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:31:20,115 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:32:22,429 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:33:24,779 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:34:27,096 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:35:29,507 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:36:31,824 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:37:34,160 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:38:36,426 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:39:38,745 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:40:41,010 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:41:43,693 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:42:45,995 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:43:48,313 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:44:50,647 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:45:52,977 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:46:55,210 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:47:57,453 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:48:59,597 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:50:01,879 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:51:04,232 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:52:06,390 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:53:08,609 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:54:10,844 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:55:13,168 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:56:15,403 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:57:17,568 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:58:19,810 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 14:59:22,049 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:00:24,268 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:01:26,522 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:02:28,805 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:03:31,081 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:04:33,349 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:05:35,625 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:06:37,898 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:07:40,238 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:08:42,546 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:09:44,882 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:10:47,203 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:11:49,503 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:12:51,815 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:13:54,129 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:14:56,385 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:15:58,650 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:17:00,955 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:18:03,228 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:19:05,518 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:20:07,776 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:21:10,070 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:22:12,320 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:23:14,623 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:24:17,297 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:25:19,567 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:25:42,053 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-02&end_date=2026-07-02&importance=high — trading allowed
+2026-07-02 15:25:42,054 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-02 15:26:21,858 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:27:24,528 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:28:26,823 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:29:29,192 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:30:31,519 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:31:34,384 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:32:36,705 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:33:39,015 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:34:41,281 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:35:43,553 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:36:45,833 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:37:48,147 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:38:50,454 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:39:52,776 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:40:55,066 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:41:57,362 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:42:59,675 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:44:02,011 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:45:04,274 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:46:06,535 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:47:08,850 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:48:11,143 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:49:13,439 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:50:15,694 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:51:17,947 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:52:20,175 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:53:22,497 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:54:24,782 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:54:32,447 [INFO] 🔄 Session expiring — refreshing...
+2026-07-02 15:54:32,911 [INFO] ✅ Capital.com session created
+2026-07-02 15:55:27,092 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:56:29,411 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:57:31,744 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:58:34,030 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 15:59:36,298 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:00:39,665 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:01:41,992 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:02:44,301 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:03:46,854 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:04:49,226 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:05:51,533 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:06:53,846 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:07:56,425 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:08:58,736 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:10:01,047 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:11:03,316 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:12:05,587 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:13:07,868 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:14:10,168 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-07-02 16:15:13,726 [INFO] ⏸ Skipping: Max 2 trades reached for today
