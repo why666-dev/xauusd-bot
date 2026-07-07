@@ -2,12 +2,12 @@
   "stats": {
     "S1_Asian_Breakout": {
       "name": "S1_Asian_Breakout",
-      "trades": 52,
-      "wins": 23,
-      "losses": 29,
-      "gross_pnl": 182680.00000000166,
-      "net_pnl": 182677.40000000168,
-      "commission": 2.5999999999999988,
+      "trades": 54,
+      "wins": 24,
+      "losses": 30,
+      "gross_pnl": 191275.00000000192,
+      "net_pnl": 191272.30000000194,
+      "commission": 2.6999999999999984,
       "max_win": 55354.95000000047,
       "max_loss": -28080.049999999927,
       "trade_history": [
@@ -998,10 +998,48 @@
           "net_pnl": -11410.05,
           "result": "LOSS",
           "reason": ""
+        },
+        {
+          "date": "2026-07-08",
+          "time_ist": "00:41:41",
+          "strategy": "S1_Asian_Breakout",
+          "direction": "SELL",
+          "entry": 4125.68,
+          "sl": 4135.54,
+          "tp1": 4110.89,
+          "tp2": 4105.96,
+          "size": 10.0,
+          "exit_price": 4106.22,
+          "exit_time": "00:41:41",
+          "gross_pnl": 19465.0,
+          "rr_achieved": 1.97,
+          "commission": 0.05,
+          "net_pnl": 19464.95,
+          "result": "WIN",
+          "reason": ""
+        },
+        {
+          "date": "2026-07-08",
+          "time_ist": "01:25:01",
+          "strategy": "S1_Asian_Breakout",
+          "direction": "SELL",
+          "entry": 4104.29,
+          "sl": 4116.07,
+          "tp1": 4086.63,
+          "tp2": 4080.74,
+          "size": 10.0,
+          "exit_price": 4115.16,
+          "exit_time": "01:25:01",
+          "gross_pnl": -10870.0,
+          "rr_achieved": 0.92,
+          "commission": 0.05,
+          "net_pnl": -10870.05,
+          "result": "LOSS",
+          "reason": ""
         }
       ],
-      "hit_ratio": 44.2,
-      "gain_loss_ratio": 1.93
+      "hit_ratio": 44.4,
+      "gain_loss_ratio": 1.92
     },
     "S2_Goldmine": {
       "name": "S2_Goldmine",
@@ -1244,6 +1282,6 @@
     }
   },
   "open_trade": null,
-  "equity": 52794.38,
-  "timestamp": "2026-07-07T22:02:33.690435+05:30"
+  "equity": 52875.38,
+  "timestamp": "2026-07-08T04:21:16.028639+05:30"
 }
