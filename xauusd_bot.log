@@ -34583,3 +34583,178 @@
 2026-07-30 15:55:17,397 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-07-30 15:56:19,690 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-07-30 15:57:21,989 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-07-30 16:17:11,573 [INFO] ✅ Capital.com session created
+2026-07-30 16:17:11,574 [INFO] ✅ Daily risk counters reset
+2026-07-30 16:17:11,574 [INFO] ✅ Weekly risk counters reset
+2026-07-30 16:17:11,575 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-07-30T21:27:21.991542+05:30)
+2026-07-30 16:17:11,575 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-07-30 16:17:11,575 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-07-30 16:17:11,576 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-07-30 16:17:11,576 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-07-30 16:17:11,577 [INFO] EOD watchdog + supervisor started
+2026-07-30 16:17:11,580 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.117:5051
+2026-07-30 16:17:11,580 [INFO] [33mPress CTRL+C to quit[0m
+2026-07-30 16:17:14,706 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-30&end_date=2026-07-30&importance=high — trading allowed
+2026-07-30 16:17:14,707 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-30 16:17:15,139 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:17:15,144 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-30&end_date=2026-07-30&importance=high — trading allowed
+2026-07-30 16:17:15,145 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-30 16:18:18,204 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:19:21,257 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:20:24,592 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:21:27,646 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:22:30,701 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:23:33,747 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:24:36,879 [INFO] S1: Asian range built | High=4116.47 Low=4042.75 Range=$73.72
+2026-07-30 16:24:36,879 [INFO] S2: Breakout LONG detected above $4116.47 — waiting retest
+2026-07-30 16:24:36,879 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4116.47
+2026-07-30 16:24:36,879 [INFO]   Position size: equity=$52702 risk=$527 ATR=14.95 → 10.0oz
+2026-07-30 16:24:37,353 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4096.06 TP=4163.36 | S1_Asian_Breakout
+2026-07-30 16:24:37,353 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4118.50 | SL=$4096.06 TP1=$4152.14 TP2=$4163.36
+2026-07-30 17:17:16,331 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-30&end_date=2026-07-30&importance=high — trading allowed
+2026-07-30 17:17:16,332 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-30 18:17:17,981 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-30&end_date=2026-07-30&importance=high — trading allowed
+2026-07-30 18:17:17,982 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-30 19:17:19,795 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-30&end_date=2026-07-30&importance=high — trading allowed
+2026-07-30 19:17:19,796 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-30 19:55:00,795 [INFO] 🏁 EOD: Closing all positions...
+2026-07-30 19:55:02,136 [INFO] ✅ TRADE CLOSED | deal_id=00601567-0055-311e-0000-000084f28ecf
+2026-07-30 19:55:02,136 [INFO] Trade recorded | PnL=$-8995.05 | Daily=1 | Daily PnL=$-8995.05
+2026-07-30 19:55:02,349 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$-8995.05 | result=LOSS
+2026-07-30 19:55:02,349 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4109.50 | PnL=$-8995.05 | LOSS
+2026-07-30 19:55:02,354 [INFO] ✅ Daily risk counters reset
+2026-07-30 19:55:02,354 [INFO] ✅ EOD complete
+2026-07-30 19:56:01,316 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -17.8% — trading halted for week
+2026-07-30 19:57:04,354 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -17.8% — trading halted for week
+2026-07-30 19:58:07,431 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -17.8% — trading halted for week
+2026-07-30 19:59:10,609 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:00:13,658 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:30 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:01:16,748 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:31 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:02:19,777 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:32 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:03:22,813 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:33 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:04:25,908 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:34 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:05:29,241 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:35 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:06:32,274 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:36 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:07:35,312 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:37 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:08:38,523 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:38 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:09:41,668 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:39 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:10:44,721 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:40 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:11:47,777 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:41 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:12:50,824 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:42 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:13:54,091 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:43 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:14:57,115 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:44 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:16:00,162 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:45 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:17:03,189 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:47 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:17:21,345 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-30&end_date=2026-07-30&importance=high — trading allowed
+2026-07-30 20:17:21,346 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-30 20:18:06,336 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:48 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:19:09,382 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:49 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:20:12,469 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:50 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:21:15,530 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:51 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:22:23,586 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:52 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:23:26,647 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:53 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:24:29,671 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:54 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:25:32,720 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:55 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:26:35,958 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:56 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:27:39,010 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:57 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:28:42,076 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:58 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:29:45,432 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:59 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:30:48,466 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:00 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:31:51,515 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:01 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:32:54,559 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:02 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:33:57,882 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:03 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:35:00,935 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:05 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:36:03,975 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:06 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:37:07,015 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:07 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:38:10,079 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:08 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:39:13,137 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:09 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:40:16,176 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:10 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:41:19,225 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:11 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:42:22,278 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:12 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:43:25,314 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:13 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:44:28,462 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:14 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:45:31,743 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:15 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:46:34,932 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:16 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:47:37,975 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:17 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:48:41,016 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:18 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:49:44,113 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:19 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:50:47,173 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:20 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:51:50,227 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:21 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:52:53,276 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:22 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:53:56,356 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:23 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:54:59,400 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:24 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:56:02,467 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:26 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:57:05,535 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:27 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:58:08,638 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:28 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 20:59:11,712 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:29 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:00:14,722 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:30 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:01:17,786 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:31 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:02:20,887 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:32 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:03:24,001 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:33 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:04:27,030 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:34 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:05:30,051 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:35 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:06:33,140 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:36 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:07:36,191 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:37 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:08:39,244 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:38 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:09:42,280 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:39 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:10:45,396 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:40 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:11:48,578 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:41 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:12:51,639 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:42 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:13:54,998 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:43 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:14:58,089 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:44 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:16:01,189 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:46 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:17:04,248 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:47 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:17:24,613 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-07-30&end_date=2026-07-30&importance=high — trading allowed
+2026-07-30 21:17:24,614 [INFO] 📰 News calendar refreshed — 0 events today
+2026-07-30 21:18:07,469 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:48 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:19:10,538 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:49 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:20:13,619 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:50 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:21:16,691 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:51 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:22:19,808 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:52 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:23:22,849 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:53 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:24:25,945 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:54 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:25:29,017 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:55 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:26:32,157 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:56 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:27:35,197 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:57 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:28:38,229 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:58 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:29:41,278 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:59 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:30:44,378 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:00 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:31:47,425 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:01 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:32:50,747 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:02 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:33:53,784 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:03 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:34:56,833 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:04 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:35:59,883 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:05 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:37:02,924 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:07 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:38:06,088 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:08 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:39:09,139 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:09 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:40:12,191 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:10 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:41:15,217 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:11 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:42:18,265 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:12 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:43:21,412 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:13 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:44:24,475 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:14 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:45:27,506 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:15 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:46:11,897 [INFO] 🔄 Session expiring — refreshing...
+2026-07-30 21:46:12,517 [INFO] ✅ Capital.com session created
+2026-07-30 21:46:30,877 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:16 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:47:33,954 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:17 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:48:37,001 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:18 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:49:40,031 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:19 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:50:43,129 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:20 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:51:46,155 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:21 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:52:49,203 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:22 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:53:52,243 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:23 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:54:55,294 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:24 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:55:58,480 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:25 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:57:01,517 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:27 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:58:04,555 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:28 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 21:59:08,298 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:29 IST) | Weekly loss -17.8% — trading halted for week
+2026-07-30 22:00:11,332 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:30 IST) — low liquidity | Weekly loss -17.8% — trading halted for week
+2026-07-30 22:01:14,398 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:31 IST) — low liquidity | Weekly loss -17.8% — trading halted for week
+2026-07-30 22:02:17,659 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:32 IST) — low liquidity | Weekly loss -17.8% — trading halted for week
+2026-07-30 22:03:20,736 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:33 IST) — low liquidity | Weekly loss -17.8% — trading halted for week
+2026-07-30 22:04:23,779 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:34 IST) — low liquidity | Weekly loss -17.8% — trading halted for week
+2026-07-30 22:05:26,987 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:35 IST) — low liquidity | Weekly loss -17.8% — trading halted for week
+2026-07-30 22:06:30,109 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Dead zone (03:36 IST) — low liquidity | Weekly loss -17.8% — trading halted for week
