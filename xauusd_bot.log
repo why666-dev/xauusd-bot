@@ -44251,3 +44251,45 @@
 2026-09-16 18:41:10,020 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-09-16 18:42:12,520 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
 2026-09-16 18:43:15,188 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-09-17 12:49:44,804 [INFO] ✅ Capital.com session created
+2026-09-17 12:49:44,805 [INFO] ✅ Daily risk counters reset
+2026-09-17 12:49:44,805 [INFO] ✅ Weekly risk counters reset
+2026-09-17 12:49:44,806 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-09-17T00:13:15.191618+05:30)
+2026-09-17 12:49:44,806 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-09-17 12:49:44,806 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-09-17 12:49:44,806 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-09-17 12:49:44,806 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-09-17 12:49:44,807 [INFO] EOD watchdog + supervisor started
+2026-09-17 12:49:44,810 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.1.114:5051
+2026-09-17 12:49:44,810 [INFO] [33mPress CTRL+C to quit[0m
+2026-09-17 12:49:46,708 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-09-17&end_date=2026-09-17&importance=high — trading allowed
+2026-09-17 12:49:46,709 [INFO] 📰 News calendar refreshed — 0 events today
+2026-09-17 12:49:46,995 [INFO] S1: Asian range built | High=4366.93 Low=4234.98 Range=$131.95
+2026-09-17 12:50:49,131 [INFO] S1: Asian range built | High=4366.93 Low=4234.98 Range=$131.95
+2026-09-17 12:50:49,132 [INFO] S2: Breakout LONG detected above $4366.93 — waiting retest
+2026-09-17 12:50:49,137 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4366.93
+2026-09-17 12:50:49,137 [INFO]   Position size: equity=$53739 risk=$537 ATR=12.48 → 10.0oz
+2026-09-17 12:50:49,452 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4350.13 TP=4406.27 | S1_Asian_Breakout
+2026-09-17 12:50:49,453 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4368.85 | SL=$4350.13 TP1=$4396.91 TP2=$4406.27
+2026-09-17 13:49:47,791 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-09-17&end_date=2026-09-17&importance=high — trading allowed
+2026-09-17 13:49:47,792 [INFO] 📰 News calendar refreshed — 0 events today
+2026-09-17 14:49:49,208 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-09-17&end_date=2026-09-17&importance=high — trading allowed
+2026-09-17 14:49:49,209 [INFO] 📰 News calendar refreshed — 0 events today
+2026-09-17 15:49:50,646 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-09-17&end_date=2026-09-17&importance=high — trading allowed
+2026-09-17 15:49:50,648 [INFO] 📰 News calendar refreshed — 0 events today
+2026-09-17 16:49:51,126 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-09-17&end_date=2026-09-17&importance=high — trading allowed
+2026-09-17 16:49:51,127 [INFO] 📰 News calendar refreshed — 0 events today
+2026-09-17 17:49:52,720 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-09-17&end_date=2026-09-17&importance=high — trading allowed
+2026-09-17 17:49:52,721 [INFO] 📰 News calendar refreshed — 0 events today
+2026-09-17 18:18:45,039 [INFO] 🔄 Session expiring — refreshing...
+2026-09-17 18:18:45,443 [INFO] ✅ Capital.com session created
+2026-09-17 18:35:16,646 [INFO] Trade recorded | PnL=$-19130.05 | Daily=1 | Daily PnL=$-19130.05
+2026-09-17 18:35:16,838 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$-19130.05 | result=LOSS
+2026-09-17 18:35:16,839 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4349.72 | PnL=$-19130.05 | LOSS
+2026-09-17 18:36:18,824 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss -35.6% — trading halted
+2026-09-17 18:37:20,808 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-09-17 18:38:22,772 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-09-17 18:39:24,735 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
