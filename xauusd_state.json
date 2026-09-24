@@ -2,12 +2,12 @@
   "stats": {
     "S1_Asian_Breakout": {
       "name": "S1_Asian_Breakout",
-      "trades": 86,
-      "wins": 38,
+      "trades": 88,
+      "wins": 40,
       "losses": 48,
-      "gross_pnl": 185640.00000000172,
-      "net_pnl": 185635.70000000173,
-      "commission": 4.299999999999993,
+      "gross_pnl": 219790.00000000227,
+      "net_pnl": 219785.60000000228,
+      "commission": 4.399999999999992,
       "max_win": 60074.949999999815,
       "max_loss": -63000.05,
       "trade_history": [
@@ -1644,10 +1644,48 @@
           "net_pnl": -11570.05,
           "result": "LOSS",
           "reason": ""
+        },
+        {
+          "date": "2026-09-24",
+          "time_ist": "18:27:09",
+          "strategy": "S1_Asian_Breakout",
+          "direction": "SELL",
+          "entry": 4289.75,
+          "sl": 4302.26,
+          "tp1": 4270.99,
+          "tp2": 4264.74,
+          "size": 10.0,
+          "exit_price": 4281.98,
+          "exit_time": "18:27:09",
+          "gross_pnl": 7770.0,
+          "rr_achieved": 0.62,
+          "commission": 0.05,
+          "net_pnl": 7769.95,
+          "result": "WIN",
+          "reason": ""
+        },
+        {
+          "date": "2026-09-24",
+          "time_ist": "20:43:27",
+          "strategy": "S1_Asian_Breakout",
+          "direction": "SELL",
+          "entry": 4273.58,
+          "sl": 4286.9,
+          "tp1": 4253.61,
+          "tp2": 4246.95,
+          "size": 10.0,
+          "exit_price": 4247.2,
+          "exit_time": "20:43:27",
+          "gross_pnl": 26380.0,
+          "rr_achieved": 1.98,
+          "commission": 0.05,
+          "net_pnl": 26379.95,
+          "result": "WIN",
+          "reason": ""
         }
       ],
-      "hit_ratio": 44.2,
-      "gain_loss_ratio": 1.64
+      "hit_ratio": 45.5,
+      "gain_loss_ratio": 1.63
     },
     "S2_Goldmine": {
       "name": "S2_Goldmine",
@@ -2003,18 +2041,7 @@
       "gain_loss_ratio": 0.49
     }
   },
-  "open_trade": {
-    "deal_id": "o_e0a779a5-c8d0-43e0-b6bf-dca37c09fb5f",
-    "strategy": "S1_Asian_Breakout",
-    "direction": "SELL",
-    "entry": 4289.75,
-    "sl": 4302.26,
-    "tp1": 4270.99,
-    "tp2": 4264.74,
-    "size": 10.0,
-    "open_time": "2026-09-23T23:35:56.680940+05:30",
-    "tp1_hit": false
-  },
-  "equity": 49092.94,
-  "timestamp": "2026-09-24T00:24:58.718326+05:30"
+  "open_trade": null,
+  "equity": 53715.33,
+  "timestamp": "2026-09-25T00:17:11.401032+05:30"
 }
