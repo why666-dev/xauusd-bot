@@ -45662,3 +45662,125 @@
 2026-09-30 20:06:17,938 [INFO] ⏸ Skipping: Outside trading window (01:36 IST)
 2026-09-30 20:07:19,902 [INFO] ⏸ Skipping: Outside trading window (01:37 IST)
 2026-09-30 20:08:21,860 [INFO] ⏸ Skipping: Outside trading window (01:38 IST)
+2026-10-01 14:52:02,870 [INFO] ✅ Capital.com session created
+2026-10-01 14:52:02,871 [INFO] ✅ Daily risk counters reset
+2026-10-01 14:52:02,871 [INFO] ✅ Weekly risk counters reset
+2026-10-01 14:52:02,873 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-10-01T01:38:21.863619+05:30)
+2026-10-01 14:52:02,873 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-10-01 14:52:02,873 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-10-01 14:52:02,874 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-10-01 14:52:02,874 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-10-01 14:52:02,875 [INFO] EOD watchdog + supervisor started
+2026-10-01 14:52:02,877 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.159:5051
+2026-10-01 14:52:02,877 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-01 14:52:05,441 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-01&end_date=2026-10-01&importance=high — trading allowed
+2026-10-01 14:52:05,441 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-01 14:52:05,829 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 14:53:08,302 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 14:54:10,849 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 14:55:13,399 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 14:56:15,931 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 14:57:18,416 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 14:58:20,838 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 14:59:23,457 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:00:25,909 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:01:28,380 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:02:30,945 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:03:33,531 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:04:35,982 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:05:38,438 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:06:41,261 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:07:43,712 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:08:46,174 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:09:48,623 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:10:51,202 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:11:53,681 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:12:56,162 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:13:58,590 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:15:01,083 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:16:03,590 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:17:06,018 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:18:08,512 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:19:11,035 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:20:13,520 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:21:15,993 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:22:18,449 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:23:20,860 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:24:23,335 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:25:25,755 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:26:28,149 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:27:30,581 [INFO] S1: Asian range built | High=4164.94 Low=4139.31 Range=$25.64
+2026-10-01 15:27:30,581 [INFO] S2: Breakout LONG detected above $4164.94 — waiting retest
+2026-10-01 15:27:30,581 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4164.94
+2026-10-01 15:27:30,581 [INFO]   Position size: equity=$53689 risk=$537 ATR=10.42 → 10.0oz
+2026-10-01 15:27:30,957 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4149.96 TP=4196.84 | S1_Asian_Breakout
+2026-10-01 15:27:30,957 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4165.59 | SL=$4149.96 TP1=$4189.02 TP2=$4196.84
+2026-10-01 15:52:07,356 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-01&end_date=2026-10-01&importance=high — trading allowed
+2026-10-01 15:52:07,357 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-01 16:52:10,386 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-01&end_date=2026-10-01&importance=high — trading allowed
+2026-10-01 16:52:10,387 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-01 17:52:10,751 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-01&end_date=2026-10-01&importance=high — trading allowed
+2026-10-01 17:52:10,752 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-01 18:52:13,845 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-01&end_date=2026-10-01&importance=high — trading allowed
+2026-10-01 18:52:13,845 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-01 19:40:20,246 [WARNING] ⏱ Timeout GET /accounts (attempt 1) — retry in 2s
+2026-10-01 19:52:16,169 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-01&end_date=2026-10-01&importance=high — trading allowed
+2026-10-01 19:52:16,170 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-01 19:55:00,207 [INFO] 🏁 EOD: Closing all positions...
+2026-10-01 19:55:01,313 [INFO] ✅ TRADE CLOSED | deal_id=00000000-6740-1bc6-045d-b6340055311e
+2026-10-01 19:55:01,313 [INFO] Trade recorded | PnL=$10674.95 | Daily=1 | Daily PnL=$10674.95
+2026-10-01 19:55:01,885 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$10674.95 | result=WIN
+2026-10-01 19:55:01,885 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4176.26 | PnL=$10674.95 | WIN
+2026-10-01 19:55:01,889 [INFO] ✅ Daily risk counters reset
+2026-10-01 19:55:01,889 [INFO] ✅ EOD complete
+2026-10-01 19:55:13,644 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-10-01 19:56:16,096 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-10-01 19:57:18,557 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-10-01 19:58:20,990 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-10-01 19:59:23,435 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu
+2026-10-01 20:00:25,893 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:30 IST)
+2026-10-01 20:01:28,598 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:31 IST)
+2026-10-01 20:02:31,067 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:32 IST)
+2026-10-01 20:03:33,546 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:33 IST)
+2026-10-01 20:04:36,013 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:34 IST)
+2026-10-01 20:05:38,447 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:35 IST)
+2026-10-01 20:06:40,857 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:36 IST)
+2026-10-01 20:07:43,283 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:37 IST)
+2026-10-01 20:08:45,708 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:38 IST)
+2026-10-01 20:09:48,170 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:39 IST)
+2026-10-01 20:10:50,653 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:40 IST)
+2026-10-01 20:11:53,152 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:41 IST)
+2026-10-01 20:12:55,938 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:42 IST)
+2026-10-01 20:13:58,384 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:43 IST)
+2026-10-01 20:15:00,832 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:45 IST)
+2026-10-01 20:16:03,266 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:46 IST)
+2026-10-01 20:17:05,920 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:47 IST)
+2026-10-01 20:18:08,374 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:48 IST)
+2026-10-01 20:19:10,835 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:49 IST)
+2026-10-01 20:20:13,279 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:50 IST)
+2026-10-01 20:21:03,097 [INFO] 🔄 Session expiring — refreshing...
+2026-10-01 20:21:03,688 [INFO] ✅ Capital.com session created
+2026-10-01 20:21:15,733 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:51 IST)
+2026-10-01 20:22:18,203 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:52 IST)
+2026-10-01 20:23:20,693 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:53 IST)
+2026-10-01 20:24:23,179 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:54 IST)
+2026-10-01 20:25:26,005 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:55 IST)
+2026-10-01 20:26:28,493 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:56 IST)
+2026-10-01 20:27:30,969 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:57 IST)
+2026-10-01 20:28:33,417 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:58 IST)
+2026-10-01 20:29:35,856 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:59 IST)
+2026-10-01 20:30:38,331 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:00 IST)
+2026-10-01 20:31:40,776 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:01 IST)
+2026-10-01 20:32:43,211 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:02 IST)
+2026-10-01 20:33:45,662 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:03 IST)
+2026-10-01 20:34:48,121 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:04 IST)
+2026-10-01 20:35:50,562 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:05 IST)
+2026-10-01 20:36:53,032 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:06 IST)
+2026-10-01 20:37:55,607 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:07 IST)
+2026-10-01 20:38:58,072 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:08 IST)
+2026-10-01 20:40:00,553 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:10 IST)
+2026-10-01 20:41:03,107 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:11 IST)
+2026-10-01 20:42:05,721 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:12 IST)
