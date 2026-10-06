@@ -45784,3 +45784,101 @@
 2026-10-01 20:40:00,553 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:10 IST)
 2026-10-01 20:41:03,107 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:11 IST)
 2026-10-01 20:42:05,721 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:12 IST)
+2026-10-06 14:32:28,923 [INFO] ✅ Capital.com session created
+2026-10-06 14:32:28,924 [INFO] ✅ Daily risk counters reset
+2026-10-06 14:32:28,925 [INFO] ✅ Weekly risk counters reset
+2026-10-06 14:32:28,925 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-10-02T02:12:05.724147+05:30)
+2026-10-06 14:32:28,925 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-10-06 14:32:28,926 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-10-06 14:32:28,926 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-10-06 14:32:28,926 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-10-06 14:32:28,927 [INFO] EOD watchdog + supervisor started
+2026-10-06 14:32:28,929 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.194:5051
+2026-10-06 14:32:28,929 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-06 14:32:30,997 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-06&end_date=2026-10-06&importance=high — trading allowed
+2026-10-06 14:32:30,998 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-06 14:32:31,326 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:33:33,234 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:34:35,082 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:35:37,295 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:36:39,356 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:37:41,271 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:38:43,189 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:39:45,044 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:40:46,981 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:41:48,881 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:42:50,876 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:43:52,867 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:44:54,720 [INFO] S1: Asian range built | High=4152.38 Low=4103.76 Range=$48.62
+2026-10-06 14:44:54,720 [INFO] S2: Breakout LONG detected above $4152.38 — waiting retest
+2026-10-06 14:44:54,720 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4152.38
+2026-10-06 14:44:54,720 [INFO]   Position size: equity=$53785 risk=$538 ATR=7.68 → 10.0oz
+2026-10-06 14:44:55,012 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4141.29 TP=4175.85 | S1_Asian_Breakout
+2026-10-06 14:44:55,013 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4152.81 | SL=$4141.29 TP1=$4170.09 TP2=$4175.85
+2026-10-06 15:32:32,750 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-06&end_date=2026-10-06&importance=high — trading allowed
+2026-10-06 15:32:32,751 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-06 16:32:33,141 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-06&end_date=2026-10-06&importance=high — trading allowed
+2026-10-06 16:32:33,142 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-06 17:32:33,925 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-06&end_date=2026-10-06&importance=high — trading allowed
+2026-10-06 17:32:33,926 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-06 18:16:28,376 [INFO] TP1 hit at $4170.17 — moving SL to breakeven $4152.81
+2026-10-06 18:16:28,651 [ERROR] ❌ PUT /positions/o_b858766f-bf4c-4d6f-af18-874747994f3a failed (attempt 1): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_b858766f-bf4c-4d6f-af18-874747994f3a
+2026-10-06 18:16:30,935 [ERROR] ❌ PUT /positions/o_b858766f-bf4c-4d6f-af18-874747994f3a failed (attempt 2): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_b858766f-bf4c-4d6f-af18-874747994f3a
+2026-10-06 18:16:36,209 [ERROR] ❌ PUT /positions/o_b858766f-bf4c-4d6f-af18-874747994f3a failed (attempt 3): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_b858766f-bf4c-4d6f-af18-874747994f3a
+2026-10-06 18:16:51,498 [ERROR] ❌ PUT /positions/o_b858766f-bf4c-4d6f-af18-874747994f3a failed (attempt 4): 400 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/positions/o_b858766f-bf4c-4d6f-af18-874747994f3a
+2026-10-06 18:16:51,499 [ERROR] ❌ PUT /positions/o_b858766f-bf4c-4d6f-af18-874747994f3a failed after 4 attempts — skipping
+2026-10-06 18:16:51,500 [WARNING] ⚠️ Breakeven SL API call failed — SL stays at $4141.29
+2026-10-06 18:32:35,954 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-06&end_date=2026-10-06&importance=high — trading allowed
+2026-10-06 18:32:35,955 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-06 18:57:07,985 [INFO] Trade recorded | PnL=$23784.95 | Daily=1 | Daily PnL=$23784.95
+2026-10-06 18:57:08,220 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$23784.95 | result=WIN
+2026-10-06 18:57:08,220 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4176.60 | PnL=$23784.95 | WIN
+2026-10-06 18:58:10,301 [INFO] S1: Asian range built | High=4173.29 Low=4103.76 Range=$69.53
+2026-10-06 18:58:10,301 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4173.29
+2026-10-06 18:58:10,301 [INFO]   Position size: equity=$54013 risk=$540 ATR=5.67 → 10.0oz
+2026-10-06 18:58:10,604 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4167.61 TP=4193.11 | S1_Asian_Breakout
+2026-10-06 18:58:10,605 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4176.11 | SL=$4167.61 TP1=$4188.86 TP2=$4193.11
+2026-10-06 19:32:36,411 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-06&end_date=2026-10-06&importance=high — trading allowed
+2026-10-06 19:32:36,412 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-06 19:49:47,673 [INFO] Trade recorded | PnL=$-8410.05 | Daily=2 | Daily PnL=$15374.90
+2026-10-06 19:49:47,780 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$-8410.05 | result=LOSS
+2026-10-06 19:49:47,780 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4167.70 | PnL=$-8410.05 | LOSS
+2026-10-06 19:50:49,698 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-10-06 19:51:51,604 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-10-06 19:52:53,563 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-10-06 19:53:55,447 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-10-06 19:54:57,407 [INFO] ⏸ Skipping: Max 2 trades reached for today
+2026-10-06 19:55:00,602 [INFO] 🏁 EOD: Closing all positions...
+2026-10-06 19:55:00,602 [INFO] ✅ Daily risk counters reset
+2026-10-06 19:55:00,602 [INFO] ✅ EOD complete
+2026-10-06 19:55:59,285 [INFO] S1: Asian range built | High=4184.59 Low=4103.76 Range=$80.83
+2026-10-06 19:57:01,169 [INFO] S1: Asian range built | High=4184.59 Low=4103.76 Range=$80.83
+2026-10-06 19:58:03,051 [INFO] S1: Asian range built | High=4184.59 Low=4103.76 Range=$80.83
+2026-10-06 19:59:05,084 [INFO] S1: Asian range built | High=4184.59 Low=4103.76 Range=$80.83
+2026-10-06 20:00:07,159 [INFO] ⏸ Skipping: Outside trading window (01:30 IST)
+2026-10-06 20:01:09,072 [INFO] ⏸ Skipping: Outside trading window (01:31 IST)
+2026-10-06 20:01:29,487 [INFO] 🔄 Session expiring — refreshing...
+2026-10-06 20:01:29,877 [INFO] ✅ Capital.com session created
+2026-10-06 20:02:11,114 [INFO] ⏸ Skipping: Outside trading window (01:32 IST)
+2026-10-06 20:03:13,025 [INFO] ⏸ Skipping: Outside trading window (01:33 IST)
+2026-10-06 20:04:14,914 [INFO] ⏸ Skipping: Outside trading window (01:34 IST)
+2026-10-06 20:05:16,817 [INFO] ⏸ Skipping: Outside trading window (01:35 IST)
+2026-10-06 20:06:18,813 [INFO] ⏸ Skipping: Outside trading window (01:36 IST)
+2026-10-06 20:07:20,717 [INFO] ⏸ Skipping: Outside trading window (01:37 IST)
+2026-10-06 20:08:22,627 [INFO] ⏸ Skipping: Outside trading window (01:38 IST)
+2026-10-06 20:09:24,511 [INFO] ⏸ Skipping: Outside trading window (01:39 IST)
+2026-10-06 20:10:26,477 [INFO] ⏸ Skipping: Outside trading window (01:40 IST)
+2026-10-06 20:11:28,356 [INFO] ⏸ Skipping: Outside trading window (01:41 IST)
+2026-10-06 20:12:30,234 [INFO] ⏸ Skipping: Outside trading window (01:42 IST)
+2026-10-06 20:13:32,140 [INFO] ⏸ Skipping: Outside trading window (01:43 IST)
+2026-10-06 20:14:34,123 [INFO] ⏸ Skipping: Outside trading window (01:44 IST)
+2026-10-06 20:15:36,029 [INFO] ⏸ Skipping: Outside trading window (01:45 IST)
+2026-10-06 20:16:37,937 [INFO] ⏸ Skipping: Outside trading window (01:46 IST)
+2026-10-06 20:17:39,830 [INFO] ⏸ Skipping: Outside trading window (01:47 IST)
+2026-10-06 20:18:41,951 [INFO] ⏸ Skipping: Outside trading window (01:48 IST)
+2026-10-06 20:19:43,882 [INFO] ⏸ Skipping: Outside trading window (01:49 IST)
+2026-10-06 20:20:45,764 [INFO] ⏸ Skipping: Outside trading window (01:50 IST)
+2026-10-06 20:21:47,672 [INFO] ⏸ Skipping: Outside trading window (01:51 IST)
