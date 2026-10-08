@@ -45984,3 +45984,347 @@
 2026-10-07 20:36:53,538 [INFO] ⏸ Skipping: Outside trading window (02:06 IST) | Daily loss limit hit — halted for today
 2026-10-07 20:37:55,529 [INFO] ⏸ Skipping: Outside trading window (02:07 IST) | Daily loss limit hit — halted for today
 2026-10-07 20:38:57,371 [INFO] ⏸ Skipping: Outside trading window (02:08 IST) | Daily loss limit hit — halted for today
+2026-10-08 14:59:59,156 [INFO] ✅ Capital.com session created
+2026-10-08 14:59:59,157 [INFO] ✅ Daily risk counters reset
+2026-10-08 14:59:59,157 [INFO] ✅ Weekly risk counters reset
+2026-10-08 14:59:59,158 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-10-08T02:08:57.374680+05:30)
+2026-10-08 14:59:59,158 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-10-08 14:59:59,158 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-10-08 14:59:59,158 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-10-08 14:59:59,158 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-10-08 14:59:59,159 [INFO] EOD watchdog + supervisor started
+2026-10-08 14:59:59,161 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.1.192:5051
+2026-10-08 14:59:59,162 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-08 15:00:02,236 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-08&end_date=2026-10-08&importance=high — trading allowed
+2026-10-08 15:00:02,237 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-08 15:00:02,304 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-08&end_date=2026-10-08&importance=high — trading allowed
+2026-10-08 15:00:02,305 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-08 15:00:02,737 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:01:06,166 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:02:09,325 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:03:12,438 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:04:15,711 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:05:18,866 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:06:21,914 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:07:25,062 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:08:28,223 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:09:31,278 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:10:34,366 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:11:37,458 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:12:40,601 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:13:43,688 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:14:46,799 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:15:49,901 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:16:53,098 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:17:56,163 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:18:59,261 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:20:02,413 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:21:05,570 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:22:08,657 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:23:11,742 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:24:14,910 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:25:18,034 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:26:21,127 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:27:24,212 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:28:27,523 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:29:30,634 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:30:33,743 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:31:36,863 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:32:40,090 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:33:43,285 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:34:46,463 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:35:49,583 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:36:52,803 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:37:55,939 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:38:59,055 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:40:02,172 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:41:05,304 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:42:08,393 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:43:11,479 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:44:14,748 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:45:17,877 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:46:21,159 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:47:24,331 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:48:27,555 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:49:30,623 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:50:33,745 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:51:36,809 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:52:39,957 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:53:43,063 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:54:46,148 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:55:49,322 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:56:52,482 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:57:55,594 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 15:58:58,680 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:00:01,759 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:00:03,006 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-08&end_date=2026-10-08&importance=high — trading allowed
+2026-10-08 16:00:03,007 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-08 16:01:04,933 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:02:08,022 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:03:11,139 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:04:14,187 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:05:17,310 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:06:20,460 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:07:23,545 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:08:26,755 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:09:29,847 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:10:32,946 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:11:36,019 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:12:39,141 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:13:42,257 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:14:45,409 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:15:48,488 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:16:51,658 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:17:54,898 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:18:58,102 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:20:01,253 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:21:04,407 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:22:07,481 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:23:10,615 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:24:13,767 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:25:16,831 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:26:19,932 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:27:23,018 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:28:26,121 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:29:29,291 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:30:32,385 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:31:35,503 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:32:38,875 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:33:41,905 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:34:44,956 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:35:48,091 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:36:51,267 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:37:54,519 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:38:57,682 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:40:00,786 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:41:03,929 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:42:07,080 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:43:10,186 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:44:13,289 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:45:16,415 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:46:19,523 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:47:22,631 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:48:25,758 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:49:28,867 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:50:31,987 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:51:35,120 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:52:38,296 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:53:41,372 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:54:44,474 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:55:47,555 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:56:50,836 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:57:53,979 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 16:58:57,072 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:00:00,161 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:00:04,097 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-08&end_date=2026-10-08&importance=high — trading allowed
+2026-10-08 17:00:04,097 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-08 17:01:03,305 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:02:06,441 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:03:09,554 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:04:12,644 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:05:15,762 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:06:18,941 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:07:22,105 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:08:25,211 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:09:28,320 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:10:31,400 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:11:34,472 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:12:37,586 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:13:40,679 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:14:43,774 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:15:46,832 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:16:50,005 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:17:53,209 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:18:56,334 [INFO] S1: Asian range built | High=4143.41 Low=4100.34 Range=$43.07
+2026-10-08 17:18:56,335 [INFO] 🎯 SIGNAL: S1_Asian_Breakout BUY | 15M closed above Asian High $4143.41
+2026-10-08 17:18:56,335 [INFO]   Position size: equity=$53799 risk=$538 ATR=10.36 → 10.0oz
+2026-10-08 17:18:56,824 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4128.14 TP=4174.77 | S1_Asian_Breakout
+2026-10-08 17:18:56,824 [INFO] ✅ TRADE OPENED | S1_Asian_Breakout BUY 10.0oz @ $4143.68 | SL=$4128.14 TP1=$4166.99 TP2=$4174.77
+2026-10-08 17:50:30,624 [INFO] Trade recorded | PnL=$-15325.05 | Daily=1 | Daily PnL=$-15325.05
+2026-10-08 17:50:30,895 [INFO] Excel ✅ S1_Asian_Breakout BUY | net=$-15325.05 | result=LOSS
+2026-10-08 17:50:30,895 [INFO] 📊 TRADE CLOSED | S1_Asian_Breakout BUY | Exit=$4128.35 | PnL=$-15325.05 | LOSS
+2026-10-08 17:51:34,007 [INFO] ⏸ Skipping: Daily loss -28.5% — trading halted
+2026-10-08 17:52:37,105 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 17:53:40,177 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 17:54:43,300 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 17:55:46,421 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 17:56:49,521 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 17:57:52,692 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 17:58:55,750 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 17:59:58,866 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:00:04,338 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-08&end_date=2026-10-08&importance=high — trading allowed
+2026-10-08 18:00:04,339 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-08 18:01:01,903 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:02:05,003 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:03:08,051 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:04:11,103 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:05:14,322 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:06:17,399 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:07:20,552 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:08:23,626 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:09:26,767 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:10:29,857 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:11:32,961 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:12:36,083 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:13:39,254 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:14:42,374 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:15:45,471 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:16:48,577 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:17:51,830 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:18:55,018 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:19:58,088 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:21:01,186 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:22:04,328 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:23:07,409 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:24:10,460 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:25:13,553 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:26:16,636 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:27:19,711 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:28:22,783 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:29:26,055 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-10-08 18:30:29,140 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:31:32,233 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:32:35,349 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:33:38,623 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:34:41,701 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:35:44,804 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:36:47,903 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:37:51,001 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:38:54,044 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:39:57,129 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:41:00,194 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:42:03,361 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:43:06,431 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:44:09,485 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:45:12,513 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:46:15,644 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:47:18,732 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:48:21,802 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:49:24,908 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:50:28,014 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:51:31,074 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:52:34,118 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:53:37,417 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:54:40,475 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:55:43,555 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:56:46,688 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:57:50,026 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:58:53,105 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 18:59:56,160 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:00:07,481 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-08&end_date=2026-10-08&importance=high — trading allowed
+2026-10-08 19:00:07,482 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-08 19:00:59,218 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:02:02,383 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:03:05,483 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:04:08,540 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:05:11,651 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:06:14,729 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:07:17,804 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:08:20,879 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:09:23,917 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:10:26,957 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:11:29,998 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:12:33,084 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:13:36,232 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:14:39,275 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:15:42,374 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:16:45,470 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:17:48,731 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:18:51,813 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:19:54,892 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:20:57,992 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:22:01,070 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:23:04,091 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:24:07,170 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:25:10,253 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:26:13,364 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:27:16,443 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:28:19,543 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:29:22,700 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:30:25,779 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:31:28,895 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:32:32,033 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:33:35,096 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:34:38,163 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:35:41,257 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:36:44,372 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:37:48,019 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:38:51,154 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:39:54,343 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:40:57,427 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:42:00,643 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:43:03,745 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:44:06,800 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:45:09,865 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:46:13,171 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:47:16,239 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:48:19,313 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:49:22,441 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:50:25,503 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:51:28,567 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:52:31,638 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:53:34,719 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:54:37,834 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Daily loss limit hit — halted for today
+2026-10-08 19:55:00,866 [INFO] 🏁 EOD: Closing all positions...
+2026-10-08 19:55:00,866 [INFO] ✅ Daily risk counters reset
+2026-10-08 19:55:00,866 [INFO] ✅ EOD complete
+2026-10-08 19:55:40,958 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -28.6% — trading halted for week
+2026-10-08 19:56:44,020 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -28.6% — trading halted for week
+2026-10-08 19:57:47,072 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -28.6% — trading halted for week
+2026-10-08 19:58:50,152 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -28.6% — trading halted for week
+2026-10-08 19:59:53,241 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:00:10,538 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-10-08&end_date=2026-10-08&importance=high — trading allowed
+2026-10-08 20:00:10,539 [INFO] 📰 News calendar refreshed — 0 events today
+2026-10-08 20:00:56,412 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:30 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:01:59,517 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:31 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:03:02,619 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:33 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:04:05,707 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:34 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:05:08,784 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:35 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:06:12,203 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:36 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:07:15,302 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:37 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:08:18,361 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:38 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:09:21,442 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:39 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:10:24,873 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:40 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:11:27,934 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:41 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:12:31,021 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:42 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:13:34,105 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:43 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:14:37,327 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:44 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:15:40,420 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:45 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:16:43,474 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:46 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:17:46,628 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:47 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:18:49,771 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:48 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:19:52,876 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:49 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:20:55,931 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:50 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:21:59,016 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:51 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:23:02,064 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:53 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:24:05,158 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:54 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:25:08,272 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:55 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:26:11,800 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:56 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:27:14,890 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:57 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:28:17,954 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:58 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:28:59,172 [INFO] 🔄 Session expiring — refreshing...
+2026-10-08 20:28:59,714 [INFO] ✅ Capital.com session created
+2026-10-08 20:29:21,072 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (01:59 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:30:24,501 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:00 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:31:27,586 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:01 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:32:30,677 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:02 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:33:33,758 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:03 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:34:36,989 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:04 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:35:40,138 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:05 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:36:43,236 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:06 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:37:46,335 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:07 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:38:49,625 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:08 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:39:52,689 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:09 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:40:55,805 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:10 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:41:58,884 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:11 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:43:02,050 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:13 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:44:05,104 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:14 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:45:08,135 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:15 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:46:11,161 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:16 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:47:14,446 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:17 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:48:17,499 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:18 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:49:20,602 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:19 IST) | Weekly loss -28.6% — trading halted for week
+2026-10-08 20:50:23,929 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (02:20 IST) | Weekly loss -28.6% — trading halted for week
