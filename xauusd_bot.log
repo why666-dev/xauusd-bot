@@ -50493,3 +50493,359 @@
 2026-11-05 21:38:52,562 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:08 IST)
 2026-11-05 21:39:55,009 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:09 IST)
 2026-11-05 21:40:57,657 [INFO] ⏸ Skipping: Skip Friday — best days are Tue/Wed/Thu | Outside trading window (03:10 IST)
+2026-11-10 15:52:26,249 [INFO] ✅ Capital.com session created
+2026-11-10 15:52:26,250 [INFO] ✅ Daily risk counters reset
+2026-11-10 15:52:26,251 [INFO] ✅ Weekly risk counters reset
+2026-11-10 15:52:26,251 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-11-06T03:10:57.659243+05:30)
+2026-11-10 15:52:26,252 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-11-10 15:52:26,252 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-11-10 15:52:26,252 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-11-10 15:52:26,252 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-11-10 15:52:26,253 [INFO] EOD watchdog + supervisor started
+2026-11-10 15:52:26,255 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.248:5051
+2026-11-10 15:52:26,255 [INFO] [33mPress CTRL+C to quit[0m
+2026-11-10 15:52:27,963 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-10&end_date=2026-11-10&importance=high — trading allowed
+2026-11-10 15:52:27,964 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-10 15:52:28,233 [INFO] S1: Asian range built | High=4148.59 Low=4100.63 Range=$47.96
+2026-11-10 15:53:30,093 [INFO] S1: Asian range built | High=4148.59 Low=4100.63 Range=$47.96
+2026-11-10 15:54:31,952 [INFO] S1: Asian range built | High=4148.59 Low=4100.63 Range=$47.96
+2026-11-10 15:55:33,953 [INFO] S1: Asian range built | High=4148.59 Low=4100.63 Range=$47.96
+2026-11-10 15:56:35,834 [INFO] S1: Asian range built | High=4148.59 Low=4100.63 Range=$47.96
+2026-11-10 15:56:35,834 [INFO] 🎯 SIGNAL: S3_Silver_Bullet BUY | Silver Bullet: Bullish FVG retest in NY_AM window
+2026-11-10 15:56:35,834 [INFO]   Position size: equity=$53330 risk=$533 ATR=12.46 → 10.0oz
+2026-11-10 15:56:36,141 [INFO] ✅ TRADE OPENED | BUY 10.0oz XAUUSD | SL=4024.77 TP=4080.83 | S3_Silver_Bullet
+2026-11-10 15:56:36,141 [INFO] ✅ TRADE OPENED | S3_Silver_Bullet BUY 10.0oz @ $4043.45 | SL=$4024.77 TP1=$4071.48 TP2=$4080.83
+2026-11-10 16:23:25,420 [INFO] Trade recorded | PnL=$-18775.05 | Daily=1 | Daily PnL=$-18775.05
+2026-11-10 16:23:25,633 [INFO] Excel ✅ S3_Silver_Bullet BUY | net=$-18775.05 | result=LOSS
+2026-11-10 16:23:25,633 [INFO] 📊 TRADE CLOSED | S3_Silver_Bullet BUY | Exit=$4024.68 | PnL=$-18775.05 | LOSS
+2026-11-10 16:24:27,604 [INFO] ⏸ Skipping: Daily loss -35.2% — trading halted
+2026-11-10 16:25:29,456 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:26:31,364 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:27:33,264 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:28:35,124 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:29:36,982 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:30:38,821 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:31:40,896 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:32:42,756 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:33:44,608 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:34:46,469 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:35:48,379 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:36:50,241 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:37:52,077 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:38:53,960 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:39:56,028 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:40:57,954 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:41:59,863 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:43:01,724 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:44:03,754 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:45:05,715 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:46:07,655 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:47:09,516 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:48:11,597 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:49:13,438 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:50:15,278 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:51:17,142 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:52:19,025 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:52:30,350 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-10&end_date=2026-11-10&importance=high — trading allowed
+2026-11-10 16:52:30,350 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-10 16:53:20,901 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:54:22,748 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:55:24,616 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:56:26,455 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:57:28,306 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:58:30,175 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 16:59:32,037 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:00:34,016 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:01:35,879 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:02:37,734 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:03:39,622 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:04:41,498 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:05:43,353 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:06:45,190 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:07:47,034 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:08:48,898 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:09:50,760 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:10:52,707 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:11:54,708 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:12:56,560 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:13:58,409 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:15:00,269 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:16:02,391 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:17:04,273 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:18:06,282 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:19:08,140 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:20:10,032 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:21:11,880 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:22:13,731 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:23:15,558 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:24:17,511 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:25:19,396 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:26:21,238 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:27:23,106 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:28:24,984 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:29:26,855 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:30:28,707 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:31:30,581 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:32:32,422 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:33:34,276 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:34:36,110 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:35:37,946 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:36:39,900 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:37:41,752 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:38:43,623 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:39:45,482 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:40:47,439 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:41:49,281 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:42:51,144 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:43:53,060 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:44:55,037 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:45:56,889 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:46:58,745 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:48:00,598 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:49:02,461 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:50:04,307 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:51:06,203 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:52:08,061 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:52:32,071 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-10&end_date=2026-11-10&importance=high — trading allowed
+2026-11-10 17:52:32,072 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-10 17:53:09,917 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:54:11,790 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:55:13,628 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:56:15,569 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:57:17,420 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:58:19,247 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 17:59:21,103 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:00:23,133 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:01:25,634 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:02:27,666 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:03:29,510 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:04:31,451 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:05:33,278 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:06:35,155 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:07:37,023 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:08:39,053 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:09:40,977 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:10:42,801 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:11:44,663 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:12:46,673 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:13:48,528 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:14:50,363 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:15:52,218 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:16:54,285 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:17:56,171 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:18:58,006 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:19:59,878 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:21:01,749 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:22:03,689 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:23:05,558 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:24:07,518 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:25:09,463 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:26:11,345 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:27:13,184 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:28:15,021 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:29:16,871 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:30:18,727 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:31:20,572 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:32:22,496 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:33:24,326 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:34:26,184 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:35:28,048 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:36:29,909 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:37:31,802 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:38:33,679 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:39:35,539 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:40:37,406 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:41:39,322 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:42:41,167 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:43:43,021 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:44:44,861 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:45:46,779 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:46:48,627 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:47:50,504 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:48:52,639 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:49:54,473 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:50:56,320 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:51:58,186 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:52:32,115 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-10&end_date=2026-11-10&importance=high — trading allowed
+2026-11-10 18:52:32,115 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-10 18:53:00,143 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:54:02,064 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:55:03,974 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:56:05,899 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:57:07,928 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:58:09,815 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 18:59:11,673 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:00:13,526 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:01:15,556 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:02:17,404 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:03:19,226 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:04:21,071 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:05:22,973 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:06:24,831 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:07:26,701 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:08:28,540 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:09:30,535 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:10:32,383 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:11:34,234 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:12:36,074 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:13:37,901 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:14:39,740 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:15:41,598 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:16:43,442 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:17:45,386 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:18:47,289 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:19:49,134 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:20:50,992 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:21:52,944 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:22:54,844 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:23:56,727 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:24:58,572 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:26:00,463 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:27:02,309 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:28:04,189 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:29:06,094 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:30:07,941 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:31:09,894 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:32:11,765 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:33:13,783 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:34:15,631 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:35:17,491 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:36:19,344 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:37:21,319 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:38:23,277 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:39:25,126 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:40:26,953 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:41:28,912 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:42:30,772 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:43:32,614 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:44:34,463 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:45:36,452 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:46:38,308 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:47:40,144 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:48:41,962 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:49:43,806 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:50:45,649 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:51:47,499 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:52:32,166 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-10&end_date=2026-11-10&importance=high — trading allowed
+2026-11-10 19:52:32,167 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-10 19:52:49,357 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:53:51,299 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:54:53,141 [INFO] ⏸ Skipping: Daily loss limit hit — halted for today
+2026-11-10 19:55:00,484 [INFO] 🏁 EOD: Closing all positions...
+2026-11-10 19:55:00,485 [INFO] ✅ Daily risk counters reset
+2026-11-10 19:55:00,485 [INFO] ✅ EOD complete
+2026-11-10 19:55:54,977 [INFO] ⏸ Skipping: Weekly loss -35.3% — trading halted for week
+2026-11-10 19:56:56,840 [INFO] ⏸ Skipping: Weekly loss -35.3% — trading halted for week
+2026-11-10 19:57:58,710 [INFO] ⏸ Skipping: Weekly loss -35.3% — trading halted for week
+2026-11-10 19:59:00,559 [INFO] ⏸ Skipping: Weekly loss -35.3% — trading halted for week
+2026-11-10 20:00:02,399 [INFO] ⏸ Skipping: Outside trading window (01:30 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:01:04,231 [INFO] ⏸ Skipping: Outside trading window (01:31 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:02:06,298 [INFO] ⏸ Skipping: Outside trading window (01:32 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:03:08,157 [INFO] ⏸ Skipping: Outside trading window (01:33 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:04:09,996 [INFO] ⏸ Skipping: Outside trading window (01:34 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:05:11,842 [INFO] ⏸ Skipping: Outside trading window (01:35 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:06:13,662 [INFO] ⏸ Skipping: Outside trading window (01:36 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:07:15,496 [INFO] ⏸ Skipping: Outside trading window (01:37 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:08:17,358 [INFO] ⏸ Skipping: Outside trading window (01:38 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:09:19,207 [INFO] ⏸ Skipping: Outside trading window (01:39 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:10:21,174 [INFO] ⏸ Skipping: Outside trading window (01:40 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:11:23,013 [INFO] ⏸ Skipping: Outside trading window (01:41 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:12:24,863 [INFO] ⏸ Skipping: Outside trading window (01:42 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:13:26,693 [INFO] ⏸ Skipping: Outside trading window (01:43 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:14:28,610 [INFO] ⏸ Skipping: Outside trading window (01:44 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:15:30,467 [INFO] ⏸ Skipping: Outside trading window (01:45 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:16:32,292 [INFO] ⏸ Skipping: Outside trading window (01:46 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:17:34,152 [INFO] ⏸ Skipping: Outside trading window (01:47 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:18:35,991 [INFO] ⏸ Skipping: Outside trading window (01:48 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:19:37,828 [INFO] ⏸ Skipping: Outside trading window (01:49 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:20:39,686 [INFO] ⏸ Skipping: Outside trading window (01:50 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:21:41,946 [INFO] ⏸ Skipping: Outside trading window (01:51 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:22:43,787 [INFO] ⏸ Skipping: Outside trading window (01:52 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:23:45,684 [INFO] ⏸ Skipping: Outside trading window (01:53 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:24:47,540 [INFO] ⏸ Skipping: Outside trading window (01:54 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:25:49,419 [INFO] ⏸ Skipping: Outside trading window (01:55 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:26:51,299 [INFO] ⏸ Skipping: Outside trading window (01:56 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:27:53,160 [INFO] ⏸ Skipping: Outside trading window (01:57 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:28:54,998 [INFO] ⏸ Skipping: Outside trading window (01:58 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:29:56,965 [INFO] ⏸ Skipping: Outside trading window (01:59 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:30:58,787 [INFO] ⏸ Skipping: Outside trading window (02:00 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:32:00,632 [INFO] ⏸ Skipping: Outside trading window (02:02 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:33:02,464 [INFO] ⏸ Skipping: Outside trading window (02:03 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:34:04,382 [INFO] ⏸ Skipping: Outside trading window (02:04 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:35:06,376 [INFO] ⏸ Skipping: Outside trading window (02:05 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:36:08,216 [INFO] ⏸ Skipping: Outside trading window (02:06 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:37:10,040 [INFO] ⏸ Skipping: Outside trading window (02:07 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:38:11,964 [INFO] ⏸ Skipping: Outside trading window (02:08 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:39:13,809 [INFO] ⏸ Skipping: Outside trading window (02:09 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:40:15,630 [INFO] ⏸ Skipping: Outside trading window (02:10 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:41:17,460 [INFO] ⏸ Skipping: Outside trading window (02:11 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:42:19,424 [INFO] ⏸ Skipping: Outside trading window (02:12 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:43:21,339 [INFO] ⏸ Skipping: Outside trading window (02:13 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:44:23,182 [INFO] ⏸ Skipping: Outside trading window (02:14 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:45:25,035 [INFO] ⏸ Skipping: Outside trading window (02:15 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:46:26,928 [INFO] ⏸ Skipping: Outside trading window (02:16 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:47:28,791 [INFO] ⏸ Skipping: Outside trading window (02:17 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:48:30,623 [INFO] ⏸ Skipping: Outside trading window (02:18 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:49:32,482 [INFO] ⏸ Skipping: Outside trading window (02:19 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:50:34,315 [INFO] ⏸ Skipping: Outside trading window (02:20 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:51:36,149 [INFO] ⏸ Skipping: Outside trading window (02:21 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:52:32,804 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-10&end_date=2026-11-10&importance=high — trading allowed
+2026-11-10 20:52:32,805 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-10 20:52:37,991 [INFO] ⏸ Skipping: Outside trading window (02:22 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:53:39,828 [INFO] ⏸ Skipping: Outside trading window (02:23 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:54:41,728 [INFO] ⏸ Skipping: Outside trading window (02:24 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:55:43,663 [INFO] ⏸ Skipping: Outside trading window (02:25 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:56:45,521 [INFO] ⏸ Skipping: Outside trading window (02:26 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:57:47,383 [INFO] ⏸ Skipping: Outside trading window (02:27 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:58:49,272 [INFO] ⏸ Skipping: Outside trading window (02:28 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 20:59:51,129 [INFO] ⏸ Skipping: Outside trading window (02:29 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:00:52,978 [INFO] ⏸ Skipping: Outside trading window (02:30 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:01:54,826 [INFO] ⏸ Skipping: Outside trading window (02:31 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:02:56,650 [INFO] ⏸ Skipping: Outside trading window (02:32 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:03:58,489 [INFO] ⏸ Skipping: Outside trading window (02:33 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:05:00,323 [INFO] ⏸ Skipping: Outside trading window (02:35 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:06:02,177 [INFO] ⏸ Skipping: Outside trading window (02:36 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:07:04,006 [INFO] ⏸ Skipping: Outside trading window (02:37 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:08:05,861 [INFO] ⏸ Skipping: Outside trading window (02:38 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:09:07,714 [INFO] ⏸ Skipping: Outside trading window (02:39 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:10:09,744 [INFO] ⏸ Skipping: Outside trading window (02:40 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:11:11,614 [INFO] ⏸ Skipping: Outside trading window (02:41 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:12:13,455 [INFO] ⏸ Skipping: Outside trading window (02:42 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:13:15,307 [INFO] ⏸ Skipping: Outside trading window (02:43 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:14:17,296 [INFO] ⏸ Skipping: Outside trading window (02:44 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:15:19,145 [INFO] ⏸ Skipping: Outside trading window (02:45 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:16:20,976 [INFO] ⏸ Skipping: Outside trading window (02:46 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:17:22,822 [INFO] ⏸ Skipping: Outside trading window (02:47 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:18:24,698 [INFO] ⏸ Skipping: Outside trading window (02:48 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:19:26,548 [INFO] ⏸ Skipping: Outside trading window (02:49 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:20:28,385 [INFO] ⏸ Skipping: Outside trading window (02:50 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:21:28,391 [INFO] 🔄 Session expiring — refreshing...
+2026-11-10 21:21:28,458 [INFO] 🔄 Session expiring — refreshing...
+2026-11-10 21:21:28,704 [ERROR] ❌ Session creation failed (attempt 1): 429 Client Error:  for url: https://demo-api-capital.backend-capital.com/api/v1/session
+2026-11-10 21:21:28,704 [INFO]    Retrying in 2s...
+2026-11-10 21:21:28,752 [INFO] ✅ Capital.com session created
+2026-11-10 21:21:30,587 [INFO] ⏸ Skipping: Outside trading window (02:51 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:21:31,078 [INFO] ✅ Capital.com session created
+2026-11-10 21:22:32,529 [INFO] ⏸ Skipping: Outside trading window (02:52 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:23:34,376 [INFO] ⏸ Skipping: Outside trading window (02:53 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:24:36,274 [INFO] ⏸ Skipping: Outside trading window (02:54 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:25:38,100 [INFO] ⏸ Skipping: Outside trading window (02:55 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:26:39,963 [INFO] ⏸ Skipping: Outside trading window (02:56 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:27:41,836 [INFO] ⏸ Skipping: Outside trading window (02:57 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:28:43,657 [INFO] ⏸ Skipping: Outside trading window (02:58 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:29:45,481 [INFO] ⏸ Skipping: Outside trading window (02:59 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:30:47,419 [INFO] ⏸ Skipping: Outside trading window (03:00 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:31:49,262 [INFO] ⏸ Skipping: Outside trading window (03:01 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:32:51,095 [INFO] ⏸ Skipping: Outside trading window (03:02 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:33:53,005 [INFO] ⏸ Skipping: Outside trading window (03:03 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:34:54,893 [INFO] ⏸ Skipping: Outside trading window (03:04 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:35:56,721 [INFO] ⏸ Skipping: Outside trading window (03:05 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:36:58,570 [INFO] ⏸ Skipping: Outside trading window (03:06 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:38:00,400 [INFO] ⏸ Skipping: Outside trading window (03:08 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:39:02,274 [INFO] ⏸ Skipping: Outside trading window (03:09 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:40:04,104 [INFO] ⏸ Skipping: Outside trading window (03:10 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:41:05,952 [INFO] ⏸ Skipping: Outside trading window (03:11 IST) | Weekly loss -35.3% — trading halted for week
+2026-11-10 21:42:07,758 [INFO] ⏸ Skipping: Outside trading window (03:12 IST) | Weekly loss -35.3% — trading halted for week
