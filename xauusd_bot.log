@@ -51118,3 +51118,372 @@
 2026-11-11 21:27:35,141 [INFO] ⏸ Skipping: Outside trading window (02:57 IST)
 2026-11-11 21:28:37,336 [INFO] ⏸ Skipping: Outside trading window (02:58 IST)
 2026-11-11 21:29:39,676 [INFO] ⏸ Skipping: Outside trading window (02:59 IST)
+2026-11-11 21:35:32,614 [INFO] ✅ Capital.com session created
+2026-11-11 21:35:32,615 [INFO] ✅ Daily risk counters reset
+2026-11-11 21:35:32,615 [INFO] ✅ Weekly risk counters reset
+2026-11-11 21:35:32,616 [INFO] ✅ State restored from xauusd_state.json (timestamp: 2026-11-12T02:59:39.680496+05:30)
+2026-11-11 21:35:32,617 [INFO] ✅ XAUUSDBot initialized — 3 strategies loaded
+2026-11-11 21:35:32,617 [INFO]    S1: Asian Range Breakout | S2: Goldmine | S3: Silver Bullet
+2026-11-11 21:35:32,617 [INFO] 🚀 XAUUSD Bot started — monitoring 3 strategies
+2026-11-11 21:35:32,617 [INFO]    Trading days: Tue/Wed/Thu | Session: 1:30 PM – 1:30 AM IST
+2026-11-11 21:35:32,618 [INFO] EOD watchdog + supervisor started
+2026-11-11 21:35:32,620 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://10.1.0.116:5051
+2026-11-11 21:35:32,620 [INFO] [33mPress CTRL+C to quit[0m
+2026-11-11 21:35:34,521 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-11&end_date=2026-11-11&importance=high — trading allowed
+2026-11-11 21:35:34,522 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-11 21:35:34,826 [INFO] ⏸ Skipping: Outside trading window (03:05 IST)
+2026-11-11 21:36:36,691 [INFO] ⏸ Skipping: Outside trading window (03:06 IST)
+2026-11-11 21:37:38,676 [INFO] ⏸ Skipping: Outside trading window (03:07 IST)
+2026-11-11 21:38:40,526 [INFO] ⏸ Skipping: Outside trading window (03:08 IST)
+2026-11-11 21:39:42,382 [INFO] ⏸ Skipping: Outside trading window (03:09 IST)
+2026-11-11 21:40:44,249 [INFO] ⏸ Skipping: Outside trading window (03:10 IST)
+2026-11-11 21:41:46,176 [INFO] ⏸ Skipping: Outside trading window (03:11 IST)
+2026-11-11 21:42:48,039 [INFO] ⏸ Skipping: Outside trading window (03:12 IST)
+2026-11-11 21:43:49,896 [INFO] ⏸ Skipping: Outside trading window (03:13 IST)
+2026-11-11 21:44:51,755 [INFO] ⏸ Skipping: Outside trading window (03:14 IST)
+2026-11-11 21:45:53,616 [INFO] ⏸ Skipping: Outside trading window (03:15 IST)
+2026-11-11 21:46:55,484 [INFO] ⏸ Skipping: Outside trading window (03:16 IST)
+2026-11-11 21:47:57,342 [INFO] ⏸ Skipping: Outside trading window (03:17 IST)
+2026-11-11 21:48:59,212 [INFO] ⏸ Skipping: Outside trading window (03:18 IST)
+2026-11-11 21:50:01,072 [INFO] ⏸ Skipping: Outside trading window (03:20 IST)
+2026-11-11 21:51:02,942 [INFO] ⏸ Skipping: Outside trading window (03:21 IST)
+2026-11-11 21:52:04,800 [INFO] ⏸ Skipping: Outside trading window (03:22 IST)
+2026-11-11 21:53:06,775 [INFO] ⏸ Skipping: Outside trading window (03:23 IST)
+2026-11-11 21:54:08,629 [INFO] ⏸ Skipping: Outside trading window (03:24 IST)
+2026-11-11 21:55:10,495 [INFO] ⏸ Skipping: Outside trading window (03:25 IST)
+2026-11-11 21:56:12,358 [INFO] ⏸ Skipping: Outside trading window (03:26 IST)
+2026-11-11 21:57:14,475 [INFO] ⏸ Skipping: Outside trading window (03:27 IST)
+2026-11-11 21:58:16,326 [INFO] ⏸ Skipping: Outside trading window (03:28 IST)
+2026-11-11 21:59:18,184 [INFO] ⏸ Skipping: Outside trading window (03:29 IST)
+2026-11-11 22:00:20,050 [INFO] ⏸ Skipping: Dead zone (03:30 IST) — low liquidity
+2026-11-11 22:01:22,093 [INFO] ⏸ Skipping: Dead zone (03:31 IST) — low liquidity
+2026-11-11 22:02:23,964 [INFO] ⏸ Skipping: Dead zone (03:32 IST) — low liquidity
+2026-11-11 22:03:25,826 [INFO] ⏸ Skipping: Dead zone (03:33 IST) — low liquidity
+2026-11-11 22:04:27,772 [INFO] ⏸ Skipping: Dead zone (03:34 IST) — low liquidity
+2026-11-11 22:05:29,780 [INFO] ⏸ Skipping: Dead zone (03:35 IST) — low liquidity
+2026-11-11 22:06:31,661 [INFO] ⏸ Skipping: Dead zone (03:36 IST) — low liquidity
+2026-11-11 22:07:33,685 [INFO] ⏸ Skipping: Dead zone (03:37 IST) — low liquidity
+2026-11-11 22:08:35,549 [INFO] ⏸ Skipping: Dead zone (03:38 IST) — low liquidity
+2026-11-11 22:09:37,545 [INFO] ⏸ Skipping: Dead zone (03:39 IST) — low liquidity
+2026-11-11 22:10:39,393 [INFO] ⏸ Skipping: Dead zone (03:40 IST) — low liquidity
+2026-11-11 22:11:41,271 [INFO] ⏸ Skipping: Dead zone (03:41 IST) — low liquidity
+2026-11-11 22:12:43,135 [INFO] ⏸ Skipping: Dead zone (03:42 IST) — low liquidity
+2026-11-11 22:13:45,203 [INFO] ⏸ Skipping: Dead zone (03:43 IST) — low liquidity
+2026-11-11 22:14:47,076 [INFO] ⏸ Skipping: Dead zone (03:44 IST) — low liquidity
+2026-11-11 22:15:48,965 [INFO] ⏸ Skipping: Dead zone (03:45 IST) — low liquidity
+2026-11-11 22:16:50,821 [INFO] ⏸ Skipping: Dead zone (03:46 IST) — low liquidity
+2026-11-11 22:17:52,705 [INFO] ⏸ Skipping: Dead zone (03:47 IST) — low liquidity
+2026-11-11 22:18:54,576 [INFO] ⏸ Skipping: Dead zone (03:48 IST) — low liquidity
+2026-11-11 22:19:56,422 [INFO] ⏸ Skipping: Dead zone (03:49 IST) — low liquidity
+2026-11-11 22:20:58,295 [INFO] ⏸ Skipping: Dead zone (03:50 IST) — low liquidity
+2026-11-11 22:22:00,143 [INFO] ⏸ Skipping: Dead zone (03:51 IST) — low liquidity
+2026-11-11 22:23:02,003 [INFO] ⏸ Skipping: Dead zone (03:53 IST) — low liquidity
+2026-11-11 22:24:03,880 [INFO] ⏸ Skipping: Dead zone (03:54 IST) — low liquidity
+2026-11-11 22:25:05,775 [INFO] ⏸ Skipping: Dead zone (03:55 IST) — low liquidity
+2026-11-11 22:26:07,650 [INFO] ⏸ Skipping: Dead zone (03:56 IST) — low liquidity
+2026-11-11 22:27:09,512 [INFO] ⏸ Skipping: Dead zone (03:57 IST) — low liquidity
+2026-11-11 22:28:11,381 [INFO] ⏸ Skipping: Dead zone (03:58 IST) — low liquidity
+2026-11-11 22:29:13,244 [INFO] ⏸ Skipping: Dead zone (03:59 IST) — low liquidity
+2026-11-11 22:30:15,172 [INFO] ⏸ Skipping: Dead zone (04:00 IST) — low liquidity
+2026-11-11 22:31:17,100 [INFO] ⏸ Skipping: Dead zone (04:01 IST) — low liquidity
+2026-11-11 22:32:18,970 [INFO] ⏸ Skipping: Dead zone (04:02 IST) — low liquidity
+2026-11-11 22:33:20,825 [INFO] ⏸ Skipping: Dead zone (04:03 IST) — low liquidity
+2026-11-11 22:34:22,675 [INFO] ⏸ Skipping: Dead zone (04:04 IST) — low liquidity
+2026-11-11 22:35:24,548 [INFO] ⏸ Skipping: Dead zone (04:05 IST) — low liquidity
+2026-11-11 22:35:35,682 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-11&end_date=2026-11-11&importance=high — trading allowed
+2026-11-11 22:35:35,683 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-11 22:36:26,406 [INFO] ⏸ Skipping: Dead zone (04:06 IST) — low liquidity
+2026-11-11 22:37:28,260 [INFO] ⏸ Skipping: Dead zone (04:07 IST) — low liquidity
+2026-11-11 22:38:30,226 [INFO] ⏸ Skipping: Dead zone (04:08 IST) — low liquidity
+2026-11-11 22:39:32,089 [INFO] ⏸ Skipping: Dead zone (04:09 IST) — low liquidity
+2026-11-11 22:40:33,974 [INFO] ⏸ Skipping: Dead zone (04:10 IST) — low liquidity
+2026-11-11 22:41:35,948 [INFO] ⏸ Skipping: Dead zone (04:11 IST) — low liquidity
+2026-11-11 22:42:37,810 [INFO] ⏸ Skipping: Dead zone (04:12 IST) — low liquidity
+2026-11-11 22:43:39,675 [INFO] ⏸ Skipping: Dead zone (04:13 IST) — low liquidity
+2026-11-11 22:44:41,543 [INFO] ⏸ Skipping: Dead zone (04:14 IST) — low liquidity
+2026-11-11 22:45:43,630 [INFO] ⏸ Skipping: Dead zone (04:15 IST) — low liquidity
+2026-11-11 22:46:45,484 [INFO] ⏸ Skipping: Dead zone (04:16 IST) — low liquidity
+2026-11-11 22:47:47,346 [INFO] ⏸ Skipping: Dead zone (04:17 IST) — low liquidity
+2026-11-11 22:48:49,224 [INFO] ⏸ Skipping: Dead zone (04:18 IST) — low liquidity
+2026-11-11 22:49:51,199 [INFO] ⏸ Skipping: Dead zone (04:19 IST) — low liquidity
+2026-11-11 22:50:53,101 [INFO] ⏸ Skipping: Dead zone (04:20 IST) — low liquidity
+2026-11-11 22:51:54,990 [INFO] ⏸ Skipping: Dead zone (04:21 IST) — low liquidity
+2026-11-11 22:52:56,861 [INFO] ⏸ Skipping: Dead zone (04:22 IST) — low liquidity
+2026-11-11 22:53:58,837 [INFO] ⏸ Skipping: Dead zone (04:23 IST) — low liquidity
+2026-11-11 22:55:00,702 [INFO] ⏸ Skipping: Dead zone (04:25 IST) — low liquidity
+2026-11-11 22:56:02,574 [INFO] ⏸ Skipping: Dead zone (04:26 IST) — low liquidity
+2026-11-11 22:57:04,450 [INFO] ⏸ Skipping: Dead zone (04:27 IST) — low liquidity
+2026-11-11 22:58:06,533 [INFO] ⏸ Skipping: Dead zone (04:28 IST) — low liquidity
+2026-11-11 22:59:08,453 [INFO] ⏸ Skipping: Dead zone (04:29 IST) — low liquidity
+2026-11-11 23:00:10,328 [INFO] ⏸ Skipping: Dead zone (04:30 IST) — low liquidity
+2026-11-11 23:01:12,198 [INFO] ⏸ Skipping: Dead zone (04:31 IST) — low liquidity
+2026-11-11 23:02:14,255 [INFO] ⏸ Skipping: Dead zone (04:32 IST) — low liquidity
+2026-11-11 23:03:16,110 [INFO] ⏸ Skipping: Dead zone (04:33 IST) — low liquidity
+2026-11-11 23:04:17,975 [INFO] ⏸ Skipping: Dead zone (04:34 IST) — low liquidity
+2026-11-11 23:05:19,832 [INFO] ⏸ Skipping: Dead zone (04:35 IST) — low liquidity
+2026-11-11 23:06:21,742 [INFO] ⏸ Skipping: Dead zone (04:36 IST) — low liquidity
+2026-11-11 23:07:23,612 [INFO] ⏸ Skipping: Dead zone (04:37 IST) — low liquidity
+2026-11-11 23:08:25,480 [INFO] ⏸ Skipping: Dead zone (04:38 IST) — low liquidity
+2026-11-11 23:09:27,340 [INFO] ⏸ Skipping: Dead zone (04:39 IST) — low liquidity
+2026-11-11 23:10:29,190 [INFO] ⏸ Skipping: Dead zone (04:40 IST) — low liquidity
+2026-11-11 23:11:31,060 [INFO] ⏸ Skipping: Dead zone (04:41 IST) — low liquidity
+2026-11-11 23:12:32,922 [INFO] ⏸ Skipping: Dead zone (04:42 IST) — low liquidity
+2026-11-11 23:13:34,806 [INFO] ⏸ Skipping: Dead zone (04:43 IST) — low liquidity
+2026-11-11 23:14:36,679 [INFO] ⏸ Skipping: Dead zone (04:44 IST) — low liquidity
+2026-11-11 23:15:38,538 [INFO] ⏸ Skipping: Dead zone (04:45 IST) — low liquidity
+2026-11-11 23:16:40,415 [INFO] ⏸ Skipping: Dead zone (04:46 IST) — low liquidity
+2026-11-11 23:17:42,278 [INFO] ⏸ Skipping: Dead zone (04:47 IST) — low liquidity
+2026-11-11 23:18:44,136 [INFO] ⏸ Skipping: Dead zone (04:48 IST) — low liquidity
+2026-11-11 23:19:46,002 [INFO] ⏸ Skipping: Dead zone (04:49 IST) — low liquidity
+2026-11-11 23:20:47,882 [INFO] ⏸ Skipping: Dead zone (04:50 IST) — low liquidity
+2026-11-11 23:21:49,761 [INFO] ⏸ Skipping: Dead zone (04:51 IST) — low liquidity
+2026-11-11 23:22:51,616 [INFO] ⏸ Skipping: Dead zone (04:52 IST) — low liquidity
+2026-11-11 23:23:53,537 [INFO] ⏸ Skipping: Dead zone (04:53 IST) — low liquidity
+2026-11-11 23:24:55,401 [INFO] ⏸ Skipping: Dead zone (04:54 IST) — low liquidity
+2026-11-11 23:25:57,252 [INFO] ⏸ Skipping: Dead zone (04:55 IST) — low liquidity
+2026-11-11 23:26:59,127 [INFO] ⏸ Skipping: Dead zone (04:56 IST) — low liquidity
+2026-11-11 23:28:01,033 [INFO] ⏸ Skipping: Dead zone (04:58 IST) — low liquidity
+2026-11-11 23:29:02,899 [INFO] ⏸ Skipping: Dead zone (04:59 IST) — low liquidity
+2026-11-11 23:30:04,927 [INFO] ⏸ Skipping: Dead zone (05:00 IST) — low liquidity
+2026-11-11 23:31:07,008 [INFO] ⏸ Skipping: Dead zone (05:01 IST) — low liquidity
+2026-11-11 23:32:08,858 [INFO] ⏸ Skipping: Dead zone (05:02 IST) — low liquidity
+2026-11-11 23:33:10,729 [INFO] ⏸ Skipping: Dead zone (05:03 IST) — low liquidity
+2026-11-11 23:34:12,884 [INFO] ⏸ Skipping: Dead zone (05:04 IST) — low liquidity
+2026-11-11 23:35:14,774 [INFO] ⏸ Skipping: Dead zone (05:05 IST) — low liquidity
+2026-11-11 23:35:38,077 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-11&end_date=2026-11-11&importance=high — trading allowed
+2026-11-11 23:35:38,078 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-11 23:36:16,654 [INFO] ⏸ Skipping: Dead zone (05:06 IST) — low liquidity
+2026-11-11 23:37:18,534 [INFO] ⏸ Skipping: Dead zone (05:07 IST) — low liquidity
+2026-11-11 23:38:20,493 [INFO] ⏸ Skipping: Dead zone (05:08 IST) — low liquidity
+2026-11-11 23:39:22,399 [INFO] ⏸ Skipping: Dead zone (05:09 IST) — low liquidity
+2026-11-11 23:40:24,253 [INFO] ⏸ Skipping: Dead zone (05:10 IST) — low liquidity
+2026-11-11 23:41:26,102 [INFO] ⏸ Skipping: Dead zone (05:11 IST) — low liquidity
+2026-11-11 23:42:28,085 [INFO] ⏸ Skipping: Dead zone (05:12 IST) — low liquidity
+2026-11-11 23:43:29,981 [INFO] ⏸ Skipping: Dead zone (05:13 IST) — low liquidity
+2026-11-11 23:44:31,873 [INFO] ⏸ Skipping: Dead zone (05:14 IST) — low liquidity
+2026-11-11 23:45:33,731 [INFO] ⏸ Skipping: Dead zone (05:15 IST) — low liquidity
+2026-11-11 23:46:35,651 [INFO] ⏸ Skipping: Dead zone (05:16 IST) — low liquidity
+2026-11-11 23:47:37,512 [INFO] ⏸ Skipping: Dead zone (05:17 IST) — low liquidity
+2026-11-11 23:48:39,377 [INFO] ⏸ Skipping: Dead zone (05:18 IST) — low liquidity
+2026-11-11 23:49:41,250 [INFO] ⏸ Skipping: Dead zone (05:19 IST) — low liquidity
+2026-11-11 23:50:43,114 [INFO] ⏸ Skipping: Dead zone (05:20 IST) — low liquidity
+2026-11-11 23:51:44,968 [INFO] ⏸ Skipping: Dead zone (05:21 IST) — low liquidity
+2026-11-11 23:52:46,816 [INFO] ⏸ Skipping: Dead zone (05:22 IST) — low liquidity
+2026-11-11 23:53:48,692 [INFO] ⏸ Skipping: Dead zone (05:23 IST) — low liquidity
+2026-11-11 23:54:50,661 [INFO] ⏸ Skipping: Dead zone (05:24 IST) — low liquidity
+2026-11-11 23:55:52,501 [INFO] ⏸ Skipping: Dead zone (05:25 IST) — low liquidity
+2026-11-11 23:56:54,361 [INFO] ⏸ Skipping: Dead zone (05:26 IST) — low liquidity
+2026-11-11 23:57:56,242 [INFO] ⏸ Skipping: Dead zone (05:27 IST) — low liquidity
+2026-11-11 23:58:58,138 [INFO] ⏸ Skipping: Dead zone (05:28 IST) — low liquidity
+2026-11-11 23:59:59,998 [INFO] ⏸ Skipping: Dead zone (05:29 IST) — low liquidity
+2026-11-12 00:01:01,602 [INFO] ✅ Daily risk counters reset
+2026-11-12 00:01:01,873 [INFO] ⏸ Skipping: Dead zone (05:31 IST) — low liquidity
+2026-11-12 00:02:03,749 [INFO] ⏸ Skipping: Dead zone (05:32 IST) — low liquidity
+2026-11-12 00:03:05,724 [INFO] ⏸ Skipping: Dead zone (05:33 IST) — low liquidity
+2026-11-12 00:04:07,571 [INFO] ⏸ Skipping: Dead zone (05:34 IST) — low liquidity
+2026-11-12 00:05:09,444 [INFO] ⏸ Skipping: Dead zone (05:35 IST) — low liquidity
+2026-11-12 00:06:11,319 [INFO] ⏸ Skipping: Dead zone (05:36 IST) — low liquidity
+2026-11-12 00:07:13,166 [INFO] ⏸ Skipping: Dead zone (05:37 IST) — low liquidity
+2026-11-12 00:08:15,052 [INFO] ⏸ Skipping: Dead zone (05:38 IST) — low liquidity
+2026-11-12 00:09:16,994 [INFO] ⏸ Skipping: Dead zone (05:39 IST) — low liquidity
+2026-11-12 00:10:18,856 [INFO] ⏸ Skipping: Dead zone (05:40 IST) — low liquidity
+2026-11-12 00:11:20,725 [INFO] ⏸ Skipping: Dead zone (05:41 IST) — low liquidity
+2026-11-12 00:12:22,587 [INFO] ⏸ Skipping: Dead zone (05:42 IST) — low liquidity
+2026-11-12 00:13:24,458 [INFO] ⏸ Skipping: Dead zone (05:43 IST) — low liquidity
+2026-11-12 00:14:26,501 [INFO] ⏸ Skipping: Dead zone (05:44 IST) — low liquidity
+2026-11-12 00:15:28,413 [INFO] ⏸ Skipping: Dead zone (05:45 IST) — low liquidity
+2026-11-12 00:16:30,310 [INFO] ⏸ Skipping: Dead zone (05:46 IST) — low liquidity
+2026-11-12 00:17:32,161 [INFO] ⏸ Skipping: Dead zone (05:47 IST) — low liquidity
+2026-11-12 00:18:34,098 [INFO] ⏸ Skipping: Dead zone (05:48 IST) — low liquidity
+2026-11-12 00:19:35,949 [INFO] ⏸ Skipping: Dead zone (05:49 IST) — low liquidity
+2026-11-12 00:20:37,817 [INFO] ⏸ Skipping: Dead zone (05:50 IST) — low liquidity
+2026-11-12 00:21:39,681 [INFO] ⏸ Skipping: Dead zone (05:51 IST) — low liquidity
+2026-11-12 00:22:41,575 [INFO] ⏸ Skipping: Dead zone (05:52 IST) — low liquidity
+2026-11-12 00:23:43,407 [INFO] ⏸ Skipping: Dead zone (05:53 IST) — low liquidity
+2026-11-12 00:24:45,263 [INFO] ⏸ Skipping: Dead zone (05:54 IST) — low liquidity
+2026-11-12 00:25:47,114 [INFO] ⏸ Skipping: Dead zone (05:55 IST) — low liquidity
+2026-11-12 00:26:49,138 [INFO] ⏸ Skipping: Dead zone (05:56 IST) — low liquidity
+2026-11-12 00:27:51,002 [INFO] ⏸ Skipping: Dead zone (05:57 IST) — low liquidity
+2026-11-12 00:28:52,904 [INFO] ⏸ Skipping: Dead zone (05:58 IST) — low liquidity
+2026-11-12 00:29:54,854 [INFO] ⏸ Skipping: Dead zone (05:59 IST) — low liquidity
+2026-11-12 00:30:56,984 [INFO] ⏸ Skipping: Dead zone (06:00 IST) — low liquidity
+2026-11-12 00:31:58,841 [INFO] ⏸ Skipping: Dead zone (06:01 IST) — low liquidity
+2026-11-12 00:33:00,752 [INFO] ⏸ Skipping: Dead zone (06:03 IST) — low liquidity
+2026-11-12 00:34:02,634 [INFO] ⏸ Skipping: Dead zone (06:04 IST) — low liquidity
+2026-11-12 00:35:04,540 [INFO] ⏸ Skipping: Dead zone (06:05 IST) — low liquidity
+2026-11-12 00:35:40,189 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-11&end_date=2026-11-11&importance=high — trading allowed
+2026-11-12 00:35:40,190 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-12 00:36:06,568 [INFO] ⏸ Skipping: Dead zone (06:06 IST) — low liquidity
+2026-11-12 00:37:08,428 [INFO] ⏸ Skipping: Dead zone (06:07 IST) — low liquidity
+2026-11-12 00:38:10,288 [INFO] ⏸ Skipping: Dead zone (06:08 IST) — low liquidity
+2026-11-12 00:39:12,125 [INFO] ⏸ Skipping: Dead zone (06:09 IST) — low liquidity
+2026-11-12 00:40:13,988 [INFO] ⏸ Skipping: Dead zone (06:10 IST) — low liquidity
+2026-11-12 00:41:15,841 [INFO] ⏸ Skipping: Dead zone (06:11 IST) — low liquidity
+2026-11-12 00:42:17,691 [INFO] ⏸ Skipping: Dead zone (06:12 IST) — low liquidity
+2026-11-12 00:43:19,565 [INFO] ⏸ Skipping: Dead zone (06:13 IST) — low liquidity
+2026-11-12 00:44:21,411 [INFO] ⏸ Skipping: Dead zone (06:14 IST) — low liquidity
+2026-11-12 00:45:23,271 [INFO] ⏸ Skipping: Dead zone (06:15 IST) — low liquidity
+2026-11-12 00:46:25,139 [INFO] ⏸ Skipping: Dead zone (06:16 IST) — low liquidity
+2026-11-12 00:47:26,992 [INFO] ⏸ Skipping: Dead zone (06:17 IST) — low liquidity
+2026-11-12 00:48:28,838 [INFO] ⏸ Skipping: Dead zone (06:18 IST) — low liquidity
+2026-11-12 00:49:30,690 [INFO] ⏸ Skipping: Dead zone (06:19 IST) — low liquidity
+2026-11-12 00:50:32,551 [INFO] ⏸ Skipping: Dead zone (06:20 IST) — low liquidity
+2026-11-12 00:51:34,467 [INFO] ⏸ Skipping: Dead zone (06:21 IST) — low liquidity
+2026-11-12 00:52:36,328 [INFO] ⏸ Skipping: Dead zone (06:22 IST) — low liquidity
+2026-11-12 00:53:38,200 [INFO] ⏸ Skipping: Dead zone (06:23 IST) — low liquidity
+2026-11-12 00:54:40,057 [INFO] ⏸ Skipping: Dead zone (06:24 IST) — low liquidity
+2026-11-12 00:55:41,904 [INFO] ⏸ Skipping: Dead zone (06:25 IST) — low liquidity
+2026-11-12 00:56:43,765 [INFO] ⏸ Skipping: Dead zone (06:26 IST) — low liquidity
+2026-11-12 00:57:45,647 [INFO] ⏸ Skipping: Dead zone (06:27 IST) — low liquidity
+2026-11-12 00:58:47,504 [INFO] ⏸ Skipping: Dead zone (06:28 IST) — low liquidity
+2026-11-12 00:59:49,375 [INFO] ⏸ Skipping: Dead zone (06:29 IST) — low liquidity
+2026-11-12 01:00:51,248 [INFO] ⏸ Skipping: Dead zone (06:30 IST) — low liquidity
+2026-11-12 01:01:53,206 [INFO] ⏸ Skipping: Dead zone (06:31 IST) — low liquidity
+2026-11-12 01:02:55,103 [INFO] ⏸ Skipping: Dead zone (06:32 IST) — low liquidity
+2026-11-12 01:03:57,032 [INFO] ⏸ Skipping: Dead zone (06:33 IST) — low liquidity
+2026-11-12 01:04:58,891 [INFO] ⏸ Skipping: Dead zone (06:34 IST) — low liquidity
+2026-11-12 01:06:00,758 [INFO] ⏸ Skipping: Dead zone (06:36 IST) — low liquidity
+2026-11-12 01:07:02,834 [INFO] ⏸ Skipping: Dead zone (06:37 IST) — low liquidity
+2026-11-12 01:08:04,704 [INFO] ⏸ Skipping: Dead zone (06:38 IST) — low liquidity
+2026-11-12 01:09:06,603 [INFO] ⏸ Skipping: Dead zone (06:39 IST) — low liquidity
+2026-11-12 01:10:08,462 [INFO] ⏸ Skipping: Dead zone (06:40 IST) — low liquidity
+2026-11-12 01:11:10,425 [INFO] ⏸ Skipping: Dead zone (06:41 IST) — low liquidity
+2026-11-12 01:12:12,294 [INFO] ⏸ Skipping: Dead zone (06:42 IST) — low liquidity
+2026-11-12 01:13:14,154 [INFO] ⏸ Skipping: Dead zone (06:43 IST) — low liquidity
+2026-11-12 01:14:16,003 [INFO] ⏸ Skipping: Dead zone (06:44 IST) — low liquidity
+2026-11-12 01:15:17,903 [INFO] ⏸ Skipping: Dead zone (06:45 IST) — low liquidity
+2026-11-12 01:16:19,778 [INFO] ⏸ Skipping: Dead zone (06:46 IST) — low liquidity
+2026-11-12 01:17:21,633 [INFO] ⏸ Skipping: Dead zone (06:47 IST) — low liquidity
+2026-11-12 01:18:23,536 [INFO] ⏸ Skipping: Dead zone (06:48 IST) — low liquidity
+2026-11-12 01:19:25,583 [INFO] ⏸ Skipping: Dead zone (06:49 IST) — low liquidity
+2026-11-12 01:20:27,445 [INFO] ⏸ Skipping: Dead zone (06:50 IST) — low liquidity
+2026-11-12 01:21:29,316 [INFO] ⏸ Skipping: Dead zone (06:51 IST) — low liquidity
+2026-11-12 01:22:31,170 [INFO] ⏸ Skipping: Dead zone (06:52 IST) — low liquidity
+2026-11-12 01:23:33,042 [INFO] ⏸ Skipping: Dead zone (06:53 IST) — low liquidity
+2026-11-12 01:24:34,948 [INFO] ⏸ Skipping: Dead zone (06:54 IST) — low liquidity
+2026-11-12 01:25:36,829 [INFO] ⏸ Skipping: Dead zone (06:55 IST) — low liquidity
+2026-11-12 01:26:38,704 [INFO] ⏸ Skipping: Dead zone (06:56 IST) — low liquidity
+2026-11-12 01:27:40,742 [INFO] ⏸ Skipping: Dead zone (06:57 IST) — low liquidity
+2026-11-12 01:28:42,677 [INFO] ⏸ Skipping: Dead zone (06:58 IST) — low liquidity
+2026-11-12 01:29:44,543 [INFO] ⏸ Skipping: Dead zone (06:59 IST) — low liquidity
+2026-11-12 01:30:46,413 [INFO] ⏸ Skipping: Dead zone (07:00 IST) — low liquidity
+2026-11-12 01:31:48,270 [INFO] ⏸ Skipping: Dead zone (07:01 IST) — low liquidity
+2026-11-12 01:32:50,140 [INFO] ⏸ Skipping: Dead zone (07:02 IST) — low liquidity
+2026-11-12 01:33:52,017 [INFO] ⏸ Skipping: Dead zone (07:03 IST) — low liquidity
+2026-11-12 01:34:54,024 [INFO] ⏸ Skipping: Dead zone (07:04 IST) — low liquidity
+2026-11-12 01:35:43,012 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-11&end_date=2026-11-11&importance=high — trading allowed
+2026-11-12 01:35:43,013 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-12 01:35:55,899 [INFO] ⏸ Skipping: Dead zone (07:05 IST) — low liquidity
+2026-11-12 01:36:57,745 [INFO] ⏸ Skipping: Dead zone (07:06 IST) — low liquidity
+2026-11-12 01:37:59,601 [INFO] ⏸ Skipping: Dead zone (07:07 IST) — low liquidity
+2026-11-12 01:39:01,500 [INFO] ⏸ Skipping: Dead zone (07:09 IST) — low liquidity
+2026-11-12 01:40:03,393 [INFO] ⏸ Skipping: Dead zone (07:10 IST) — low liquidity
+2026-11-12 01:41:05,329 [INFO] ⏸ Skipping: Dead zone (07:11 IST) — low liquidity
+2026-11-12 01:42:07,269 [INFO] ⏸ Skipping: Dead zone (07:12 IST) — low liquidity
+2026-11-12 01:43:09,146 [INFO] ⏸ Skipping: Dead zone (07:13 IST) — low liquidity
+2026-11-12 01:44:11,102 [INFO] ⏸ Skipping: Dead zone (07:14 IST) — low liquidity
+2026-11-12 01:45:12,945 [INFO] ⏸ Skipping: Dead zone (07:15 IST) — low liquidity
+2026-11-12 01:46:14,803 [INFO] ⏸ Skipping: Dead zone (07:16 IST) — low liquidity
+2026-11-12 01:47:16,760 [INFO] ⏸ Skipping: Dead zone (07:17 IST) — low liquidity
+2026-11-12 01:48:18,609 [INFO] ⏸ Skipping: Dead zone (07:18 IST) — low liquidity
+2026-11-12 01:49:20,469 [INFO] ⏸ Skipping: Dead zone (07:19 IST) — low liquidity
+2026-11-12 01:50:22,354 [INFO] ⏸ Skipping: Dead zone (07:20 IST) — low liquidity
+2026-11-12 01:51:24,377 [INFO] ⏸ Skipping: Dead zone (07:21 IST) — low liquidity
+2026-11-12 01:52:26,253 [INFO] ⏸ Skipping: Dead zone (07:22 IST) — low liquidity
+2026-11-12 01:53:28,146 [INFO] ⏸ Skipping: Dead zone (07:23 IST) — low liquidity
+2026-11-12 01:54:29,989 [INFO] ⏸ Skipping: Dead zone (07:24 IST) — low liquidity
+2026-11-12 01:55:32,042 [INFO] ⏸ Skipping: Dead zone (07:25 IST) — low liquidity
+2026-11-12 01:56:33,887 [INFO] ⏸ Skipping: Dead zone (07:26 IST) — low liquidity
+2026-11-12 01:57:35,772 [INFO] ⏸ Skipping: Dead zone (07:27 IST) — low liquidity
+2026-11-12 01:58:37,655 [INFO] ⏸ Skipping: Dead zone (07:28 IST) — low liquidity
+2026-11-12 01:59:39,528 [INFO] ⏸ Skipping: Dead zone (07:29 IST) — low liquidity
+2026-11-12 02:00:41,369 [INFO] ⏸ Skipping: Dead zone (07:30 IST) — low liquidity
+2026-11-12 02:01:43,234 [INFO] ⏸ Skipping: Dead zone (07:31 IST) — low liquidity
+2026-11-12 02:02:45,076 [INFO] ⏸ Skipping: Dead zone (07:32 IST) — low liquidity
+2026-11-12 02:03:47,006 [INFO] ⏸ Skipping: Dead zone (07:33 IST) — low liquidity
+2026-11-12 02:04:48,877 [INFO] ⏸ Skipping: Dead zone (07:34 IST) — low liquidity
+2026-11-12 02:05:50,765 [INFO] ⏸ Skipping: Dead zone (07:35 IST) — low liquidity
+2026-11-12 02:06:52,612 [INFO] ⏸ Skipping: Dead zone (07:36 IST) — low liquidity
+2026-11-12 02:07:54,583 [INFO] ⏸ Skipping: Dead zone (07:37 IST) — low liquidity
+2026-11-12 02:08:56,444 [INFO] ⏸ Skipping: Dead zone (07:38 IST) — low liquidity
+2026-11-12 02:09:58,280 [INFO] ⏸ Skipping: Dead zone (07:39 IST) — low liquidity
+2026-11-12 02:11:00,141 [INFO] ⏸ Skipping: Dead zone (07:40 IST) — low liquidity
+2026-11-12 02:12:02,009 [INFO] ⏸ Skipping: Dead zone (07:42 IST) — low liquidity
+2026-11-12 02:13:03,849 [INFO] ⏸ Skipping: Dead zone (07:43 IST) — low liquidity
+2026-11-12 02:14:05,767 [INFO] ⏸ Skipping: Dead zone (07:44 IST) — low liquidity
+2026-11-12 02:15:07,631 [INFO] ⏸ Skipping: Dead zone (07:45 IST) — low liquidity
+2026-11-12 02:16:09,524 [INFO] ⏸ Skipping: Dead zone (07:46 IST) — low liquidity
+2026-11-12 02:17:11,401 [INFO] ⏸ Skipping: Dead zone (07:47 IST) — low liquidity
+2026-11-12 02:18:13,259 [INFO] ⏸ Skipping: Dead zone (07:48 IST) — low liquidity
+2026-11-12 02:19:15,105 [INFO] ⏸ Skipping: Dead zone (07:49 IST) — low liquidity
+2026-11-12 02:20:17,047 [INFO] ⏸ Skipping: Dead zone (07:50 IST) — low liquidity
+2026-11-12 02:21:18,908 [INFO] ⏸ Skipping: Dead zone (07:51 IST) — low liquidity
+2026-11-12 02:22:20,764 [INFO] ⏸ Skipping: Dead zone (07:52 IST) — low liquidity
+2026-11-12 02:23:22,602 [INFO] ⏸ Skipping: Dead zone (07:53 IST) — low liquidity
+2026-11-12 02:24:24,461 [INFO] ⏸ Skipping: Dead zone (07:54 IST) — low liquidity
+2026-11-12 02:25:26,311 [INFO] ⏸ Skipping: Dead zone (07:55 IST) — low liquidity
+2026-11-12 02:26:28,165 [INFO] ⏸ Skipping: Dead zone (07:56 IST) — low liquidity
+2026-11-12 02:27:30,029 [INFO] ⏸ Skipping: Dead zone (07:57 IST) — low liquidity
+2026-11-12 02:28:31,867 [INFO] ⏸ Skipping: Dead zone (07:58 IST) — low liquidity
+2026-11-12 02:29:33,731 [INFO] ⏸ Skipping: Dead zone (07:59 IST) — low liquidity
+2026-11-12 02:30:35,604 [INFO] ⏸ Skipping: Dead zone (08:00 IST) — low liquidity
+2026-11-12 02:31:37,461 [INFO] ⏸ Skipping: Dead zone (08:01 IST) — low liquidity
+2026-11-12 02:32:39,312 [INFO] ⏸ Skipping: Dead zone (08:02 IST) — low liquidity
+2026-11-12 02:33:41,127 [INFO] ⏸ Skipping: Dead zone (08:03 IST) — low liquidity
+2026-11-12 02:34:42,978 [INFO] ⏸ Skipping: Dead zone (08:04 IST) — low liquidity
+2026-11-12 02:35:44,788 [WARNING] News calendar fetch failed: 404 Client Error: Not Found for url: https://api.twelvedata.com/economic_calendar?apikey=7f583a715cb14117826f85541da23fdf&start_date=2026-11-11&end_date=2026-11-11&importance=high — trading allowed
+2026-11-12 02:35:44,789 [INFO] 📰 News calendar refreshed — 0 events today
+2026-11-12 02:35:45,084 [INFO] ⏸ Skipping: Dead zone (08:05 IST) — low liquidity
+2026-11-12 02:36:46,932 [INFO] ⏸ Skipping: Dead zone (08:06 IST) — low liquidity
+2026-11-12 02:37:48,788 [INFO] ⏸ Skipping: Dead zone (08:07 IST) — low liquidity
+2026-11-12 02:38:50,653 [INFO] ⏸ Skipping: Dead zone (08:08 IST) — low liquidity
+2026-11-12 02:39:52,705 [INFO] ⏸ Skipping: Dead zone (08:09 IST) — low liquidity
+2026-11-12 02:40:54,576 [INFO] ⏸ Skipping: Dead zone (08:10 IST) — low liquidity
+2026-11-12 02:41:56,459 [INFO] ⏸ Skipping: Dead zone (08:11 IST) — low liquidity
+2026-11-12 02:42:58,300 [INFO] ⏸ Skipping: Dead zone (08:12 IST) — low liquidity
+2026-11-12 02:44:00,324 [INFO] ⏸ Skipping: Dead zone (08:14 IST) — low liquidity
+2026-11-12 02:45:02,203 [INFO] ⏸ Skipping: Dead zone (08:15 IST) — low liquidity
+2026-11-12 02:46:04,061 [INFO] ⏸ Skipping: Dead zone (08:16 IST) — low liquidity
+2026-11-12 02:47:05,922 [INFO] ⏸ Skipping: Dead zone (08:17 IST) — low liquidity
+2026-11-12 02:48:07,915 [INFO] ⏸ Skipping: Dead zone (08:18 IST) — low liquidity
+2026-11-12 02:49:09,790 [INFO] ⏸ Skipping: Dead zone (08:19 IST) — low liquidity
+2026-11-12 02:50:11,654 [INFO] ⏸ Skipping: Dead zone (08:20 IST) — low liquidity
+2026-11-12 02:51:13,512 [INFO] ⏸ Skipping: Dead zone (08:21 IST) — low liquidity
+2026-11-12 02:52:15,600 [INFO] ⏸ Skipping: Dead zone (08:22 IST) — low liquidity
+2026-11-12 02:53:17,459 [INFO] ⏸ Skipping: Dead zone (08:23 IST) — low liquidity
+2026-11-12 02:54:19,312 [INFO] ⏸ Skipping: Dead zone (08:24 IST) — low liquidity
+2026-11-12 02:55:21,174 [INFO] ⏸ Skipping: Dead zone (08:25 IST) — low liquidity
+2026-11-12 02:56:23,111 [INFO] ⏸ Skipping: Dead zone (08:26 IST) — low liquidity
+2026-11-12 02:57:24,956 [INFO] ⏸ Skipping: Dead zone (08:27 IST) — low liquidity
+2026-11-12 02:58:26,814 [INFO] ⏸ Skipping: Dead zone (08:28 IST) — low liquidity
+2026-11-12 02:59:28,699 [INFO] ⏸ Skipping: Dead zone (08:29 IST) — low liquidity
+2026-11-12 03:00:30,573 [INFO] ⏸ Skipping: Dead zone (08:30 IST) — low liquidity
+2026-11-12 03:01:32,411 [INFO] ⏸ Skipping: Dead zone (08:31 IST) — low liquidity
+2026-11-12 03:02:34,280 [INFO] ⏸ Skipping: Dead zone (08:32 IST) — low liquidity
+2026-11-12 03:03:36,153 [INFO] ⏸ Skipping: Dead zone (08:33 IST) — low liquidity
+2026-11-12 03:04:34,734 [INFO] 🔄 Session expiring — refreshing...
+2026-11-12 03:04:35,126 [INFO] ✅ Capital.com session created
+2026-11-12 03:04:38,056 [INFO] ⏸ Skipping: Dead zone (08:34 IST) — low liquidity
+2026-11-12 03:05:39,982 [INFO] ⏸ Skipping: Dead zone (08:35 IST) — low liquidity
+2026-11-12 03:06:41,827 [INFO] ⏸ Skipping: Dead zone (08:36 IST) — low liquidity
+2026-11-12 03:07:43,671 [INFO] ⏸ Skipping: Dead zone (08:37 IST) — low liquidity
+2026-11-12 03:08:45,527 [INFO] ⏸ Skipping: Dead zone (08:38 IST) — low liquidity
+2026-11-12 03:09:47,382 [INFO] ⏸ Skipping: Dead zone (08:39 IST) — low liquidity
+2026-11-12 03:10:49,253 [INFO] ⏸ Skipping: Dead zone (08:40 IST) — low liquidity
+2026-11-12 03:11:51,117 [INFO] ⏸ Skipping: Dead zone (08:41 IST) — low liquidity
+2026-11-12 03:12:53,009 [INFO] ⏸ Skipping: Dead zone (08:42 IST) — low liquidity
+2026-11-12 03:13:54,880 [INFO] ⏸ Skipping: Dead zone (08:43 IST) — low liquidity
+2026-11-12 03:14:56,762 [INFO] ⏸ Skipping: Dead zone (08:44 IST) — low liquidity
+2026-11-12 03:15:58,615 [INFO] ⏸ Skipping: Dead zone (08:45 IST) — low liquidity
+2026-11-12 03:17:00,488 [INFO] ⏸ Skipping: Dead zone (08:47 IST) — low liquidity
+2026-11-12 03:18:02,329 [INFO] ⏸ Skipping: Dead zone (08:48 IST) — low liquidity
+2026-11-12 03:19:04,178 [INFO] ⏸ Skipping: Dead zone (08:49 IST) — low liquidity
+2026-11-12 03:20:06,086 [INFO] ⏸ Skipping: Dead zone (08:50 IST) — low liquidity
+2026-11-12 03:21:08,085 [INFO] ⏸ Skipping: Dead zone (08:51 IST) — low liquidity
+2026-11-12 03:22:09,916 [INFO] ⏸ Skipping: Dead zone (08:52 IST) — low liquidity
+2026-11-12 03:23:11,764 [INFO] ⏸ Skipping: Dead zone (08:53 IST) — low liquidity
+2026-11-12 03:24:13,869 [INFO] ⏸ Skipping: Dead zone (08:54 IST) — low liquidity
+2026-11-12 03:25:15,748 [INFO] ⏸ Skipping: Dead zone (08:55 IST) — low liquidity
